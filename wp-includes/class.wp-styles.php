@@ -63,7 +63,7 @@ class WP_Styles extends WP_Dependencies {
 
 		$href = $this->_css_href( $obj->src, $ver, $handle );
 		$rel = isset($obj->extra['alt']) && $obj->extra['alt'] ? 'alternate stylesheet' : 'stylesheet';
-		$title = isset($obj->extra['title']) ? "title='" . esc_attr( $obj->extra['title'] ) . "'" : '';
+		$title = isset($obj->extra['title']) ? 'title="' . esc_attr( $obj->extra['title'] ) . '"' : '';
 
 		$end_cond = $tag = '';
 		if ( isset($obj->extra['conditional']) && $obj->extra['conditional'] ) {
@@ -71,7 +71,7 @@ class WP_Styles extends WP_Dependencies {
 			$end_cond = "<![endif]-->\n";
 		}
 
-		$tag .= apply_filters( 'style_loader_tag', "<link rel='$rel' id='$handle-css' $title href='$href' type='text/css' media='$media' />\n", $handle );
+		$tag .= apply_filters( 'style_loader_tag', "<link rel=\"$rel\" id=\"$handle-css\" $title href=\"$href\" type=\"text/css\" media=\"$media\" />\n", $handle );
 		if ( 'rtl' === $this->text_direction && isset($obj->extra['rtl']) && $obj->extra['rtl'] ) {
 			if ( is_bool( $obj->extra['rtl'] ) ) {
 				$suffix = isset( $obj->extra['suffix'] ) ? $obj->extra['suffix'] : '';
@@ -80,7 +80,7 @@ class WP_Styles extends WP_Dependencies {
 				$rtl_href = $this->_css_href( $obj->extra['rtl'], $ver, "$handle-rtl" );
 			}
 
-			$tag .= apply_filters( 'style_loader_tag', "<link rel='$rel' id='$handle-rtl-css' $title href='$rtl_href' type='text/css' media='$media' />\n", $handle );
+			$tag .= apply_filters( 'style_loader_tag', "<link rel=\"$rel\" id=\"$handle-rtl-css\" $title href=\"$rtl_href\" type=\"text/css\" media=\"$media\" />\n", $handle );
 		}
 
 		$tag .= $end_cond;
@@ -120,7 +120,7 @@ class WP_Styles extends WP_Dependencies {
 		if ( !$echo )
 			return $output;
 
-		echo "<style type='text/css'>\n";
+		echo "<style type=\"text/css\">\n";
 		echo "$output\n";
 		echo "</style>\n";
 

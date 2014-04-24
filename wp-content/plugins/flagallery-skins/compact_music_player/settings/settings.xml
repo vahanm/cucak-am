@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><panel title="Compact MP3 Player 1.0">	<item type="textInput" name="width">		<title><![CDATA[Width]]></title>		<maxChars>0</maxChars>		<restrict><![CDATA[0-9%]]></restrict>		<text><![CDATA[240]]></text>	</item>	<item type="textInput" name="height">		<title><![CDATA[Height]]></title>		<maxChars>0</maxChars>		<restrict><![CDATA[0-9%]]></restrict>		<text><![CDATA[90]]></text>	</item>	<item type="comboBox" name="property0">		<title><![CDATA[Flash Object WMode]]></title>		<description><![CDATA[If 'transparent' - "Background Color" option is ignored, but you can position the absolute elements over the flash.]]></description>		<data>			<label name="Window"><![CDATA[window]]></label>			<label name="Transparent"><![CDATA[transparent]]></label>			<label name="Opaque"><![CDATA[opaque]]></label>		</data>		<prompt><![CDATA[]]></prompt>		<rowCount>3</rowCount>		<value><![CDATA[transparent]]></value>	</item>	<item type="checkBox" name="autoPlay">		<title><![CDATA[AutoPlay option]]></title>		<description><![CDATA[]]></description>		<selected>true</selected>	</item>	<item type="colorPicker" name="property1">		<title><![CDATA[Background Color]]></title>		<description><![CDATA[]]></description>		<showTextField>true</showTextField>		<selectedColor>0xffffff</selectedColor>	</item>
+	<item type="colorPicker" name="property2">		<title><![CDATA[Bars Background Color]]></title>		<description><![CDATA[Background color for Control bar and Spectrum Analyzer bar.]]></description>		<showTextField>true</showTextField>		<selectedColor>0x3383a7</selectedColor>	</item>	<item type="colorPicker" name="property3">		<title><![CDATA[Main Content Color]]></title>		<description><![CDATA[Text, Buttons color.]]></description>		<showTextField>true</showTextField>		<selectedColor>0xffffff</selectedColor>	</item>	<item type="colorPicker" name="property4">		<title><![CDATA[Buttons Over Color]]></title>		<description><![CDATA[]]></description>		<showTextField>true</showTextField>		<selectedColor>0x143646</selectedColor>	</item><properties>
+  <property0><![CDATA[transparent]]></property0>
+  <property1>0xffffff</property1>
+  <property2>0x3383a7</property2>
+  <property3>0xffffff</property3>
+  <property4>0x143646</property4>
+  <property5>0x77b3ce</property5>
+  <property6>0x5e8ca1</property6>
+  <property7>0xffffff</property7>
+  <property8>0x000000</property8>
+  <property9><![CDATA[INFO]]></property9>
+  <width><![CDATA[240]]></width>
+  <height><![CDATA[90]]></height>
+  <autoPlay>true</autoPlay>
+</properties></panel>

@@ -1,0 +1,64 @@
+body.custom-background.body-special {
+    background: none;
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/221/resources/images/shiper1.png') center top repeat-y scroll
+            , url('//cucak.am/wp-content/plugins/ba-includes/authors/221/resources/images/back.jpg') center top fixed no-repeat;
+    background-color: #fff;
+}
+/*
+div#site-outer {
+    background: none;
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/221/resources/images/back-2.jpg') center top fixed no-repeat;
+    background-color: #fff;
+}
+    
+div#site-outer > * {
+    background: none;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+    */
+#site-wrapper {
+    opacity: 0.95;
+}
+
+
+body #site-logo {
+    display: none;
+}
+
+
+div#toTop {
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/221/resources/images/up.png') center no-repeat;
+    height: 85px;
+    width: 50px;
+    text-indent: -999px;
+    overflow: hidden;
+    border: none;
+}
+
+    div#toTop:hover {
+        background: url('//cucak.am/wp-content/plugins/ba-includes/authors/221/resources/images/up.png') center no-repeat;
+        -webkit-box-shadow: inset 0px 0px 20px #85FF00;
+        box-shadow: inset 0px 0px 20px #85FF00;
+        border-radius: 20px;
+    }
+
+body.custom-background.body-special .post-meta {
+    background: none;
+    border: none;
+}
+
+body .post {
+    -moz-transition: background 0.3s;
+    -o-transition: background 0.3s;
+    -webkit-transition: background 0.3s;
+    transition: background 0.3s;
+}
+
+    body .post:hover {
+        background: #fff;
+    }
+
+
+    #site-inner {
+        margin: 0;
+    }

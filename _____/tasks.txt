@@ -1,0 +1,285 @@
+///////////////////////////////////////////////////////////
+
+N O R   G A X A P A R N E R ///////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+view-i mej chack, radio, kam select-i vra paheluc tooltip bacvi, mejy cuyc ta mnacac bolor tarberaknery tuyl guynov nerkvac, isk arden nshvacnery mug. Da kogni hatkapes "other"-i depqi hamar, vor haskanan incheri mej a inqy othery
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+B A R E L A V U M N E R ///////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+---- unneeded ----- user-i example email-y etinch annnnnnnasun bana, dir example@cucak.am
+
+---- impossible --- mail-ery vor uxarkuma reg-i u moracman depqum, petqa aveli akuratni lini u nayev hayeren
+
+---- unneeded ----- nvirumy amenaarajinn a, vacharqy petq e berel araj
+
+--- senselessly --- dnel vor formayi asenq P tokosy chlracnelu depqum post anel chlini
+
+---- unneeded ----- aftoneri mej matori hzorutyuny greluc dziauji u kilovati nshelu tex a petq
+
+---- impossible --- tab-i mej add-um cuyc ta bajni anuny
+
+---- unneeded ----- petqa search-i mej nkar linel chlinelu pasty nshel lini
+
+--- senselessly --- report-i knopkaya petq lini amen haytararutyan u commenti vra, vor apr capr haytararutyunner u artahaytutyunner chanen, u et piti ananun lini(piti report anoxy chereva vochmekin)
+
+---- unneeded ----- vacharvac apranqneri vra erevan, vor vacharvac en
+
+---- impossible --- post-i mej vor arden nayum es, next u previous sxmeluc petqa vor henc ira entabajnum araj het ta, voch te asenq amboxj service-um
+
+--- senselessly --- gtnvac ireri mej petqa nvirum vacharq... chlini
+
+post nayelu jamanak et posti bajin mtnely petqa aveli tesaneli sarqel
+
+transporti mej erkiry dasavorel aybenakanov amen lezvi hamar
+
+avtoi, hagusti, u chgitem el vortexi add-i u filteri mej erkrneri hertakanutyuny amen lezvi hamar arandzin dnel
+
+avtoi vazqi filter a petq, vor miavor lini yntrel u slider kam tver grelu texer linen, sa piti drvi nayev tesaxciki hishoxutyan hamar
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+A V E L A C U M N E R /////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+---- impossible --- qartezi kpcnely tneri mej
+
+e-mail-i gaxtniutyun
+
+anvan gaxtniutyun
+
+Job-i nerqevum pntroxnery karoxanan CV toxnen
+
+---- unneeded ----- gorcakalutyan hamar petqa vor reg lineluc heto heraxosi hamarn el nshvi(mekel et hastat a, vor gorcakalutyuny misht ira hamarn a toxum, karox a inqy uxaki haytararelov a zbaxvum)
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+P O P O X U T Y U N N E R /////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+verjnakan paymanagrayiny petqa avtomat nshvac chlini
+
+permalink-ery amen texic petqa hanel, havayi bana, + et targmanel em karch nkaragrutyun, vorovhetev vren paheluc title-n a cuyc talis, bayc texer kan vor henc linki vraya uzum tani u ankap a ylnum
+
+view-i mej check-eri jamanak koxqnery storaket a dnum, erevi petq chi
+
+paymanagrajiny petq chi glxavorum, title-i koxqy yndgcvac lini, da voch mi aravelutyun chi, vor achqi ynkni!!!!!!!!!!!!!!!!!!!!!!!!!!(MERA ASELOV)
+
+nviratvutyuny petqa glxavorum, title-i koxqy yndgcvac lini!!!!!!!!!!!!!!!!!!!!!!!!!!(MERA ASELOV)
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+S X A L N E R /////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+
+
+
+---- unneeded ----- nkaragiry toxadardz chi linum!!!
+
+---- impossible --- mail-y junk a qcum
+
+ete cucaky shat erkar e linum, u ejy et pahin etqan erkarutyun chi unenum, menun kisat a bacvum
+
+ashxatanqi bajnum konkret filtr ashxatacneluc heto koruma koxqi menunery
+
+zoom arac jamanak mtel em hnavoch ireri bajin, u vacharqi vra sxmeluc chbacvec entamenun
+
+vardzakalman mej paymanagrayin sxmeluc, minimal jamkety hety veranum e
+
+elektronikayi mej herustacuyc/tnayin kinot-ic heto chi erevum
+
+text-eri mej link-i hnaravotutyun chka, texti meji link-y text a darel
+
+lezun poxeluc drvac filternery korum en
+
+max drac filteric heto min chi linum poxel (miqich djvara et vichaky stanal, bayc hastat defekt ka)
+
+komercion taracqi mej harkeri hamari filtery anorosh e
+
+hamakargchi mej monitori chapi vra hnaravor che ztich kirarel
+
+plansheti, monitori, herustacuyci resolution-i filtery chi drvac
+
+grancman ejum sxal ban greluc, bolor lracvacnery korum en
+
+ansharj guyqi filterneri mej makeresneri harcy teri e
+
+
+
+///////////////////////////////////////////////////////////
+
+A N H A S K A N A L I /////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+---- unneeded ----- menu-neri targmanutyunnery uxxel
+
+---- unneeded ----- render_salary(); funkcia chka!!!!!!!!!!!!!!!!!!!!!!!!!(chnayac indz ov er asel vor ka)
+
+--- senselessly --- vacharqi depqum filter dneluc ches kara filterneri cucakic hanes drvacy
+
+petqa miayn amisy nshelu hnaravorutyun
+
+verjin kety(content-y) petqa myusneri pes title-ov ereva, dzax koxmy grac lini Description/Additional information u nor grac lini
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+C O M P L A T E D /////////////////////////////////////////
+
+///////////////////////////////////////////////////////////
+
+
+
+ TV
+
+ render_check_key('heating_system') 
+
+ haytararutyan texadrman maximal jamket
+
+ cucakneric ban chnshelu depqum, view-i mej cuyc a talis error!!!!!!!!!
+
+ computer-i mej add-i mej dir vor RAM-i cavaly cuyc ta yst haryurerordakan chshtutyan, vor 0.25-y cuyc chta 0.3 (chnayac chgitem, eeeeqa patmutyun enq sarqel incha karanan mi hat 256Mb ram dnen)
+
+ link toxnelu standart tox a petq sarqel, bayc argument unena, vor karanas hanes
+
+ By Negotiation (paymanagrayin) in View
+
+ frequency ID-n poxel
+
+ yes/no petqa vor image-ner linen
+
+ slider-neri sahmanayin arjeqnery cuyc tan voch te arjeqy, ayl mer cankutyamb barer (orinak voch te 0, ayl no garage)
+
+ http avelacnely
+
+ success massage!!!
+
+ gas-i dirqy petq e bardzracnel(bayc ur?)
+
+ categories-i targmanutyunnery avelacnel
+
+ chack-erovy view-i mej muq e grum
+
+ aftoyi guynery sarqel en tuyn dzeverov
+
+ partadir ketery vor chlracnelu depqum beruma, chisht hertakanutyamb chi cuyc talis
+
+ partadir keteri funkiaya petq!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ Job-i ashxatavardz grly dzel(menak tiv lini grel, amis or jam xarn en, petqa dzel hertakanutyuny,  paymanagrayin, gorcarqayin petqa avelacnel)
+
+ vardzakalman minimal jamkety view-i mej chka
+
+ carayutyan gni hamar inch vor ban a petq
+
+ $error .= require_selection_of_one funkcian chi ashxatum!!!!!!!!! (nsheluc heto noric pahanjuma vor nshes)
+
+ chack meck-eri vra vor knopki nkara berum, et petqa dzel
+
+ ete partadir chi et kety, bayc greluc petqa esqan simvolic pakas chlini
+
+ petqa * nshi partadir keteri vra
+
+ avtoneri guyneri harcy kisat e
+
+ heraxosahamari taky jameri yntrutyun
+
+ ashxatavarcy glxavorum cuyc chi talis
+
+ iravabanakan / anhat
+
+ view-i mej title-nerin : nshany kpac chi
+
+ view-i mej verjaketnery heru en drvac
+
+ chnshvac keteri cherevalu funkciayi kariq ka
+
+ netbook-i vra title-i toxy ijnuma nerqev
+
+ view-i mej dnel vor ereva ditman qanaky
+
+ "Samsung" search aneluc, All Categories-n el a berum posti tesqov(bajinneri ejy)
+
+duymi "  nshany chem karum dnem, en hatuk nshanneri cucakic dneluc el menak slideri gluxnerin a dnum, verevy baraci kodn a cuyc talis, voch te " nshany
+
+petqa linum cucaky yst aybenakani sharel, bayc et hnaravor chi miqani lezvi patcharov, petqa inch vor funkcia, vory dnelov, arden tenc sharvi
+
+---- unneeded ----- add-i mej vor sxmum es et depi bolor bajinnery, tanuma tufta tex, petqa kam hanel, kam mtacel inch cuyc ta
+
+meqenayi modely chgrelu depqum berac karmir zgushacman vra sxmeluc chi tanum modeli masi vra
+
+view-i mej gni vra paheluc myus kurserov cuyc ta
+
+Word Press-i nshany reg-i u logout-i ejic hanel
+
+mijnorti keti harcy vonc piti lucvi? karcum em amen haytararutyan mej aftomat petqa drvi, uxaki grancvac mijnordakan kazmakerputyunneri hamar et aftomat knshvi ayo-i vra
+
+avtoneri mej dnel vor dzerqov mutqagren dziaujy, vor hnaravor lini cankacac tiv grel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

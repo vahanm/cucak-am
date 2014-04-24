@@ -1,0 +1,43 @@
+body.custom-background.body-special {
+    background: none;
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/130/resources/images/5.jpg') no-repeat left bottom fixed, url('//cucak.am/wp-content/plugins/ba-includes/authors/130/resources/images/2.jpg') no-repeat right bottom fixed;
+    background-color: #fff;
+}
+
+#site-wrapper {
+    opacity: 0.9;
+}
+
+#site-outer nav#top-nav {
+    background: rgb(0,183,234);
+    background: -moz-linear-gradient(top, rgba(0,183,234,1) 0%, rgba(0,158,195,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,183,234,1)), color-stop(100%,rgba(0,158,195,1)));
+    background: -webkit-linear-gradient(top, rgba(0,183,234,1) 0%,rgba(0,158,195,1) 100%);
+    background: -o-linear-gradient(top, rgba(0,183,234,1) 0%,rgba(0,158,195,1) 100%);
+    background: -ms-linear-gradient(top, rgba(0,183,234,1) 0%,rgba(0,158,195,1) 100%);
+    background: linear-gradient(to bottom, rgba(0,183,234,1) 0%,rgba(0,158,195,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 );
+    border-radius: 0px;
+    -webkit-box-shadow: 0px 0px 2px 2px #00B7EA;
+    box-shadow: 0px 0px 2px 2px #00B7EA;
+    margin-bottom: 5px;
+}
+
+div#site-outer {
+    -webkit-box-shadow: 0px 0px 2px 2px rgb(0,183,234);
+    box-shadow: 0px 0px 2px 2px rgb(0,183,234);
+}
+
+    div#site-outer .menu-item:not(.menu-item-active) a {
+        color: #fff;
+    }
+
+        
+body #site-logo {
+    display: none;
+}
+
+
+
+
+

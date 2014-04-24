@@ -1,0 +1,30 @@
+body.custom-background.body-special {
+    background: none;
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/202/resources/images/back.jpg') no-repeat center top fixed;
+    background-color: #fff;
+}
+
+#site-wrapper {
+    opacity: 0.9;
+}
+
+#site-outer nav#top-nav {
+    background: #c342ff;
+    background: -moz-linear-gradient(top, #c342ff 0%, #9756b7 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c342ff), color-stop(100%,#9756b7));
+    background: -webkit-linear-gradient(top, #c342ff 0%,#9756b7 100%);
+    background: -o-linear-gradient(top, #c342ff 0%,#9756b7 100%);
+    background: -ms-linear-gradient(top, #c342ff 0%,#9756b7 100%);
+    background: linear-gradient(to bottom, #c342ff 0%,#9756b7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c342ff', endColorstr='#9756b7',GradientType=0 );
+}
+
+div#site-outer {
+    -webkit-box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+    -moz-box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+    box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+}
+
+    div#site-outer .menu-item:not(.menu-item-active) a {
+        color: #fff;
+    }

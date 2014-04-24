@@ -1,0 +1,6 @@
+﻿body {
+}
+
+    body.custom-background.body-special {
+        background: url('//cucak.am/wp-content/plugins/ba-includes/authors/58/resources/images/back.jpg') no-repeat center bottom fixed;
+    }

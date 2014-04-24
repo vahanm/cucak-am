@@ -1,0 +1,330 @@
+﻿body {
+}
+
+
+/* ----------------------------------------------------------------------------------- */
+/*
+.cat-section
+{
+	text-align:center;
+}
+.cat-cont
+{
+	margin-bottom: 20px;
+	border: 1px solid #d6d6d6;
+	display:inline-block;
+}
+.cat-cont:hover
+{
+	border: 1px solid #5a7;
+}
+
+.cat-cont img
+{
+	display: none;
+}
+
+.cat-big
+{
+	width:600px;
+	height:186px;
+}
+.cat-big img
+{
+}
+.cat-big .cat-title
+{
+	font-size:180%;
+}
+
+.cat-middle
+{
+	width:290px;
+	height:186px;
+}
+.cat-middle img
+{
+}
+.cat-middle .cat-title
+{
+	font-size:160%;
+}
+
+.cat-small
+{
+	width:186px;
+	height:186px;
+}
+.cat-small img
+{
+}
+.cat-small .cat-title
+{
+	font-size:140%;
+}
+
+
+
+.cat-icons
+{
+	border: 0;
+	position: absolute;
+	display: none;
+}
+.cat-title
+{
+	color:#243;
+	font-weight:bold;
+	width:100%;
+	background-color: #ced;
+	opacity: 0.7;
+	padding: 4px 0px 4px 0px;
+	margin-bottom: 10px;
+}
+.cat-back-img
+{
+	position: absolute;
+}
+
+.cat-icons a.cat-link
+{
+	font-size: 120%;
+	padding: 10px;
+	border: 1px solid #383;
+	font-weight: bold;
+}
+.cat-icons a.cat-img-link
+{
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.cat-cont .cat-icons .cat-title
+{
+	border-bottom: 1px solid #383;
+}
+
+.cat-cont .cat-icons ul.cat-ul
+{
+	float: left;
+	text-align: left;
+	width: 45%;
+}
+
+
+
+*/
+
+
+/****************** Version 2 ***********************/
+/*
+.cat-link, .cat-link:hover, .cat-link:active, .cat-link:visited
+{
+	border: 0;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	width: 0px;
+	height: 0px;
+}
+*/
+.cat-section
+{
+	text-align: center;
+}
+
+.cat-item
+{
+	height: 120px;
+	position: relative;
+	border: 1px solid #555;
+	margin: 4px;
+	cursor: pointer;
+	display: inline-block;
+	--border-radius: 10px 0px 10px 0px;
+	text-align: left;
+}
+
+.cat-item:hover
+{
+	border: 2px solid #555;
+	margin: 3px;
+}
+
+.cat-item:active
+{
+	border: 3px solid #808080;
+	margin: 2px;
+}
+
+.cat-item .cat-title
+{
+	position: relative;
+	top: -10px;
+	left: 4px;
+	width: 90%;
+    font-size: 105%;
+}
+
+.cat-img
+{
+	position: relative;
+	width: 100px;
+	height: 100px;
+}
+
+.cat-group
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #CCCCCC;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+	text-align: left;
+	padding-bottom: 3px;
+}
+
+.cat-group div
+{
+	display: inline-block;
+}
+
+.cat-group-header
+{
+	font-family: 'Arial Unicode';
+	font-size: 20pt;
+	text-align: left;
+	color: #486659;
+	width: 725px;
+}
+
+.cat-group-link
+{
+	width: 200px;
+	height: 18px;
+	font-size: 10pt;
+	text-align: right;
+}
+
+
+/* Big */
+.cat-item-big
+{
+	width: 266px;
+}
+
+.cat-item-big .cat-img
+{
+	left: 84px;
+}
+
+/* Small */
+.cat-item-small
+{
+	width: 127px;
+}
+
+.cat-item-small .cat-img
+{
+	left: 14px;
+}
+
+/* Sub category */
+.cat-item-sub
+{
+	width: 220px;
+	height: 50px;
+}
+
+.cat-item-sub .cat-title
+{
+/*	width: 220px;
+	height: 50px; */
+	top: 15px;
+	left: 6px;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+	white-space: nowrap;
+	width: auto;
+}
+
+.cat-item-sub .cat-img
+{
+	/* left: 60px;	*/
+	left: 3px;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+/* Companions */
+.cat-item-comp
+{
+	width: 220px;
+}
+
+.cat-item-comp .cat-img
+{
+	left: 60px;
+}
+
+.cat-item-comp .cat-name
+{
+	position: relative;
+	top: -45px;
+	left: 4px;
+	width: 90%;
+	font-size: 120%;
+}
+
+.cat-count
+{
+	float: right;
+	margin-right: 5px;
+	font-weight: bold;
+}
+.cat-item-container
+{
+	display: inline-block;
+	position: relative;
+}
+.sub-categories-popup
+{
+	text-align: center;
+	display: none;
+	border: 3px double #469;
+	position: absolute;
+	background-color: #eee;
+	z-index: 1;
+	width: 945px;
+}
+.sub-arrow {
+	display: none;
+	width: 30px;
+	border-left: 1px solid #ddd;
+	height: 120px;
+	position: absolute;
+	z-index: 1;
+	right: 5px;
+	top: 5px;
+	background-color: #fff;
+	cursor: pointer;
+	background-image: url(http://cucak.am/wp-admin/images/sub-menu.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#showMorePartnersButton
+{
+	
+}
+
+#showMorePartnersButton:hover
+{
+	
+}
+
+#showMorePartnersButton:active
+{
+	
+}

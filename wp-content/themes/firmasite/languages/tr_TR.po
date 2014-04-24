@@ -1,0 +1,3109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FirmaSite v1.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-15 14:40:13+0000\n"
+"Last-Translator: admin <unsalkorkmaz@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions/init.php:22
+#@ firmasite
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: sidebar.php:12
+#@ firmasite
+msgid "Archives"
+msgstr "Arşivler"
+
+#: sidebar.php:19
+#@ firmasite
+msgid "Meta"
+msgstr ""
+
+#: templates/bbpress.php:11
+#: templates/post/loop_excerpt/loop.php:18
+#: templates/post/loop_list/loop-audio.php:20
+#: templates/post/loop_list/loop-gallery.php:19
+#: templates/post/loop_list/loop-image.php:19
+#: templates/post/loop_list/loop.php:18
+#: templates/post/single.php:9
+#, php-format
+#@ firmasite
+msgid "Permalink to %s"
+msgstr "%s sayfası"
+
+#: functions/showcase.php:228
+#: templates/bbpress.php:16
+#: templates/post/loop_list/loop-aside.php:19
+#: templates/post/loop_list/loop-audio.php:23
+#: templates/post/loop_list/loop-chat.php:19
+#: templates/post/loop_list/loop-image.php:24
+#: templates/post/loop_list/loop-link.php:19
+#: templates/post/loop_list/loop-quote.php:19
+#: templates/post/loop_list/loop-status.php:19
+#: templates/post/loop_list/loop-video.php:20
+#: templates/post/loop_list/loop.php:20
+#: templates/post/promotionbar/loop.php:17
+#: templates/post/showcase/loop.php:23
+#: templates/post/single.php:14
+#@ firmasite
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Devamını Oku <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/bbpress.php:17
+#: templates/post/loop_excerpt/loop.php:21
+#: templates/post/loop_list/loop-aside.php:20
+#: templates/post/loop_list/loop-audio.php:24
+#: templates/post/loop_list/loop-chat.php:20
+#: templates/post/loop_list/loop-gallery.php:22
+#: templates/post/loop_list/loop-image.php:26
+#: templates/post/loop_list/loop-link.php:20
+#: templates/post/loop_list/loop-quote.php:20
+#: templates/post/loop_list/loop-status.php:20
+#: templates/post/loop_list/loop-video.php:21
+#: templates/post/loop_list/loop.php:21
+#: templates/post/single.php:15
+#: templates/single-page.php:21
+#: templates/single_full-page.php:20
+#@ firmasite
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: templates/no-results.php:13
+#@ firmasite
+msgid "Nothing Found"
+msgstr "Hiçbir Şey Bulunamadı"
+
+#: templates/no-results.php:19
+#, php-format
+#@ firmasite
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: templates/no-results.php:23
+#@ firmasite
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, aradığınız kriterlere uygun içerik bulunamadı. Lütfen daha değişik kriterlerle tekrar deneyin."
+
+#: templates/no-results.php:28
+#@ firmasite
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız şeyi bulamıyoruz."
+
+#: page-full-width.php:9
+#@ firmasite
+msgid "Full Width"
+msgstr "Tam Sayfa"
+
+#: bbpress/loop-single-reply.php:59
+#: bbpress/user-details.php:54
+#: templates/post/loop_excerpt/loop.php:55
+#: templates/post/loop_list/loop-gallery.php:62
+#: templates/post/loop_list/loop-image.php:76
+#: templates/post/loop_list/loop.php:59
+#: templates/post/single.php:53
+#: templates/single-page.php:27
+#: templates/single_full-page.php:26
+#@ firmasite
+msgid "Edit"
+msgstr "Düzenle"
+
+#: functions/customizer.php:32
+#@ firmasite
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: functions/customizer.php:116
+#@ firmasite
+msgid "Logo"
+msgstr ""
+
+#: functions/customizer.php:131
+#@ firmasite
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: functions/customizer.php:144
+#@ firmasite
+msgid "Font"
+msgstr "Yazı Tipi"
+
+#: functions/customizer.php:162
+#@ firmasite
+msgid "Layout"
+msgstr "Site Düzeni"
+
+#: functions/customizer.php:166
+#@ firmasite
+msgid "Content - Sidebar"
+msgstr "İçerik - Site Kenarı"
+
+#: functions/customizer.php:167
+#@ firmasite
+msgid "Sidebar - Content"
+msgstr "Site Kenarı - İçerik"
+
+#: functions/customizer.php:186
+#@ firmasite
+msgid "Theme Style"
+msgstr "Tema Stili"
+
+#: functions/customizer-call.php:62
+#@ firmasite
+msgid "United"
+msgstr ""
+
+#: functions/customizer-call.php:50
+#@ firmasite
+msgid "Default"
+msgstr ""
+
+#: functions/customizer-call.php:51
+#@ firmasite
+msgid "Amelia"
+msgstr ""
+
+#: functions/customizer-call.php:52
+#@ firmasite
+msgid "Cerulean"
+msgstr ""
+
+#: functions/customizer-call.php:53
+#@ firmasite
+msgid "Cosmo"
+msgstr ""
+
+#: functions/customizer-call.php:54
+#@ firmasite
+msgid "Cyborg"
+msgstr ""
+
+#: functions/customizer-call.php:55
+#@ firmasite
+msgid "Journal"
+msgstr ""
+
+#: functions/customizer-call.php:56
+#@ firmasite
+msgid "Readable"
+msgstr ""
+
+#: functions/customizer-call.php:57
+#@ firmasite
+msgid "Simplex"
+msgstr ""
+
+#: functions/customizer-call.php:58
+#@ firmasite
+msgid "Slate"
+msgstr ""
+
+#: functions/customizer-call.php:59
+#@ firmasite
+msgid "Spacelab"
+msgstr ""
+
+#: functions/customizer-call.php:60
+#@ firmasite
+msgid "Spruce"
+msgstr ""
+
+#: functions/customizer-call.php:61
+#@ firmasite
+msgid "Superhero"
+msgstr ""
+
+#: functions/customizer.php:204
+#@ firmasite
+msgid "Please decide your preferred <strong>Theme Style</strong> under <strong>Theme Options</strong> first. Then you can change small color options here."
+msgstr "Lütfen önce <strong>Tema Seçenekleri</strong> içindeki tercih ettiğiniz <strong>Tema Stili</strong>ni seçiniz. Daha sonra buradaki küçük renk ayarlarını değiştirebilirsiniz."
+
+#: functions/customizer.php:217
+#@ firmasite
+msgid "Use alternative menu color"
+msgstr "Alternatif menü rengini kullan"
+
+#: functions/init.php:53
+#@ firmasite
+msgid "Sidebar"
+msgstr "Site Kenarı"
+
+#: functions/init.php:54
+#@ firmasite
+msgid "Widgets that shows in sidebar"
+msgstr "Site kenarında görünen bileşenler"
+
+#: functions/init.php:62
+#@ firmasite
+msgid "Footer"
+msgstr "Site Altı"
+
+#: functions/init.php:63
+#@ firmasite
+msgid "Widgets that shows in footer"
+msgstr "Site altında görünen bileşenler"
+
+#: comments.php:32
+#, php-format
+#@ firmasite
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s yorum;"
+
+#: comments.php:71
+#@ firmasite
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: functions/init.php:26
+#@ firmasite
+msgid "Footer Menu"
+msgstr "Site Altı Menüsü"
+
+#: functions/template-tags.php:85
+#@ firmasite
+msgid "Pingback:"
+msgstr "Geri Besleme:"
+
+#: functions/template-tags.php:112
+#, php-format
+#@ firmasite
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dedi ki:</span>"
+
+#: functions/template-tags.php:106
+#@ firmasite
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz kontrol için beklemededir."
+
+#. translators: 1: date, 2: time
+#: functions/template-tags.php:100
+#, php-format
+#@ firmasite
+msgid "%1$s at %2$s"
+msgstr "%2$s'de %1$s"
+
+#: templates/post/loop_excerpt/loop.php:43
+#: templates/post/loop_list/loop-gallery.php:50
+#: templates/post/loop_list/loop-image.php:64
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "Leave a comment"
+msgstr "Yorum Gönderin"
+
+#: templates/post/loop_excerpt/loop.php:43
+#: templates/post/loop_list/loop-gallery.php:50
+#: templates/post/loop_list/loop-image.php:64
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: templates/post/loop_excerpt/loop.php:43
+#: templates/post/loop_list/loop-gallery.php:50
+#: templates/post/loop_list/loop-image.php:64
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: activity/index.php:101
+#: members/single/activity.php:28
+#@ firmasite
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: functions/customizer.php:233
+#@ firmasite
+msgid "Theme Settings"
+msgstr "Tema Ayarları"
+
+#: functions/promotionbar.php:227
+#: functions/promotionbar.php:235
+#: functions/showcase.php:191
+#: functions/showcase.php:199
+#@ firmasite
+msgid "These settings will activate when you save changes and refresh this page."
+msgstr "Bu bölümdeki ayarlar, siz değişiklikleri kaydedip sayfayı yeniledikten sonra aktif olacaktır."
+
+#: functions/template-tags.php:38
+#@ firmasite
+msgctxt "Next post link"
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr ""
+
+#: functions/template-tags.php:39
+#@ firmasite
+msgctxt "Previous post link"
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr ""
+
+#: functions/custom-custom-css.php:15
+#@ firmasite
+msgid "Custom Css"
+msgstr "Özel Css"
+
+#: functions/custom-custom-css.php:21
+#@ firmasite
+msgid "You can change your site's appearance with custom css but if you are not sure what you doing, please ask for support"
+msgstr "Sitenizin dış görünüşünü özel css kodları ile değiştirebilirsiniz fakat css'i bilmiyorsanız lütfen destek isteyiniz"
+
+#: functions/custom-custom-css.php:22
+#@ firmasite
+msgid "Be Careful!"
+msgstr "Dikkat!"
+
+#: functions/promotionbar.php:127
+#@ firmasite
+msgid "Add to PromotionBar"
+msgstr "Tanıtım Barı'na Ekle"
+
+#: functions/showcase.php:92
+#@ firmasite
+msgid "Add to ShowCase"
+msgstr "Vitrin'e Ekle"
+
+#: functions/showcase.php:190
+#@ firmasite
+msgid "ShowCase"
+msgstr "Vitrin"
+
+#: functions/showcase.php:224
+#@ firmasite
+msgid "Current Call-to-Action text: "
+msgstr "Şu an kullanılan Eylem Çağrısı yazısı:"
+
+#: functions/showcase.php:231
+#@ firmasite
+msgid "If you are planning to use multiple ShowCase posts, try to choose a common text"
+msgstr "Eğer birden fazla vitrin gösterecekseniz, hepsine anlamlı olan bir yazı seçiniz"
+
+#: functions/showcase.php:250
+#@ firmasite
+msgid "Disable ShowCase feature"
+msgstr "Vitrin özelliğini Kapat"
+
+#: functions/template-tags.php:85
+#: functions/template-tags.php:102
+#@ firmasite
+msgid "<span class=\"edit-link\"><i class=\"icon-edit\"></i> Edit</span>"
+msgstr "<span class=\"edit-link\"><i class=\"icon-edit\"></i> Düzenle</span>"
+
+#: functions/showcase.php:210
+#@ firmasite
+msgid "Call-to-Action Text"
+msgstr "Eylem Çağrısı Yazısı"
+
+#: functions/customizer.php:101
+#@ firmasite
+msgid "You can create or manage menus from Menus page under Appearance"
+msgstr "Yönetim panelinizde Görünüm'ün altındaki Menüler bölümünden sitenizdeki menüleri yönetebilirsiniz"
+
+#: functions/customizer.php:101
+#@ firmasite
+msgid "Menus"
+msgstr "Menüler"
+
+#: functions/customizer.php:168
+#@ firmasite
+msgid "Only Content. No sidebar (Short)"
+msgstr "Sade İçerik. Site Kenarı Yok (Kısa)"
+
+#: functions/customizer.php:169
+#@ firmasite
+msgid "Only Content. No sidebar (Long)"
+msgstr "Sade İçerik. Site Kenarı Yok (Uzun)"
+
+#: functions/customizer.php:276
+#@ firmasite
+msgid "Responsive feature have special display style for different devices (from desktop computer monitors to mobile phones). This will remove responsive feature so your site will have same display in all devices."
+msgstr "Esneklik özelliği sitenizi kullanılan aygıtın ekranına göre ayarlar (cep telefonundan masaüstü bilgisayara kadar). Bu özelliği kaldırırsanız siteniz bütün aygıtlarda aynı görüntülenecektir."
+
+#: functions/promotionbar.php:226
+#@ firmasite
+msgid "Promotion Bar"
+msgstr "Tanıtım Barı"
+
+#: functions/promotionbar.php:246
+#@ firmasite
+msgid "Title"
+msgstr "Başlık"
+
+#: functions/promotionbar.php:260
+#@ firmasite
+msgid "If you leave it empty, it wont show title. Example titles: <b>Editor's Choise</b>, <b>Must Read List</b> "
+msgstr "Boş bırakırsanız, başlık gösterilmeyecektir. Örnek başlıklar: <b>Editör'ün Seçimi</b>, <b>Okunması Gerekenler</b>"
+
+#: functions/promotionbar.php:277
+#@ firmasite
+msgid "Where do you want to show Promotion Bar?"
+msgstr "Tanıtım Barı'nı nerede göstermek istiyorsunuz?"
+
+#: functions/promotionbar.php:282
+#@ firmasite
+msgid "Only Home Page"
+msgstr "Sadece Ana Sayfa'da"
+
+#: functions/promotionbar.php:283
+#@ firmasite
+msgid "All Site"
+msgstr "Bütün Sitede"
+
+#: functions/promotionbar.php:284
+#@ firmasite
+msgid "Remove Promotion Bar"
+msgstr "Gösterme. Tanıtım Barı'nı kaldır."
+
+#: functions/promotionbar.php:294
+#@ firmasite
+msgid "Which location do you want to show Promotion Bar?"
+msgstr "Tanıtım Barı'nın gösterim yeri neresi olsun?"
+
+#: functions/promotionbar.php:299
+#@ firmasite
+msgid "Before Content"
+msgstr "İçerik'ten önce"
+
+#: functions/promotionbar.php:301
+#@ firmasite
+msgid "In top of Sidebar"
+msgstr "Site Kenarında"
+
+#: functions/shortcodes.php:297
+#, php-format
+#@ firmasite
+msgid "This gallery contains %1$s photo."
+msgid_plural "This gallery contains %1$s photos."
+msgstr[0] "Bu galeride %1$s fotoğraf bulunmaktadır."
+
+#: functions/showcase.php:232
+#@ firmasite
+msgid "For example:"
+msgstr "Örneğin:"
+
+#: functions/showcase.php:233
+#@ firmasite
+msgid "Click for more details"
+msgstr "Detaylı bilgi için tıklayın"
+
+#: forums/forums-loop.php:54
+#: templates/bbpress.php:20
+#: templates/post/loop_excerpt/loop.php:24
+#: templates/post/loop_list/loop-aside.php:23
+#: templates/post/loop_list/loop-audio.php:28
+#: templates/post/loop_list/loop-chat.php:23
+#: templates/post/loop_list/loop-image.php:29
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop-link.php:23
+#: templates/post/loop_list/loop-quote.php:23
+#: templates/post/loop_list/loop-status.php:23
+#: templates/post/loop_list/loop-video.php:24
+#: templates/post/loop_list/loop.php:24
+#: templates/post/promotionbar/loop.php:21
+#: templates/post/single.php:18
+#: templates/single-page.php:24
+#: templates/single_full-page.php:23
+#@ firmasite
+msgid "Permalink"
+msgstr "Kalıcı Bağlantı"
+
+#: functions/customizer.php:270
+#@ firmasite
+msgid "Make fixed. No responsive"
+msgstr "Sabit yap. Esneklik olmasın."
+
+#: functions/showcase.php:263
+#@ firmasite
+msgid "ShowCase is displaying in your home page only."
+msgstr "Vitrin sadece ana sayfanızda gösterilmektedir."
+
+#: footer.php:42
+#@ firmasite
+msgid "Theme:"
+msgstr "Tasarım:"
+
+#: activity/activity-loop.php:41
+#@ firmasite
+msgid "Load More"
+msgstr "Daha Fazla Yükle"
+
+#: activity/activity-loop.php:55
+#@ firmasite
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Üzgünüz, herhangi bir etkinlik bulunamadı. Lütfen farklı bir filtre kullanmayı deneyin."
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: activity/comment.php:27
+#, php-format
+#@ firmasite
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr "<a href=\"%1$s\">%2$s</a> cevapladı <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: activity/comment.php:43
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#: members/single/messages/messages-loop.php:51
+#: members/single/messages/single.php:24
+#@ firmasite
+msgid "Delete"
+msgstr "Sil"
+
+#: activity/entry.php:37
+#@ firmasite
+msgid "In reply to: "
+msgstr "Cevap olarak:"
+
+#: activity/entry.php:37
+#@ firmasite
+msgid "View Thread / Permalink"
+msgstr "Görüntüleme Listesi"
+
+#: activity/entry.php:37
+#: functions/buddypress.php:29
+#@ firmasite
+msgid "View"
+msgstr "Görüntüle"
+
+#: activity/entry.php:60
+#, php-format
+#@ firmasite
+msgid "Comment <span>%s</span>"
+msgstr "Yorum <span>%s</span>"
+
+#: activity/entry.php:68
+#@ firmasite
+msgid "Mark as Favorite"
+msgstr "Favori Olarak İşaretle"
+
+#: activity/entry.php:68
+#: assets/_inc/ajax.php:481
+#: assets/_inc/ajax.php:498
+#: functions/buddypress.php:30
+#@ firmasite
+msgid "Favorite"
+msgstr "Favori"
+
+#: activity/entry.php:72
+#: assets/_inc/ajax.php:479
+#: assets/_inc/ajax.php:500
+#: functions/buddypress.php:31
+#@ firmasite
+msgid "Remove Favorite"
+msgstr "Favoriden Çıkar"
+
+#: activity/entry.php:104
+#@ firmasite
+msgid "Post"
+msgstr "Mesaj"
+
+#: activity/entry.php:104
+#@ firmasite
+msgid "or press esc to cancel."
+msgstr "yada iptal için esc tuşuna basınız."
+
+#: activity/index.php:22
+#@ firmasite
+msgid "Site Activity"
+msgstr "Site Aktvitesi"
+
+#: activity/index.php:40
+#@ firmasite
+msgid "The public activity for everyone on this site."
+msgstr "Bu sitedeki herkesin aktivite listesi."
+
+#: activity/index.php:40
+#: members/index.php:34
+#, php-format
+#@ firmasite
+msgid "All Members <span>%s</span>"
+msgstr "Bütün Üyeler <span>%s</span>"
+
+#: activity/index.php:50
+#@ firmasite
+msgid "The activity of my friends only."
+msgstr "Sadece arkadaşlarımın aktiviteleri."
+
+#: activity/index.php:50
+#: members/index.php:38
+#, php-format
+#@ firmasite
+msgid "My Friends <span>%s</span>"
+msgstr "Arkadaşlarım <span>%s</span>"
+
+#: activity/index.php:62
+#@ firmasite
+msgid "The activity of groups I am a member of."
+msgstr "Üyesi olduğum gruplardaki aktiviteler."
+
+#: activity/index.php:62
+#: groups/index.php:40
+#, php-format
+#@ firmasite
+msgid "My Groups <span>%s</span>"
+msgstr "Gruplarım <span>%s</span>"
+
+#: activity/index.php:72
+#@ firmasite
+msgid "The activity I've marked as a favorite."
+msgstr "Favori olarak işaretlediğim aktiviteler."
+
+#: activity/index.php:72
+#, php-format
+#@ firmasite
+msgid "My Favorites <span>%s</span>"
+msgstr "Favorilerim <span>%s</span>"
+
+#: activity/index.php:78
+#@ firmasite
+msgid "Activity that I have been mentioned in."
+msgstr "Hakkımda söylenti olan aktiviteler."
+
+#: activity/index.php:78
+#@ firmasite
+msgid "Mentions"
+msgstr "Söylentiler"
+
+#: activity/index.php:78
+#, php-format
+#@ firmasite
+msgid "<span>%s new</span>"
+msgstr "<span>%s yeni</span>"
+
+#: activity/index.php:88
+#: groups/single/activity.php:3
+#@ firmasite
+msgid "RSS Feed"
+msgstr "RSS Beslemesi"
+
+#: activity/index.php:88
+#: groups/single/activity.php:3
+#@ firmasite
+msgid "RSS"
+msgstr "RSS"
+
+#: activity/index.php:93
+#: groups/single/activity.php:8
+#: members/single/activity.php:18
+#@ firmasite
+msgid "Show:"
+msgstr "Göster:"
+
+#: activity/index.php:95
+#: groups/single/activity.php:10
+#: members/single/activity.php:20
+#@ firmasite
+msgid "Everything"
+msgstr "Herşeyi"
+
+#: activity/index.php:96
+#: groups/single/activity.php:11
+#: members/single/activity.php:21
+#@ firmasite
+msgid "Updates"
+msgstr "Güncellemeler"
+
+#: activity/index.php:100
+#: bbpress/loop-single-forum.php:52
+#: bbpress/loop-single-topic.php:58
+#: forums/forums-loop.php:40
+#: members/single/activity.php:27
+#@ firmasite
+msgid "Posts"
+msgstr "İletiler"
+
+#: activity/index.php:107
+#: groups/single/activity.php:14
+#: members/single/activity.php:43
+#@ firmasite
+msgid "Forum Topics"
+msgstr "Forum Konuları"
+
+#: activity/index.php:108
+#: groups/single/activity.php:15
+#: members/single/activity.php:44
+#@ firmasite
+msgid "Forum Replies"
+msgstr "Forum Cevapları"
+
+#: activity/index.php:114
+#: members/single/activity.php:50
+#@ firmasite
+msgid "New Groups"
+msgstr "Yeni Gruplar"
+
+#: activity/index.php:115
+#: groups/single/activity.php:18
+#: members/single/activity.php:51
+#@ firmasite
+msgid "Group Memberships"
+msgstr "Grup Üyelikleri"
+
+#: activity/index.php:121
+#: members/single/activity.php:35
+#@ firmasite
+msgid "Friendships"
+msgstr "Arkadaşlık"
+
+#: activity/index.php:125
+#@ firmasite
+msgid "New Members"
+msgstr "Yeni Üyeler"
+
+#: activity/post-form.php:23
+#, php-format
+#@ firmasite
+msgid "What's new in %s, %s?"
+msgstr "%s grubunda ne var ne yok %s?"
+
+#: activity/post-form.php:25
+#, php-format
+#@ firmasite
+msgid "What's new, %s?"
+msgstr "Ne var ne yok %s?"
+
+#: activity/post-form.php:40
+#@ firmasite
+msgid "Post Update"
+msgstr "Mesaj Güncelle"
+
+#: activity/post-form.php:47
+#@ firmasite
+msgid "Post in"
+msgstr "Burada Gönder"
+
+#: activity/post-form.php:50
+#: members/single/profile/profile-wp.php:8
+#@ firmasite
+msgid "My Profile"
+msgstr "Profilim"
+
+#: assets/_inc/ajax.php:263
+#@ firmasite
+msgid "Please enter some content to post."
+msgstr "Lütfen göndermek için bir içerik girin."
+
+#: assets/_inc/ajax.php:278
+#@ firmasite
+msgid "There was a problem posting your update, please try again."
+msgstr "Güncellemeyi gönderirken bir hata oluştu, lütfen tekrar deneyiniz."
+
+#: assets/_inc/ajax.php:311
+#@ firmasite
+msgid "Please do not leave the comment area blank."
+msgstr "Lütfen yorum alanını boş bırakmayınız."
+
+#: assets/_inc/ajax.php:314
+#: assets/_inc/ajax.php:323
+#@ firmasite
+msgid "There was an error posting that reply, please try again."
+msgstr "Yanıt yazarken bir hata oluştu, lütfen yeniden deneyin."
+
+#: assets/_inc/ajax.php:380
+#: assets/_inc/ajax.php:416
+#@ firmasite
+msgid "There was a problem when deleting. Please try again."
+msgstr "Silme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyiniz."
+
+#: assets/_inc/ajax.php:570
+#: groups/create.php:230
+#: groups/single/send-invites.php:42
+#@ firmasite
+msgid "Remove Invite"
+msgstr "Daveti Sil"
+
+#: assets/_inc/ajax.php:601
+#@ firmasite
+msgid "Friendship could not be canceled."
+msgstr "Arkadaşlık iptal edilmedi."
+
+#: assets/_inc/ajax.php:603
+#: assets/_inc/ajax.php:617
+#@ firmasite
+msgid "Add Friend"
+msgstr "Arkadaş Ekle"
+
+#: assets/_inc/ajax.php:609
+#@ firmasite
+msgid " Friendship could not be requested."
+msgstr " Arkadaşlık isteği gönderilemedi."
+
+#: assets/_inc/ajax.php:611
+#@ firmasite
+msgid "Cancel Friendship Request"
+msgstr "Arkadaşlık İsteğini İptal Et"
+
+#: assets/_inc/ajax.php:619
+#@ firmasite
+msgid "Friendship request could not be cancelled."
+msgstr "Arkadaşlık isteği iptal edilemedi."
+
+#: assets/_inc/ajax.php:622
+#@ firmasite
+msgid "Request Pending"
+msgstr "Başvuru Beklemekte"
+
+#: assets/_inc/ajax.php:642
+#@ firmasite
+msgid "There was a problem accepting that request. Please try again."
+msgstr "İstek kabul edilirken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: assets/_inc/ajax.php:661
+#@ firmasite
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "İstek reddedilirken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: assets/_inc/ajax.php:688
+#@ firmasite
+msgid "Error joining group"
+msgstr "Gruba katılırken hata oluştu"
+
+#: assets/_inc/ajax.php:690
+#@ firmasite
+msgid "Leave Group"
+msgstr "Gruptan Çık"
+
+#: assets/_inc/ajax.php:696
+#@ firmasite
+msgid "Error requesting membership"
+msgstr "Üyelik isteğinde hata oluştu"
+
+#: assets/_inc/ajax.php:698
+#@ firmasite
+msgid "Membership Requested"
+msgstr "Üyelik Başvuruldu"
+
+#: assets/_inc/ajax.php:705
+#@ firmasite
+msgid "Error leaving group"
+msgstr "Gruptan ayrılırken hata oluştu"
+
+#: assets/_inc/ajax.php:707
+#@ firmasite
+msgid "Join Group"
+msgstr "Gruba Katıl"
+
+#: assets/_inc/ajax.php:709
+#@ firmasite
+msgid "Request Membership"
+msgstr "Üyelik Talebinde Bulun"
+
+#: assets/_inc/ajax.php:727
+#@ firmasite
+msgid "There was a problem closing the notice."
+msgstr "Duyuruyu kapatırken hata oluştu."
+
+#: assets/_inc/ajax.php:761
+#, php-format
+#@ firmasite
+msgid "Sent %s"
+msgstr "%s gönderildi"
+
+#: assets/_inc/ajax.php:778
+#@ firmasite
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Cevap yazarken hata oluştu. Lütfen tekrar deneyiniz."
+
+#: assets/_inc/ajax.php:796
+#@ firmasite
+msgid "There was a problem marking messages as unread."
+msgstr "Mesajları okunmadı işaretlerken hata oluştu."
+
+#: assets/_inc/ajax.php:821
+#@ firmasite
+msgid "There was a problem marking messages as read."
+msgstr "Mesajları okundu işaretlerken hata oluştu."
+
+#: assets/_inc/ajax.php:846
+#@ firmasite
+msgid "There was a problem deleting messages."
+msgstr "Mesajlar silinirken hata oluştu."
+
+#: assets/_inc/ajax.php:854
+#@ firmasite
+msgid "Messages deleted."
+msgstr "Mesajlar silindi."
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ firmasite
+msgid "Creator"
+msgstr "Oluşturan"
+
+#: bbpress/feedback-logged-in.php:13
+#@ firmasite
+msgid "You are already logged in."
+msgstr "Zaten giriş yapmışsınız."
+
+#: bbpress/feedback-no-access.php:13
+#@ firmasite
+msgid "Private"
+msgstr "Özel"
+
+#: bbpress/feedback-no-access.php:16
+#@ firmasite
+msgid "You do not have permission to view this forum."
+msgstr "Bu forumu görüntülemek için yetkiniz yok."
+
+#: bbpress/feedback-no-forums.php:13
+#@ firmasite
+msgid "Oh bother! No forums were found here!"
+msgstr "Üzgünüz! Burada bir forum bulunmadı!"
+
+#: bbpress/feedback-no-replies.php:13
+#@ firmasite
+msgid "Oh bother! No replies were found here!"
+msgstr "Hiç cevap bulunamadı"
+
+#: bbpress/feedback-no-topics.php:13
+#@ firmasite
+msgid "Oh bother! No topics were found here!"
+msgstr "Üzgünüz! Burada bir konu bulunmadı!"
+
+#: bbpress/form-anonymous.php:17
+#@ firmasite
+msgid "Author Information"
+msgstr "Yazar Bilgisi"
+
+#: bbpress/form-anonymous.php:17
+#@ firmasite
+msgid "Your information:"
+msgstr "Bilgileriniz:"
+
+#: bbpress/form-anonymous.php:22
+#@ firmasite
+msgid "Name (required):"
+msgstr "İsim (gerekli):"
+
+#: bbpress/form-anonymous.php:27
+#@ firmasite
+msgid "Mail (will not be published) (required):"
+msgstr "E-posta (yayınlanmayacak) (gerekli):"
+
+#: bbpress/form-anonymous.php:32
+#@ firmasite
+msgid "Website:"
+msgstr "Web sitesi:"
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+#@ firmasite
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Düzenleniyor &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+#, php-format
+#@ firmasite
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Yeni Forum Yarat &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+#@ firmasite
+msgid "Create New Forum"
+msgstr "Yeni forum oluştur"
+
+#: bbpress/form-forum.php:47
+#@ firmasite
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "Bu forum yeni içeriğe kapalı ancak sizin hesap yetkileriniz izin vermektedir."
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+#@ firmasite
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Hesabınızın kısıtlamasız HTML içerik gönderme yetkisi var."
+
+#: bbpress/form-forum.php:67
+#, php-format
+#@ firmasite
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Forum Adı  (Maksimum Uzunluk: %d):"
+
+#: bbpress/form-forum.php:78
+#@ firmasite
+msgid "Forum Description:"
+msgstr "Forum Açıklaması:"
+
+#: bbpress/form-forum.php:93
+#: bbpress/form-reply.php:75
+#: bbpress/form-topic.php:101
+#@ firmasite
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Şu <abbr title=\"HyperText Markup Language\">HTML</abbr> etiketlerini ve özelliklerini kullanabilirsiniz:"
+
+#: bbpress/form-forum.php:102
+#@ firmasite
+msgid "Forum Type:"
+msgstr "Forum Tipi:"
+
+#: bbpress/form-forum.php:111
+#@ firmasite
+msgid "Status:"
+msgstr "Durum:"
+
+#: bbpress/form-forum.php:120
+#@ firmasite
+msgid "Visibility:"
+msgstr "Görünürlük:"
+
+#: bbpress/form-forum.php:129
+#@ firmasite
+msgid "Parent Forum:"
+msgstr "Üst forum:"
+
+#: bbpress/form-forum.php:134
+#@ firmasite
+msgid "(No Parent)"
+msgstr "(Kök yok)"
+
+#: bbpress/form-forum.php:149
+#: bbpress/form-reply.php:149
+#: bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98
+#: bbpress/form-topic.php:198
+#@ firmasite
+msgid "Submit"
+msgstr "Gönder"
+
+#: bbpress/form-forum.php:172
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Forum &#8216;%s&#8217;  yeni içeriğe kapatıldı."
+
+#: bbpress/form-forum.php:180
+#@ firmasite
+msgid "You cannot create new forums."
+msgstr "Yeni forum yaratamazsınız."
+
+#: bbpress/form-forum.php:180
+#@ firmasite
+msgid "You must be logged in to create new forums."
+msgstr "Yeni forum yaratmak için giriş yapmalısınız."
+
+#: bbpress/form-protected.php:14
+#@ firmasite
+msgid "Protected"
+msgstr "Korunmuş"
+
+#: bbpress/form-reply.php:29
+#, php-format
+#@ firmasite
+msgid "Reply To: %s"
+msgstr "Yanıtla: %s"
+
+#: bbpress/form-reply.php:36
+#@ firmasite
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "Bu konu yeni yanıtlara kapalı olarak işaretlendi, ancak gönderi özellikleriniz halen yanıt verebilmenizi sağlıyor."
+
+#: bbpress/form-reply.php:60
+#: bbpress/form-topic.php:86
+#@ firmasite
+msgid "Reply:"
+msgstr "Yanıtla"
+
+#: bbpress/form-reply.php:86
+#@ firmasite
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: bbpress/form-reply.php:104
+#: bbpress/form-topic.php:158
+#@ firmasite
+msgid "Notify the author of follow-up replies via email"
+msgstr "Sonraki yanıtlar için yazarı email ile haberdar et"
+
+#: bbpress/form-reply.php:108
+#: bbpress/form-topic.php:162
+#@ firmasite
+msgid "Notify me of follow-up replies via email"
+msgstr "Beni, takip eden yanıtlardan e-posta ile haberdar et"
+
+#: bbpress/form-reply.php:123
+#: bbpress/form-topic.php:176
+#@ firmasite
+msgid "Revision"
+msgstr "Revizyon"
+
+#: bbpress/form-reply.php:126
+#: bbpress/form-topic.php:179
+#@ firmasite
+msgid "Keep a log of this edit:"
+msgstr "Bu düzenlemenin bir kaydını tutun:"
+
+#: bbpress/form-reply.php:130
+#: bbpress/form-topic.php:183
+#@ firmasite
+msgid "Optional reason for editing:"
+msgstr "Düzenleme için isteğe bağlı neden"
+
+#: bbpress/form-reply.php:172
+#, php-format
+#@ firmasite
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "&#8216;%s&#8217; konusu yeni yanıtlara kapalı."
+
+#: bbpress/form-reply.php:180
+#: bbpress/form-topic.php:221
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Forum  &#8216;%s&#8217; yeni konu ve cevaplara kapatıldı."
+
+#: bbpress/form-reply.php:188
+#@ firmasite
+msgid "You cannot reply to this topic."
+msgstr "Bu konuya cevap veremezsiniz."
+
+#: bbpress/form-reply.php:188
+#@ firmasite
+msgid "You must be logged in to reply to this topic."
+msgstr "Bu konuya cevap vermek için giriş yapmış olmanız gerekir."
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+#@ firmasite
+msgid "Merge topic \"%s\""
+msgstr "\"%s\" konusunu birleştir"
+
+#: bbpress/form-topic-merge.php:29
+#@ firmasite
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Bu konuyu birleştirmek istediğiniz konuyu seçin. Seçeceğiniz hedef konu ana konu olarak kalacaktır ve bu konu bir yanıta dönüşecektir."
+
+#: bbpress/form-topic-merge.php:30
+#@ firmasite
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Bu konuyu ana konu olarak tutmak için, diğer konuya giderek birleştirme aracını o konu altında kullanın."
+
+#: bbpress/form-topic-merge.php:34
+#@ firmasite
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "Her iki konudaki tüm yanıtlar kronolojik olarak birleştirilir. Birleştirilmiş yanıtların sıralaması, gönderildikleri zaman ve tarih esas alınarak yapılır. Hedef konu bu başlıktan daha sonra oluşturulduysa, konunun gönderi tarihi ilk gönderinin tarihi olarak güncellenir."
+
+#: bbpress/form-topic-merge.php:38
+#@ firmasite
+msgid "Destination"
+msgstr "Hedef"
+
+#: bbpress/form-topic-merge.php:42
+#@ firmasite
+msgid "Merge with this topic:"
+msgstr "Bu konu ile birleştir:"
+
+#: bbpress/form-topic-merge.php:51
+#@ firmasite
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "Birleştirilecek konu bulunamadı!"
+
+#: bbpress/form-topic-merge.php:57
+#@ firmasite
+msgid "There are no other topics in this forum to merge with."
+msgstr "Bu forumda birleştirilecek başka konu yok."
+
+#: bbpress/form-topic-merge.php:65
+#: bbpress/form-topic-split.php:69
+#@ firmasite
+msgid "Topic Extras"
+msgstr "Konu ekstraları"
+
+#: bbpress/form-topic-merge.php:72
+#@ firmasite
+msgid "Merge topic subscribers"
+msgstr "Konu abonelerini birleştir "
+
+#: bbpress/form-topic-merge.php:77
+#@ firmasite
+msgid "Merge topic favoriters"
+msgstr "Konu favorilerini birleştir"
+
+#: bbpress/form-topic-merge.php:82
+#@ firmasite
+msgid "Merge topic tags"
+msgstr "Konu etiketlerini birleştir "
+
+#: bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94
+#@ firmasite
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong> UYARI: </strong> Bu işlem geri alınamaz."
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Bu konuyu düzenlemek için izniniz yok!"
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You cannot edit this topic."
+msgstr "Bu konuyu düzenleyemezsiniz."
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+#@ firmasite
+msgid "Split topic \"%s\""
+msgstr "\"%s\" konusunu böl"
+
+#: bbpress/form-topic-split.php:29
+#@ firmasite
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Bir konuyu bölerken, seçtiğiniz cevaptan başlayarak yeni bir konu yaratılır. Seçtiğiniz cevaba yeni bir başlık  seçin yada varolan bir konu ile birleştirin."
+
+#: bbpress/form-topic-split.php:33
+#@ firmasite
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Eğer var olan konu seçeneğini kullanırsanız, her iki konunun yanıtları kronolojik olarak birleştirileceklerdir. Yanıtların sıraları yanıtın yapıldığı tarihe göre ayarlanacaktır."
+
+#: bbpress/form-topic-split.php:37
+#@ firmasite
+msgid "Split Method"
+msgstr "Ayırma yöntemi"
+
+#: bbpress/form-topic-split.php:41
+#, php-format
+#@ firmasite
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "<strong>%s</strong>&#8217;daki yeni konunun başlığı:"
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+#@ firmasite
+msgid "Split: %s"
+msgstr "Ayır: %s"
+
+#: bbpress/form-topic-split.php:49
+#@ firmasite
+msgid "Use an existing topic in this forum:"
+msgstr "Bu forumda varolan bir konuyu kullan:"
+
+#: bbpress/form-topic-split.php:58
+#@ firmasite
+msgid "No other topics found!"
+msgstr "Başka bir konu bulunamadı!"
+
+#: bbpress/form-topic-split.php:76
+#@ firmasite
+msgid "Copy subscribers to the new topic"
+msgstr "Aboneleri yeni konuya kopyala"
+
+#: bbpress/form-topic-split.php:81
+#@ firmasite
+msgid "Copy favoriters to the new topic"
+msgstr "Beğenenleri yeni konuya kopyala"
+
+#: bbpress/form-topic-split.php:86
+#@ firmasite
+msgid "Copy topic tags to the new topic"
+msgstr "Konu etiketlerini yeni konuya kopyala"
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+#@ firmasite
+msgid "Manage Tag: \"%s\""
+msgstr "Etiketi düzenle: &quot;%s&quot;"
+
+#: bbpress/form-topic-tag.php:22
+#@ firmasite
+msgid "Rename"
+msgstr "Yenile"
+
+#: bbpress/form-topic-tag.php:25
+#@ firmasite
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Kısa ismi boş bırakırsanız, yeni bir kısa isim otomatik olarak oluşturulacaktır."
+
+#: bbpress/form-topic-tag.php:29
+#@ firmasite
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Kısa ismi değiştirmek kalıcı bağlantıyı etkileyecektir. Eski kısa isim ile çalışan bağlantılar çalışmayacaklardır."
+
+#: bbpress/form-topic-tag.php:35
+#@ firmasite
+msgid "Name:"
+msgstr "İsim:"
+
+#: bbpress/form-topic-tag.php:40
+#@ firmasite
+msgid "Slug:"
+msgstr "Kısa isim:"
+
+#: bbpress/form-topic-tag.php:45
+#@ firmasite
+msgid "Update"
+msgstr "Güncelle"
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#@ firmasite
+msgid "Merge"
+msgstr "Birleştir"
+
+#: bbpress/form-topic-tag.php:62
+#@ firmasite
+msgid "Merging tags together cannot be undone."
+msgstr "Etiketleri birleştirme işlemi geri alınamaz."
+
+#: bbpress/form-topic-tag.php:68
+#@ firmasite
+msgid "Existing tag:"
+msgstr "Mevcut etiket:"
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "&quot;%s&quot;  etiketini belirttiğiniz yeni etiket ile birleştirmek istediğinize emin misiniz?"
+
+#: bbpress/form-topic-tag.php:91
+#@ firmasite
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Bu sizin konunuzu silmez. Sadece etiketin kendisi silinir."
+
+#: bbpress/form-topic-tag.php:94
+#@ firmasite
+msgid "Deleting a tag cannot be undone."
+msgstr "Bir etiket silinmesi geri alınamaz."
+
+#: bbpress/form-topic-tag.php:95
+#@ firmasite
+msgid "Any links to this tag will no longer function."
+msgstr "Bu etikete verilecek bağlantılar bundan sonra çalışmayacaktır."
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "\"%s\" etiketini silmek istediğinizden emin misiniz? Bu eylem kalıcıdır ve geri alınamaz."
+
+#: bbpress/form-topic.php:43
+#, php-format
+#@ firmasite
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Yeni konu oluştur:  &ldquo;%s&rdquo;"
+
+#: bbpress/form-topic.php:43
+#@ firmasite
+msgid "Create New Topic"
+msgstr "Yeni konu oluştur"
+
+#: bbpress/form-topic.php:53
+#@ firmasite
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "Bu forum yeni konulara kapalı olarak işaretlenmiş, yine de gönderim izniniz sayesinde yeni girdiler oluşturabilirsiniz."
+
+#: bbpress/form-topic.php:75
+#, php-format
+#@ firmasite
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Konu başlığı (En fazla uzunluk: %d):"
+
+#: bbpress/form-topic.php:112
+#@ firmasite
+msgid "Topic Tags:"
+msgstr "Konu etiketleri:"
+
+#: bbpress/form-topic.php:125
+#@ firmasite
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress/form-topic.php:139
+#@ firmasite
+msgid "Topic Type:"
+msgstr "Konu türü:"
+
+#: bbpress/form-topic.php:229
+#@ firmasite
+msgid "You cannot create new topics."
+msgstr "Yeni konu yaratamazsınız."
+
+#: bbpress/form-topic.php:229
+#@ firmasite
+msgid "You must be logged in to create new topics."
+msgstr "Yeni konu oluşturmak için giriş yapmalısınız."
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: members/single/profile/profile-wp.php:15
+#@ firmasite
+msgid "Name"
+msgstr "İsim"
+
+#: bbpress/form-user-edit.php:24
+#@ firmasite
+msgid "First Name"
+msgstr "Ad"
+
+#: bbpress/form-user-edit.php:29
+#@ firmasite
+msgid "Last Name"
+msgstr "Soyad"
+
+#: bbpress/form-user-edit.php:34
+#@ firmasite
+msgid "Nickname"
+msgstr "Kullanıcı adı"
+
+#: bbpress/form-user-edit.php:39
+#@ firmasite
+msgid "Display Name"
+msgstr "Görünüm Adı"
+
+#: bbpress/form-user-edit.php:49
+#: bbpress/form-user-edit.php:52
+#@ firmasite
+msgid "Contact Info"
+msgstr "İletişim Bilgileri"
+
+#: bbpress/form-user-edit.php:57
+#: members/single/profile/profile-wp.php:33
+#@ firmasite
+msgid "Website"
+msgstr "Website"
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ firmasite
+msgid "About Yourself"
+msgstr "Kendiniz hakkında"
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ firmasite
+msgid "About the user"
+msgstr "Kullanıcı hakkında"
+
+#: bbpress/form-user-edit.php:82
+#@ firmasite
+msgid "Biographical Info"
+msgstr "Biyografik bilgi"
+
+#: bbpress/form-user-edit.php:90
+#: bbpress/form-user-edit.php:93
+#@ firmasite
+msgid "Account"
+msgstr "Hesap"
+
+#: bbpress/form-user-edit.php:98
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: registration/register.php:38
+#@ firmasite
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-register.php:28
+#@ firmasite
+msgid "Email"
+msgstr "Eposta"
+
+#: bbpress/form-user-edit.php:115
+#, php-format
+#@ firmasite
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "<code>%1$s</code> için bekleyen e-posta değişikliği işlemi mevcut. <a href=\"%2$s\">İptal</a>"
+
+#: bbpress/form-user-edit.php:124
+#: members/single/settings/general.php:67
+#@ firmasite
+msgid "New Password"
+msgstr "Yeni parola"
+
+#: bbpress/form-user-edit.php:127
+#@ firmasite
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Eğer şifrenizi değiştirmek istiyorsanız yenisini yazın. Aksi halde bu alanı boş bırakın."
+
+#: bbpress/form-user-edit.php:130
+#@ firmasite
+msgid "Type your new password again."
+msgstr "Yeni parolanızı tekrar yazın."
+
+#: bbpress/form-user-edit.php:133
+#@ firmasite
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "Şifreniz en az 10 karakterli olmalıdır."
+
+#: bbpress/form-user-edit.php:143
+#: bbpress/form-user-edit.php:146
+#@ firmasite
+msgid "User Role"
+msgstr "Kullanıcı Yetkisi"
+
+#: bbpress/form-user-edit.php:153
+#@ firmasite
+msgid "Network Role"
+msgstr "Ağ Yetkisi"
+
+#: bbpress/form-user-edit.php:156
+#@ firmasite
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Kullanıcıya bu ağ için süper yönetici yetkisi sağla."
+
+#: bbpress/form-user-edit.php:173
+#: groups/single/admin.php:32
+#: groups/single/admin.php:117
+#: groups/single/forum/edit.php:58
+#: groups/single/forum/edit.php:74
+#: members/single/profile/edit.php:146
+#: members/single/settings/general.php:73
+#: members/single/settings/notifications.php:62
+#@ firmasite
+msgid "Save Changes"
+msgstr "Değişikliği kaydet"
+
+#: bbpress/form-user-edit.php:178
+#@ firmasite
+msgid "Update Profile"
+msgstr "Profili güncelle"
+
+#: bbpress/form-user-edit.php:178
+#@ firmasite
+msgid "Update User"
+msgstr "Kullanıcıyı güncelle"
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+#@ firmasite
+msgid "Log In"
+msgstr "Giriş"
+
+#: bbpress/form-user-login.php:22
+#@ firmasite
+msgid "Password"
+msgstr "Parola"
+
+#: bbpress/form-user-login.php:28
+#@ firmasite
+msgid "Keep me signed in"
+msgstr "Beni hatırla"
+
+#: bbpress/form-user-lost-pass.php:14
+#@ firmasite
+msgid "Lost Password"
+msgstr "Kayıp parola"
+
+#: bbpress/form-user-lost-pass.php:18
+#@ firmasite
+msgid "Username or Email"
+msgstr "Kullanıcı adı veya e-posta"
+
+#: bbpress/form-user-lost-pass.php:27
+#@ firmasite
+msgid "Reset My Password"
+msgstr "Şifremini Değiştir"
+
+#: bbpress/form-user-register.php:14
+#: registration/register.php:24
+#@ firmasite
+msgid "Create an Account"
+msgstr "Hesap oluştur"
+
+#: bbpress/form-user-register.php:17
+#@ firmasite
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Kullanıcı adınız benzersiz olmalıdır ve daha sonra değiştirilemez."
+
+#: bbpress/form-user-register.php:18
+#@ firmasite
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "E-posta adresinizi, size güvenli bir şifre gönderirken ve hesabınızı doğrularken kullanacağız."
+
+#: bbpress/form-user-register.php:36
+#@ firmasite
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: bbpress/form-user-roles.php:2
+#@ firmasite
+msgid "Blog Role"
+msgstr "Site Yetkisi"
+
+#: bbpress/form-user-roles.php:9
+#@ firmasite
+msgid "Forum Role"
+msgstr "Forum Yetkisi"
+
+#: bbpress/loop-single-forum.php:50
+#@ firmasite
+msgid "Topics"
+msgstr "Başlıklar"
+
+#: bbpress/loop-single-forum.php:52
+#: bbpress/loop-single-topic.php:58
+#@ firmasite
+msgid "Replies"
+msgstr "Cevaplar"
+
+#: bbpress/loop-single-reply.php:21
+#@ firmasite
+msgid "in reply to: "
+msgstr "cevabının konusu:"
+
+#: bbpress/loop-single-topic.php:61
+#: forums/forums-loop.php:41
+#: functions/bbpress.php:91
+#: functions/bbpress.php:121
+#@ firmasite
+msgid "Freshness"
+msgstr "Yenilenme"
+
+#: bbpress/loop-single-topic.php:83
+#, php-format
+#@ firmasite
+msgid "Started by: %1$s"
+msgstr "Başlatan:%1$s"
+
+#: bbpress/loop-single-topic.php:91
+#, php-format
+#@ firmasite
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "Şurada: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/user-details.php:28
+#: members/single/profile/profile-wp.php:8
+#, php-format
+#@ firmasite
+msgid "%s's Profile"
+msgstr "%s kullanıcısının profili"
+
+#: bbpress/user-details.php:28
+#: bbpress/user-profile.php:15
+#@ firmasite
+msgid "Profile"
+msgstr "Profil"
+
+#: bbpress/user-details.php:32
+#, php-format
+#@ firmasite
+msgid "%s's Topics Started"
+msgstr "%s'ın Başlattığı Konular"
+
+#: bbpress/user-details.php:32
+#@ firmasite
+msgid "Topics Started"
+msgstr "Başlattığı Konular"
+
+#: bbpress/user-details.php:36
+#, php-format
+#@ firmasite
+msgid "%s's Replies Created"
+msgstr "%s Gönderdiği Cevaplar"
+
+#: bbpress/user-details.php:36
+#@ firmasite
+msgid "Replies Created"
+msgstr "Gönderilen Cevaplar"
+
+#: bbpress/user-details.php:41
+#, php-format
+#@ firmasite
+msgid "%s's Favorites"
+msgstr "%s Favori Konuları"
+
+#: bbpress/user-details.php:41
+#@ firmasite
+msgid "Favorites"
+msgstr "Favori Konuları"
+
+#: bbpress/user-details.php:49
+#, php-format
+#@ firmasite
+msgid "%s's Subscriptions"
+msgstr "%s Abonelikleri"
+
+#: bbpress/user-details.php:49
+#@ firmasite
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: bbpress/user-details.php:54
+#, php-format
+#@ firmasite
+msgid "Edit Profile of User %s"
+msgstr "%s kullanıcısının profilini düzenle"
+
+#: bbpress/user-favorites.php:15
+#@ firmasite
+msgid "Favorite Forum Topics"
+msgstr "Favori Forum Konuları"
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "You currently have no favorite topics."
+msgstr "Henüz favori konunuz yok."
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "This user has no favorite topics."
+msgstr "Bu kullanıcının favori konusu yok."
+
+#: bbpress/user-profile.php:24
+#, php-format
+#@ firmasite
+msgid "Forum Role: %s"
+msgstr "Forum Yetkisi: %s"
+
+#: bbpress/user-profile.php:25
+#, php-format
+#@ firmasite
+msgid "Topics Started: %s"
+msgstr "Başlattığı Konular: %s"
+
+#: bbpress/user-profile.php:26
+#, php-format
+#@ firmasite
+msgid "Replies Created: %s"
+msgstr "Gönderilen Cevaplar: %s"
+
+#: bbpress/user-replies-created.php:15
+#@ firmasite
+msgid "Forum Replies Created"
+msgstr "Forumda Gönderdiği Cevaplar"
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "You have not replied to any topics."
+msgstr "Hİçbir konuya cevap yazmadınız."
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "This user has not replied to any topics."
+msgstr "Bu kullanıcı hiçbir konuya cevap yazmadı."
+
+#: bbpress/user-subscriptions.php:19
+#@ firmasite
+msgid "Subscribed Forum Topics"
+msgstr "Abone blunan forum konuları"
+
+#: bbpress/user-subscriptions.php:32
+#@ firmasite
+msgid "You are not currently subscribed to any topics."
+msgstr "Şu anda herhangi bir konuya üye değilsiniz."
+
+#: bbpress/user-subscriptions.php:32
+#@ firmasite
+msgid "This user is not currently subscribed to any topics."
+msgstr "Bu kullanıcı henüz bir konuya abone değil."
+
+#: bbpress/user-topics-created.php:15
+#@ firmasite
+msgid "Forum Topics Started"
+msgstr "Forumda Başlattığı Konular"
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "You have not created any topics."
+msgstr "Herhangi bir konu oluşturmadınız."
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "This user has not created any topics."
+msgstr "Bu kullanıcı hiçbir konu oluşturmadı."
+
+#: blogs/blogs-loop.php:90
+#@ firmasite
+msgid "Sorry, there were no sites found."
+msgstr "Üzgünüz, hiçbir site bulunamadı."
+
+#: blogs/create.php:22
+#: blogs/index.php:22
+#@ firmasite
+msgid "Create a Site"
+msgstr "Bir Site Oluştur"
+
+#: blogs/create.php:22
+#: blogs/index.php:22
+#@ firmasite
+msgid "Site Directory"
+msgstr "Site Dizini"
+
+#: blogs/create.php:33
+#@ firmasite
+msgid "Site registration is currently disabled"
+msgstr "Site kayıt işlemi şu an için devre dışı"
+
+#: blogs/index.php:34
+#, php-format
+#@ firmasite
+msgid "All Sites <span>%s</span>"
+msgstr "Bütün Siteler <span>%s</span>"
+
+#: blogs/index.php:38
+#, php-format
+#@ firmasite
+msgid "My Sites <span>%s</span>"
+msgstr "Sitelerim <span>%s</span>"
+
+#: blogs/index.php:54
+#: forums/index.php:61
+#: groups/index.php:56
+#: groups/single/forum.php:36
+#: members/index.php:54
+#: members/single/blogs.php:19
+#: members/single/forums.php:18
+#: members/single/friends.php:20
+#: members/single/groups.php:20
+#@ firmasite
+msgid "Order By:"
+msgstr "Sıralama:"
+
+#: blogs/index.php:56
+#: forums/index.php:63
+#: groups/index.php:58
+#: groups/single/forum.php:38
+#: members/index.php:56
+#: members/single/blogs.php:21
+#: members/single/forums.php:20
+#: members/single/friends.php:22
+#: members/single/groups.php:22
+#@ firmasite
+msgid "Last Active"
+msgstr "Son Aktif Olma"
+
+#: blogs/index.php:57
+#: members/single/blogs.php:22
+#@ firmasite
+msgid "Newest"
+msgstr "En Yeni"
+
+#: blogs/index.php:58
+#: groups/index.php:61
+#: members/index.php:61
+#: members/single/blogs.php:23
+#: members/single/friends.php:24
+#: members/single/groups.php:25
+#@ firmasite
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+#: footer.php:40
+#@ firmasite
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:40
+#, php-format
+#@ firmasite
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#. translators: "started by [poster] in [forum]
+#: forums/forums-loop.php:61
+#, php-format
+#@ firmasite
+msgid "Started by %1$s"
+msgstr "%1$s tarafından"
+
+#. translators: "started by [poster] in [forum]
+#: forums/forums-loop.php:72
+#, php-format
+#@ firmasite
+msgid "in %1$s"
+msgstr "%1$s için başlatılmış."
+
+#: forums/forums-loop.php:122
+#@ firmasite
+msgid "Sorry, there were no forum topics found."
+msgstr "Üzgünüz, hiç forum başlığı bulunamadı."
+
+#: forums/index.php:24
+#@ firmasite
+msgid "Forums Directory"
+msgstr "Forumlar Dizini"
+
+#: forums/index.php:24
+#: groups/single/forum.php:19
+#@ firmasite
+msgid "New Topic"
+msgstr "Yeni konu"
+
+#: forums/index.php:41
+#, php-format
+#@ firmasite
+msgid "All Topics <span>%s</span>"
+msgstr "Bütün Konular <span>%s</span>"
+
+#: forums/index.php:45
+#, php-format
+#@ firmasite
+msgid "My Topics <span>%s</span>"
+msgstr "Konularım <span>%s</span>"
+
+#: forums/index.php:64
+#: groups/single/forum.php:39
+#: members/single/forums.php:21
+#@ firmasite
+msgid "Most Posts"
+msgstr "En Çok Mesaj"
+
+#: forums/index.php:65
+#: groups/single/forum.php:40
+#: members/single/forums.php:22
+#@ firmasite
+msgid "Unreplied"
+msgstr "Cevaplanmamış"
+
+#: forums/index.php:101
+#@ firmasite
+msgid "Create New Topic:"
+msgstr "Yeni Konu Ekle:"
+
+#: forums/index.php:105
+#: groups/single/forum/edit.php:47
+#: groups/single/forum.php:75
+#@ firmasite
+msgid "Title:"
+msgstr "Başlık:"
+
+#: forums/index.php:108
+#: groups/single/forum/edit.php:50
+#: groups/single/forum.php:78
+#@ firmasite
+msgid "Content:"
+msgstr "İçerik:"
+
+#: forums/index.php:111
+#: groups/single/forum/edit.php:53
+#: groups/single/forum.php:81
+#@ firmasite
+msgid "Tags (comma separated):"
+msgstr "Etiketler (virgülle ayırın):"
+
+#: forums/index.php:114
+#@ firmasite
+msgid "Post In Group Forum:"
+msgstr "Grup Forumuna Yaz:"
+
+#. translators: no option picked in select box
+#: forums/index.php:117
+#@ firmasite
+msgid "----"
+msgstr ""
+
+#: forums/index.php:134
+#: groups/single/forum.php:87
+#@ firmasite
+msgid "Post Topic"
+msgstr "Yazıyı Gönder"
+
+#: forums/index.php:135
+#@ firmasite
+msgid "Cancel"
+msgstr "İptal"
+
+#: forums/index.php:146
+#, php-format
+#@ firmasite
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr "Foruma yazı yazabilmek için bir gruba üye olmanız gerekmektedir. Yazmak istediğiniz konuyla alakalı bir gruba dahil olup yazı yazabilirsiniz. Ya da kendiniz <a href='%s'>yeni bir grup kurabilirsiniz.</a> Bu işlemlerden sonra grup forumuna konu açılabilir."
+
+#: functions/bbpress.php:93
+#@ firmasite
+msgid "No Replies"
+msgstr "Yanıt yok"
+
+#: functions/bbpress.php:123
+#@ firmasite
+msgid "No Topics"
+msgstr "Konu yok"
+
+#: functions/buddypress.php:22
+#@ firmasite
+msgid "My Favorites"
+msgstr "Favorilerim"
+
+#: functions/buddypress.php:23
+#@ firmasite
+msgid "Accepted"
+msgstr "Kabul Edildi"
+
+#: functions/buddypress.php:24
+#@ firmasite
+msgid "Rejected"
+msgstr "Reddedildi"
+
+#: functions/buddypress.php:25
+#@ firmasite
+msgid "Show all comments for this thread"
+msgstr "Bu konudaki tüm yorumları göster"
+
+#: functions/buddypress.php:26
+#@ firmasite
+msgid "Show all"
+msgstr "Hepsini göster"
+
+#: functions/buddypress.php:27
+#@ firmasite
+msgid "comments"
+msgstr "yorumlar"
+
+#: functions/buddypress.php:28
+#: members/single/profile/edit.php:128
+#: registration/register.php:170
+#@ firmasite
+msgid "Close"
+msgstr "Kapat"
+
+#: groups/create.php:19
+#: groups/index.php:22
+#@ firmasite
+msgid "Create a Group"
+msgstr "Grup Oluştur"
+
+#: groups/create.php:19
+#: groups/index.php:22
+#@ firmasite
+msgid "Groups Directory"
+msgstr "Grup Dizini"
+
+#: groups/create.php:40
+#: groups/single/admin.php:16
+#@ firmasite
+msgid "Group Name (required)"
+msgstr "Grup Adı (gerekli)"
+
+#: groups/create.php:43
+#: groups/single/admin.php:19
+#@ firmasite
+msgid "Group Description (required)"
+msgstr "Grup Açıklaması (gerekli)"
+
+#: groups/create.php:59
+#: groups/single/admin.php:56
+#@ firmasite
+msgid "Privacy Options"
+msgstr "Gizlilik Ayarları"
+
+#: groups/create.php:63
+#: groups/single/admin.php:61
+#@ firmasite
+msgid "This is a public group"
+msgstr "Bu genel bir grup"
+
+#: groups/create.php:65
+#: groups/single/admin.php:63
+#@ firmasite
+msgid "Any site member can join this group."
+msgstr "Herkes bu gruba katılabilir."
+
+#: groups/create.php:66
+#: groups/create.php:75
+#: groups/single/admin.php:64
+#: groups/single/admin.php:74
+#@ firmasite
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "Bu grup arama sonuçlarında ve grup dizininde gözükebilir."
+
+#: groups/create.php:67
+#: groups/single/admin.php:65
+#@ firmasite
+msgid "Group content and activity will be visible to any site member."
+msgstr "Grup içeriği ve aktiviteleri herkes tarafından görülebilir."
+
+#: groups/create.php:72
+#: groups/single/admin.php:71
+#@ firmasite
+msgid "This is a private group"
+msgstr "Bu özel bir grup"
+
+#: groups/create.php:74
+#: groups/single/admin.php:73
+#@ firmasite
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Sadece üyelik isteğinde bulunan ve kabul gören üyeler gruba katılabilir."
+
+#: groups/create.php:76
+#: groups/create.php:85
+#: groups/single/admin.php:75
+#: groups/single/admin.php:85
+#@ firmasite
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Grup içeriği ve aktiviteleri sadece grup üyeleri tarafından görülebilir."
+
+#: groups/create.php:81
+#: groups/single/admin.php:81
+#@ firmasite
+msgid "This is a hidden group"
+msgstr "Bu gizli bir grup"
+
+#: groups/create.php:83
+#: groups/single/admin.php:83
+#@ firmasite
+msgid "Only users who are invited can join the group."
+msgstr "Sadece davetli üyeler gruba katılabilir."
+
+#: groups/create.php:84
+#: groups/single/admin.php:84
+#@ firmasite
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Bu grup arama sonuçlarında ve grup dizininde gözükmez."
+
+#: groups/create.php:90
+#: groups/single/admin.php:92
+#@ firmasite
+msgid "Group Invitations"
+msgstr "Grup Davetiyeleri"
+
+#: groups/create.php:92
+#: groups/single/admin.php:94
+#@ firmasite
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Hangi üyeler davetiye gönderebilir?"
+
+#: groups/create.php:97
+#: groups/single/admin.php:99
+#@ firmasite
+msgid "All group members"
+msgstr "Bütün üyeler"
+
+#: groups/create.php:102
+#: groups/single/admin.php:104
+#@ firmasite
+msgid "Group admins and mods only"
+msgstr "Yönetici ve modlar"
+
+#: groups/create.php:107
+#: groups/single/admin.php:109
+#@ firmasite
+msgid "Group admins only"
+msgstr "Sadece yöneticiler"
+
+#: groups/create.php:113
+#@ firmasite
+msgid "Group Forums"
+msgstr "Grup Forumları"
+
+#: groups/create.php:117
+#@ firmasite
+msgid "Should this group have a forum?"
+msgstr "Bu grubun forumu olsun mu?"
+
+#: groups/create.php:120
+#: groups/single/admin.php:47
+#@ firmasite
+msgid "Enable discussion forum"
+msgstr "Tartışma forumunu aktif et"
+
+#: groups/create.php:124
+#, php-format
+#@ firmasite
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr "<strong>Dikkat Site Yöneticisi:</strong> Grup forumlarını etkinleştirmek için bbPress sürümünü <a href=\"%s\">doğru kurmanız ve ayarlamanız</a> gerekiyor."
+
+#: groups/create.php:150
+#: groups/single/admin.php:127
+#@ firmasite
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "Grubunuz için bir resim yükleyiniz. Bu resim grup ana sayfasında ve arama sonuçlarında gözükecektir."
+
+#: groups/create.php:154
+#: groups/single/admin.php:131
+#: members/single/profile/change-avatar.php:18
+#@ firmasite
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: groups/create.php:158
+#@ firmasite
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Avatar yükleme işlemini atlamak için, \"Sonraki Adım\" düğmesine tıklayın."
+
+#: groups/create.php:165
+#@ firmasite
+msgid "Crop Group Avatar"
+msgstr "Grup Avatarını Kes"
+
+#: groups/create.php:167
+#: groups/single/admin.php:151
+#: members/single/profile/change-avatar.php:33
+#@ firmasite
+msgid "Avatar to crop"
+msgstr "Avatar için kes"
+
+#: groups/create.php:170
+#: groups/single/admin.php:154
+#: members/single/profile/change-avatar.php:36
+#@ firmasite
+msgid "Avatar preview"
+msgstr "Avatar önizleme"
+
+#: groups/create.php:173
+#: groups/single/admin.php:157
+#: members/single/profile/change-avatar.php:39
+#@ firmasite
+msgid "Crop Image"
+msgstr "Resimi Kes"
+
+#: groups/create.php:212
+#: groups/single/send-invites.php:22
+#@ firmasite
+msgid "Select people to invite from your friends list."
+msgstr "Arkadaş listenizde davet etmek istediklerinizi seçiniz."
+
+#: groups/create.php:247
+#: groups/single/send-invites.php:73
+#@ firmasite
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr "Başkalarını gruba davet edebilmek için ilk önce arkadaşlık kurmanız gerekmektedir. Arkadaşlık kurduğunuz zaman 'Davet Gönder' seçeneği aktif olacaktır."
+
+#: groups/create.php:269
+#@ firmasite
+msgid "Back to Previous Step"
+msgstr "Önceki Adıma Dön"
+
+#: groups/create.php:276
+#@ firmasite
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: groups/create.php:283
+#@ firmasite
+msgid "Create Group and Continue"
+msgstr "Grubu Kur ve Devam Et"
+
+#: groups/create.php:290
+#@ firmasite
+msgid "Finish"
+msgstr "Bitir"
+
+#: groups/groups-loop.php:47
+#: groups/single/group-header.php:42
+#, php-format
+#@ firmasite
+msgid "active %s"
+msgstr "%s aktif"
+
+#: groups/groups-loop.php:95
+#@ firmasite
+msgid "There were no groups found."
+msgstr "Hiç bir grup bulunamadı."
+
+#: groups/index.php:36
+#, php-format
+#@ firmasite
+msgid "All Groups <span>%s</span>"
+msgstr "Bütün Gruplar <span>%s</span>"
+
+#: groups/index.php:59
+#: members/single/groups.php:23
+#@ firmasite
+msgid "Most Members"
+msgstr "Üye Sayısı"
+
+#: groups/index.php:60
+#: members/single/groups.php:24
+#@ firmasite
+msgid "Newly Created"
+msgstr "Yeni Kurulan"
+
+#: groups/single/admin.php:25
+#@ firmasite
+msgid "Notify group members of changes via email"
+msgstr "Değişiklikleri grup üyelerine e-posta ile bildir"
+
+#: groups/single/admin.php:26
+#: registration/register.php:228
+#@ firmasite
+msgid "Yes"
+msgstr "Evet"
+
+#: groups/single/admin.php:27
+#: registration/register.php:229
+#@ firmasite
+msgid "No"
+msgstr "Hayır"
+
+#: groups/single/admin.php:137
+#@ firmasite
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "Eğer mevcut avatarı kaldırmak istiyorsanız 'Avatar Sil' butonuna basınız."
+
+#: groups/single/admin.php:139
+#: members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete Avatar"
+msgstr "Avatar Sil"
+
+#: groups/single/admin.php:149
+#@ firmasite
+msgid "Crop Avatar"
+msgstr "Avatarı Kes"
+
+#: groups/single/admin.php:177
+#@ firmasite
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+#: groups/single/admin.php:185
+#: groups/single/admin.php:212
+#, php-format
+#@ firmasite
+msgid "Profile picture of %s"
+msgstr "%s profil avatarı"
+
+#: groups/single/admin.php:190
+#: groups/single/admin.php:217
+#@ firmasite
+msgid "Demote to Member"
+msgstr "Üye Yap"
+
+#: groups/single/admin.php:205
+#@ firmasite
+msgid "Moderators"
+msgstr "Moderatörler"
+
+#: groups/single/admin.php:216
+#: groups/single/admin.php:272
+#@ firmasite
+msgid "Promote to Admin"
+msgstr "Admin Yap"
+
+#: groups/single/admin.php:231
+#@ firmasite
+msgid "Members"
+msgstr "Üyeler"
+
+#: groups/single/admin.php:260
+#@ firmasite
+msgid "(banned)"
+msgstr "(yasaklı)"
+
+#: groups/single/admin.php:266
+#@ firmasite
+msgid "Unban this member"
+msgstr "Üyenin yasağını kaldır"
+
+#: groups/single/admin.php:266
+#@ firmasite
+msgid "Remove Ban"
+msgstr "Yasağı Kaldır"
+
+#: groups/single/admin.php:270
+#@ firmasite
+msgid "Kick and ban this member"
+msgstr "Üyeyi at ve yasakla"
+
+#: groups/single/admin.php:270
+#@ firmasite
+msgid "Kick &amp; Ban"
+msgstr "At &amp; Yasakla"
+
+#: groups/single/admin.php:271
+#@ firmasite
+msgid "Promote to Mod"
+msgstr "Moderatör Yap"
+
+#: groups/single/admin.php:276
+#@ firmasite
+msgid "Remove this member"
+msgstr "Üyeyi çıkar"
+
+#: groups/single/admin.php:276
+#@ firmasite
+msgid "Remove from group"
+msgstr "Gruptan çıkar"
+
+#: groups/single/admin.php:290
+#: groups/single/members.php:87
+#@ firmasite
+msgid "This group has no members."
+msgstr "Bu grubun henüz bir üyesi yok."
+
+#: groups/single/admin.php:320
+#: members/single/friends/requests.php:37
+#: members/single/groups/invites.php:23
+#@ firmasite
+msgid "Accept"
+msgstr "Kabul et"
+
+#: groups/single/admin.php:322
+#: members/single/friends/requests.php:38
+#: members/single/groups/invites.php:24
+#@ firmasite
+msgid "Reject"
+msgstr "Reddet"
+
+#: groups/single/admin.php:335
+#@ firmasite
+msgid "There are no pending membership requests."
+msgstr "Bekleyen üyelik isteği yok."
+
+#: groups/single/admin.php:352
+#@ firmasite
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "DİKKAT: Bu grubu silerseniz BÜTÜN paylaşımlar ve içerik tamamiyle silinecektir. Bu seçeneğin geri dönüşü yoktur."
+
+#: groups/single/admin.php:355
+#@ firmasite
+msgid "I understand the consequences of deleting this group."
+msgstr "Evet grubun silinmesi ile alakalı herşeyi anladım."
+
+#: groups/single/admin.php:360
+#@ firmasite
+msgid "Delete Group"
+msgstr "Grubu Sil"
+
+#: groups/single/forum/edit.php:16
+#: groups/single/forum/topic.php:17
+#: groups/single/forum.php:27
+#@ firmasite
+msgid "Forum Directory"
+msgstr "Forum Dizini"
+
+#: groups/single/forum/edit.php:25
+#@ firmasite
+msgid "Edit:"
+msgstr "Düzenle:"
+
+#: groups/single/forum/edit.php:87
+#@ firmasite
+msgid "This topic does not exist."
+msgstr "Bu konu artık yok."
+
+#: groups/single/forum/topic.php:9
+#@ firmasite
+msgid "New Reply"
+msgstr "Yeni yanıt"
+
+#: groups/single/forum/topic.php:32
+#@ firmasite
+msgid "Topic tags:"
+msgstr "Konu etiketleri:"
+
+#: groups/single/forum/topic.php:81
+#, php-format
+#@ firmasite
+msgid "%1$s said %2$s:"
+msgstr "%1$s %2$s demiş ki:"
+
+#: groups/single/forum/topic.php:95
+#@ firmasite
+msgid "Permanent link to this post"
+msgstr "Bu yazı için kalıcı bağlantı"
+
+#: groups/single/forum/topic.php:119
+#@ firmasite
+msgid "There are no posts for this topic."
+msgstr "Bu konuya ait yazı yok."
+
+#: groups/single/forum/topic.php:134
+#@ firmasite
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Bu konuya cevap verdiğinizde grubuna otomatik olarak katılacaksınız."
+
+#: groups/single/forum/topic.php:139
+#@ firmasite
+msgid "Add a reply:"
+msgstr "Bir cevap ekle:"
+
+#: groups/single/forum/topic.php:144
+#@ firmasite
+msgid "Post Reply"
+msgstr "Cevap Gönder"
+
+#: groups/single/forum/topic.php:155
+#@ firmasite
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Bu konu kapatılmıştır, yanıtlar kabul edilmemektedir."
+
+#: groups/single/forum.php:69
+#@ firmasite
+msgid "You will auto join this group when you start a new topic."
+msgstr "Yeni bir konu başlattığınızda bu gruba otomatik olarak katılacaksınız."
+
+#: groups/single/forum.php:73
+#@ firmasite
+msgid "Post a New Topic:"
+msgstr "Yeni Bir Konu Başlat:"
+
+#: groups/single/group-header.php:11
+#@ firmasite
+msgid "Group Admins"
+msgstr "Grup Yöneticileri"
+
+#: groups/single/group-header.php:20
+#@ firmasite
+msgid "Group Mods"
+msgstr "Grup Modları"
+
+#: groups/single/request-membership.php:4
+#, php-format
+#@ firmasite
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "'%s' adlı gruba üyelik talebinde bulunuyorsunuz."
+
+#: groups/single/request-membership.php:7
+#@ firmasite
+msgid "Comments (optional)"
+msgstr "Yorumlar (opsiyonel)"
+
+#: groups/single/request-membership.php:12
+#@ firmasite
+msgid "Send Request"
+msgstr "İstek Gönder"
+
+#: groups/single/send-invites.php:60
+#@ firmasite
+msgid "Send Invites"
+msgstr "Davet Gönder"
+
+#: members/index.php:22
+#@ firmasite
+msgid "Members Directory"
+msgstr "Üye Dizini"
+
+#: members/index.php:57
+#: members/single/friends.php:23
+#@ firmasite
+msgid "Newest Registered"
+msgstr "Yeni Kayıt"
+
+#: members/members-loop.php:108
+#@ firmasite
+msgid "Sorry, no members were found."
+msgstr "Üzgünüz, hiç üye bulunamadı."
+
+#: members/single/friends/requests.php:68
+#@ firmasite
+msgid "You have no pending friendship requests."
+msgstr "Bekleyen arkadaşlık isteğiniz yok."
+
+#: members/single/groups/invites.php:14
+#, php-format
+#@ firmasite
+msgid "%s members"
+msgstr "%s üye"
+
+#: members/single/groups/invites.php:37
+#@ firmasite
+msgid "You have no outstanding group invites."
+msgstr "Gözden geçirilmemiş grup davetleri kalmadı."
+
+#: members/single/messages/compose.php:5
+#@ firmasite
+msgid "Send To (Username or Friend's Name)"
+msgstr "Gönder (Kullanıcı adı ya da Arkadaş Adı)"
+
+#: members/single/messages/compose.php:14
+#@ firmasite
+msgid "This is a notice to all users."
+msgstr "Bu tüm üyelere bir duyurudur."
+
+#: members/single/messages/compose.php:17
+#@ firmasite
+msgid "Subject"
+msgstr "Konu"
+
+#: members/single/messages/compose.php:20
+#@ firmasite
+msgid "Message"
+msgstr "Mesaj"
+
+#: members/single/messages/compose.php:33
+#@ firmasite
+msgid "Send Message"
+msgstr "Mesajı Gönder"
+
+#: members/single/messages/messages-loop.php:32
+#@ firmasite
+msgid "From:"
+msgstr "Gönderen:"
+
+#: members/single/messages/messages-loop.php:37
+#@ firmasite
+msgid "To:"
+msgstr "Kime:"
+
+#: members/single/messages/messages-loop.php:43
+#@ firmasite
+msgid "View Message"
+msgstr "Mesaja Bak"
+
+#: members/single/messages/messages-loop.php:51
+#: members/single/messages/notices-loop.php:43
+#: members/single/messages/single.php:24
+#@ firmasite
+msgid "Delete Message"
+msgstr "Mesajı Sil"
+
+#: members/single/messages/messages-loop.php:69
+#@ firmasite
+msgid "Sorry, no messages were found."
+msgstr "Üzgünüz, mesaj bulunamadı."
+
+#: members/single/messages/notices-loop.php:36
+#@ firmasite
+msgid "Sent:"
+msgstr "Gönderildi:"
+
+#: members/single/messages/notices-loop.php:54
+#@ firmasite
+msgid "Sorry, no notices were found."
+msgstr "Üzgünüz, herhangi bir bildirim bulunamadı."
+
+#: members/single/messages/single.php:14
+#@ firmasite
+msgid "You are alone in this conversation."
+msgstr "Bu konuşmada yalnızsın."
+
+#: members/single/messages/single.php:18
+#, php-format
+#@ firmasite
+msgid "Conversation between %s and you."
+msgstr "%s ile senin arandaki konuşma."
+
+#: members/single/messages/single.php:75
+#@ firmasite
+msgid "Send a Reply"
+msgstr "Bir Cevap Yolla"
+
+#: members/single/messages/single.php:96
+#@ firmasite
+msgid "Send Reply"
+msgstr "Cevap Yolla"
+
+#: members/single/profile/change-avatar.php:1
+#@ firmasite
+msgid "Change Avatar"
+msgstr "Avatarı Değiş"
+
+#: members/single/profile/change-avatar.php:7
+#@ firmasite
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr "Bu fotoğrafınız profilde ve sitede görüntülenecektir. Eğer e-posta hesabınızla ilişkilendirilmiş bir <a href=\"http://gravatar.com\">Gravatar</a> servisi varsa bu fotoğrafı otomatik olarak kullanabilir, ya da kendi fotoğrafınızı bilgisayarınızdan yükleyebilirsiniz."
+
+#: members/single/profile/change-avatar.php:14
+#@ firmasite
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr "JPG, GIF veya PNG formatında bir resim seçtikten sonra yüklemek için 'Resim Yükle' butonuna tıklayın."
+
+#: members/single/profile/change-avatar.php:23
+#@ firmasite
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr "Eğer güncel fotoğrafınzı silmek ve yeni bir fotoğraf yüklememek istiyorsanız 'Avatarımı Sil' butonuna tıklayın."
+
+#: members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete My Avatar"
+msgstr "Avatarımı Sil"
+
+#: members/single/profile/change-avatar.php:31
+#@ firmasite
+msgid "Crop Your New Avatar"
+msgstr "Yeni Avatarınızı Kesin"
+
+#: members/single/profile/change-avatar.php:55
+#@ firmasite
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr "Fotoğrafınız profilde ve web sayfasında görüntülenecektir. Bu fotoğrafı değiştirmek için, <a href=\"http://gravatar.com\">Gravatar</a> kullanarak bir hesap oluşturun. Hesap oluştururken, bu siteye kayıt sırasında girdiğiniz e-posta adresini kullanın."
+
+#: members/single/profile/edit.php:10
+#, php-format
+#@ firmasite
+msgid "Editing '%s' Profile Group"
+msgstr "'%s' Profil Bilgileri Düzenleniyor"
+
+#: members/single/profile/edit.php:26
+#: members/single/profile/edit.php:33
+#: members/single/profile/edit.php:40
+#: members/single/profile/edit.php:49
+#: members/single/profile/edit.php:67
+#: members/single/profile/edit.php:83
+#: members/single/profile/edit.php:93
+#: registration/register.php:38
+#: registration/register.php:42
+#: registration/register.php:46
+#: registration/register.php:50
+#: registration/register.php:77
+#: registration/register.php:85
+#: registration/register.php:93
+#: registration/register.php:103
+#: registration/register.php:114
+#: registration/register.php:129
+#: registration/register.php:140
+#: registration/register.php:212
+#: registration/register.php:221
+#@ firmasite
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: members/single/profile/edit.php:58
+#: members/single/profile/edit.php:73
+#: registration/register.php:120
+#@ firmasite
+msgid "Clear"
+msgstr "Temizle"
+
+#: members/single/profile/edit.php:118
+#: members/single/profile/edit.php:132
+#: registration/register.php:160
+#: registration/register.php:175
+#, php-format
+#@ firmasite
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "Bu alan şu kişilere gösterilecektir: <span class=\"current-visibility-level label\">%s</span>"
+
+#: members/single/profile/edit.php:118
+#@ firmasite
+msgid "Change"
+msgstr "Değiştir"
+
+#: members/single/profile/edit.php:123
+#: registration/register.php:165
+#@ firmasite
+msgid "Who can see this field?"
+msgstr "Bu alanı kim görebilir?"
+
+#: members/single/profile/profile-wp.php:24
+#@ firmasite
+msgid "About Me"
+msgstr "Hakkımdada"
+
+#: members/single/profile/profile-wp.php:42
+#@ firmasite
+msgid "Jabber"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:51
+#@ firmasite
+msgid "AOL Messenger"
+msgstr ""
+
+#: members/single/profile/profile-wp.php:60
+#@ firmasite
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: members/single/settings/capabilities.php:50
+#@ firmasite
+msgid "Capabilities"
+msgstr "Yetkiler"
+
+#: members/single/settings/capabilities.php:58
+#@ firmasite
+msgid "This user is a spammer."
+msgstr "Bu kullanıcı bir spammer."
+
+#: members/single/settings/capabilities.php:62
+#@ firmasite
+msgid "Save"
+msgstr "Kaydet"
+
+#: members/single/settings/delete-account.php:51
+#: members/single/settings/delete-account.php:77
+#@ firmasite
+msgid "Delete Account"
+msgstr "Hesabı Sil"
+
+#: members/single/settings/delete-account.php:57
+#@ firmasite
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr "Hesabınızı silmek, yarattığınız tüm içeriği de silecektir. Bu işlemin geri dönüşü yoktur."
+
+#: members/single/settings/delete-account.php:61
+#@ firmasite
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr "Bu hesabı silmek, yarattığı tüm içeriği de silecektir. Bu işlemin geri dönüşü yoktur."
+
+#: members/single/settings/delete-account.php:73
+#@ firmasite
+msgid "I understand the consequences."
+msgstr "Sonuçlarını anlıyorum."
+
+#: members/single/settings/general.php:50
+#@ firmasite
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: members/single/settings/general.php:58
+#@ firmasite
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr "Şimdiki Şifreniz <span>(e-posta güncelleme ve şifre değiştirme için gereklidir)</span>"
+
+#: members/single/settings/general.php:59
+#@ firmasite
+msgid "Password Lost and Found"
+msgstr "Kayıp Şifre ve Bulma"
+
+#: members/single/settings/general.php:59
+#@ firmasite
+msgid "Lost your password?"
+msgstr "Şifrenizi mi kaybettiniz?"
+
+#: members/single/settings/general.php:63
+#@ firmasite
+msgid "Account Email"
+msgstr "Hesap E-postası"
+
+#: members/single/settings/general.php:66
+#@ firmasite
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Şifre Değiştir <span>(değişiklik yapmayacaksanız boş bırakın)</span>"
+
+#: members/single/settings/general.php:68
+#@ firmasite
+msgid "Repeat New Password"
+msgstr "Yeni Şifre Tekrar"
+
+#: members/single/settings/notifications.php:50
+#@ firmasite
+msgid "Email Notification"
+msgstr "E-posta Bildirimleri"
+
+#: members/single/settings/notifications.php:55
+#@ firmasite
+msgid "Send a notification by email when:"
+msgstr "Şu durumlarda bana e-posta gönder:"
+
+#: registration/activate.php:13
+#@ firmasite
+msgid "Account Activated"
+msgstr "Hesap Etkinleştirildi"
+
+#: registration/activate.php:18
+#@ firmasite
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr "Hesabınız başarıyla aktive edildi! Hesap bilgileriniz size ayrı bir e-posta ile gönderildi."
+
+#: registration/activate.php:20
+#@ firmasite
+msgid "Your account was activated successfully! You can now log in with the username and password you provided when you signed up."
+msgstr "Hesabınız başarı ile aktif edildi. Şimdi kayıt olduğunuz kullanıcı adı ve şifre ile sisteme giriş yapabilirsiniz."
+
+#: registration/activate.php:25
+#@ firmasite
+msgid "Activate your Account"
+msgstr "Hesabını Aktif Et"
+
+#: registration/activate.php:29
+#@ firmasite
+msgid "Please provide a valid activation key."
+msgstr "Lütfen geçerli bir aktivasyon anahtarı giriniz."
+
+#: registration/activate.php:33
+#@ firmasite
+msgid "Activation Key:"
+msgstr "Aktivasyon Anahtarı:"
+
+#: registration/activate.php:37
+#@ firmasite
+msgid "Activate"
+msgstr "Aktivasyon"
+
+#: registration/register.php:17
+#@ firmasite
+msgid "User registration is currently not allowed."
+msgstr "Kullanıcı kaydı şu an için devre dışı."
+
+#: registration/register.php:28
+#@ firmasite
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr "Bu siteye kaydolmak çok kolaydır, sadece aşağıdaki alanları doldurun ve yeni hesabınızı kullanıma hazır edin."
+
+#: registration/register.php:36
+#@ firmasite
+msgid "Account Details"
+msgstr "Hesap Detayları"
+
+#: registration/register.php:42
+#@ firmasite
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+#: registration/register.php:46
+#@ firmasite
+msgid "Choose a Password"
+msgstr "Şifre Seçiniz"
+
+#: registration/register.php:50
+#@ firmasite
+msgid "Confirm Password"
+msgstr "Şifre Tekrarı"
+
+#: registration/register.php:66
+#@ firmasite
+msgid "Profile Details"
+msgstr "Profil Detayları"
+
+#: registration/register.php:206
+#@ firmasite
+msgid "Blog Details"
+msgstr "Blog Detayları"
+
+#: registration/register.php:208
+#@ firmasite
+msgid "Yes, I'd like to create a new site"
+msgstr "Evet, yeni bir site oluşturmak istiyorum"
+
+#: registration/register.php:212
+#@ firmasite
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: registration/register.php:221
+#@ firmasite
+msgid "Site Title"
+msgstr "Site Başlığı"
+
+#: registration/register.php:225
+#@ firmasite
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr "Blog sayfam Google ve Technorati gibi arama motorlarında, ayrıca bu sitenin genel listelerinde görüntülenebilsin."
+
+#: registration/register.php:242
+#@ firmasite
+msgid "Complete Sign Up"
+msgstr "Kaydı Tamamla"
+
+#: registration/register.php:253
+#@ firmasite
+msgid "Sign Up Complete!"
+msgstr "Kayıt Tamamlandı!"
+
+#: registration/register.php:259
+#@ firmasite
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr "Hesabınızı başarıyla açtınız! Bu web sayfasından daha fazla faydalanmak için e-posta hesabınıza gönderilen aktivasyon mesajını kullanarak hesabınızı etkinleştirin."
+
+#: registration/register.php:261
+#@ firmasite
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr "Hesabınızı başarıyla oluşturdunuz. Şimdi kullanıcı adı ve şifrenizle sisteme giriş yapabilirsiniz."
+
+#: functions/customizer.php:95
+#@ firmasite
+msgid "You can disable dropdown menus automatically open when you hover.<br /> <span class=\"badge badge-warning\"><i class=\"icon-exclamation-sign\"></i> Be careful:</span> Parent menu item will only work for opening dropdown menu and won't work like a link"
+msgstr "Menülerin üzerine gelince otomatik açılışını  kapatabiliriniz.<br /><span class=\"badge badge-warning\"><i class=\"icon-exclamation-sign\"></i> Dikkat:</span> Eğer bu seçeneği etkinleştirirseniz ana menü bağlantısı sadece açılır menüyü açacaktır ve bağlantı gibi çalışmayacaktır."
+
+#: functions/customizer.php:242
+#@ firmasite
+msgid "Loop Style"
+msgstr "Liste Stili"
+
+#: functions/customizer.php:247
+#: functions/customizer.php:253
+#@ firmasite
+msgid "Ordered List"
+msgstr "Sıralı Liste"
+
+#: functions/customizer.php:248
+#: functions/customizer.php:255
+#@ firmasite
+msgid "Ordered List (Excerpt)"
+msgstr "Sıralı Liste (Özet)"
+
+#: functions/customizer.php:249
+#: functions/customizer.php:257
+#@ firmasite
+msgid "Vertical List (Excerpt)"
+msgstr "Dikey Liste (Özet)"
+
+#: functions/customizer.php:254
+#@ firmasite
+msgid "Content will list one by one"
+msgstr "İçerik teker teker gösterilir"
+
+#: functions/customizer.php:256
+#@ firmasite
+msgid "Content's excerpt will list one by one"
+msgstr "İçeriğin özeti teker teker gösterilir."
+
+#: functions/customizer.php:258
+#, php-format
+#@ firmasite
+msgid "Content's excerpt will list vertically (%s in each row)"
+msgstr "İçerik dikey olarak her sırada %s adet gösterilir"
+
+#: templates/post/loop_tile/loop.php:21
+#, php-format
+#@ firmasite
+msgid "%s"
+msgstr ""
+
+#: functions/customizer.php:90
+#@ firmasite
+msgid "Dont make menu automatically open when hover"
+msgstr "Menüler üzerine gelince otomatik açılmasın"
+
+#: functions/promotionbar.php:300
+#@ firmasite
+msgid "In Site Footer"
+msgstr "Site Altında"
+
+#: functions/customizer.php:122
+#@ firmasite
+msgid "You can upload logo for your site."
+msgstr "Sitenize logo yükleyebilirsiniz"
+
+#: functions/customizer.php:151
+#@ firmasite
+msgid "You can change your site's font"
+msgstr "Sitenizin yazı tipini değiştirebilirsiniz"
+
+#: functions/customizer.php:174
+#@ firmasite
+msgid "You can change your site's layout."
+msgstr "Site düzenini değiştirebilirsiniz"
+
+#: functions/customizer.php:195
+#@ firmasite
+msgid "You can change your site's style."
+msgstr "Sitenizin görünüm stilini değiştirebilirsiniz."
+
+#: functions/customizer.php:225
+#@ firmasite
+msgid "If you are using menus, this option will use alternative color for your menus"
+msgstr "Eğer menü özelliğini kullanıyorsanız, bu seçenek ile menünün rengini değiştirebilirsiniz"
+
+#: functions/fix.php:48
+#, php-format
+#@ firmasite
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: functions/init.php:8
+#@ firmasite
+msgid "Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 different layout: content-sidebar,sidebar-content, full content (long), full content(short). 13 different theme styles, Google Fonts, logo upload abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options are using WordPress Theme Customizer feature so you can watch changes live! Designers: This theme built on Twitter Bootstrap, have 0 custom css code and using template_part system so you can easily use it as parent theme! You can find detailed information, showcase, live demo, tips and tricks about theme in: http://theme.firmasite.com/"
+msgstr "FirmaSite esnek bir temadır. 4 çeşit görünüm seçeneği, 13 değişik tema stili, yüzlerce yazı tipi, logo yükleme özelliği ve daha fazlası!"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: activity/comment.php:37
+#: groups/single/forum/edit.php:10
+#@ firmasite
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Cevapla"
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: forums/forums-loop.php:39
+#@ firmasite
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Başlık"
+msgstr[1] ""
+

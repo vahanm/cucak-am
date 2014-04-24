@@ -1,0 +1,1 @@
+/usr/bin/php -q /home/parapam/public_html/cucak.am/cron/cron.php

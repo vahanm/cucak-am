@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Bing Search Tester (Basic)</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <h1>Bing Search Tester (Basic)</h1>
+    <form method="post">
+        <label for="service_op">Service Operation</label><br />
+        <input name="service_op" type="radio" value="Web" checked="checked" />
+        Web
+        <input name="service_op" type="radio" value="Image" />
+        Image
+        <br />
+        <label for="query">Query</label><br />
+        <input name="query" type="text" size="60" maxlength="60" value="" /><br />
+        <br />
+        <input name="bt_search" type="submit" value="Search" />
+    </form>
+    <h2>Results</h2>
+    {RESULTS}
+</body>
+</html>

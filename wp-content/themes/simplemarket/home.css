@@ -1,0 +1,279 @@
+﻿/* Categories page with subs */
+.main-cats-with-subs {
+
+}
+
+.main-cats-with-subs > .cat-item-container {
+    vertical-align: top;
+    border: 3px solid;
+    width: 278px;
+    margin: 3px 3px 6px;
+    padding: 6px 6px 0px;
+    box-shadow: inset 0px 0px 11px 0px, 0px 0px 5px 0px;
+    border-radius: 6px;
+}
+
+.main-cats-with-subs .cat-item-with-subs {
+    width: 266px;
+}
+
+    .main-cats-with-subs .cat-item-with-subs .cat-img {
+        left: 84px;
+    }
+
+.main-cats-with-subs .cat-item-subitems-container {
+    margin-bottom: 10px;
+}
+
+
+.cat-section {
+    text-align: center;
+}
+
+.cat-item {
+    height: 120px;
+    position: relative;
+    border: 1px solid #555;
+    margin: 4px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+}
+
+    .cat-item:hover {
+        border: 2px solid #555;
+        margin: 3px;
+        text-decoration: none;
+    }
+
+    .cat-item:active {
+        border: 3px solid #808080;
+        margin: 2px;
+        text-decoration: none;
+    }
+
+    .cat-item .cat-title {
+        position: relative;
+        top: -10px;
+        left: 4px;
+        width: 90%;
+        font-size: 105%;
+    }
+
+.cat-img {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.cat-group {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #CCCCCC;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 35px;
+    text-align: left;
+    padding-bottom: 3px;
+}
+
+    .cat-group div {
+        display: inline-block;
+    }
+
+.cat-group-header {
+    font-family: 'Arial Unicode';
+    font-size: 20pt;
+    text-align: left;
+    color: #486659;
+    width: 725px;
+}
+
+    .cat-group-header.cat-group-header-helf {
+        width: 475px;
+    }
+
+.cat-group-link {
+    width: 200px;
+    height: 18px;
+    font-size: 10pt;
+    text-align: right;
+}
+
+.cat-group-sub {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #CCCCCC;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding-bottom: 8px;
+    position: relative;
+}
+
+.cat-group-header-sub {
+    font-family: 'Arial Unicode';
+    font-size: 17pt;
+    text-align: center;
+    color: #486659;
+    width: 100%;
+}
+
+.cat-group-link-sub {
+    width: 200px;
+    height: 18px;
+    font-size: 10pt;
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    top: 33px;
+}
+
+
+/* Big */
+.cat-item-big {
+    width: 266px;
+}
+
+    .cat-item-big .cat-img {
+        left: 84px;
+    }
+
+/* Small */
+.cat-item-small {
+    width: 127px;
+}
+
+    .cat-item-small .cat-img {
+        left: 14px;
+    }
+
+/* Sub category */
+.cat-item-sub {
+    width: 220px;
+    height: 50px;
+}
+
+    .cat-item-sub .cat-title {
+        /*	width: 220px;
+    height: 50px; */
+        top: 15px;
+        left: 6px;
+        -ms-text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        overflow-x: hidden;
+        white-space: nowrap;
+        width: auto;
+    }
+
+    .cat-item-sub .cat-img {
+        /* left: 60px;	*/
+        left: 3px;
+        width: 50px;
+        height: 50px;
+        float: left;
+    }
+
+/* Companions */
+.cat-item-comp {
+    width: 220px;
+    text-decoration: none !important;
+}
+
+    .cat-item-comp:hover {
+        text-decoration: none !important;
+    }
+
+    .cat-item-comp .cat-img {
+        left: 60px;
+    }
+
+    .cat-item-comp .cat-name {
+        position: relative;
+        top: -45px;
+        left: 4px;
+        width: 90%;
+        font-size: 120%;
+    }
+
+.cat-count {
+    float: right;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.cat-item-container {
+    display: inline-block;
+    position: relative;
+}
+
+.sub-categories-popup {
+    text-align: center;
+    display: none;
+    border: 3px double #469;
+    position: absolute;
+    background-color: #eee;
+    z-index: 1;
+    width: 945px;
+}
+
+.sub-arrow {
+    display: none;
+    width: 30px;
+    border-left: 1px solid #ddd;
+    height: 120px;
+    position: absolute;
+    z-index: 1;
+    right: 5px;
+    top: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    background-image: url(http://cucak.am/wp-admin/images/sub-menu.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#showMorePartnersButton {
+}
+
+    #showMorePartnersButton:hover {
+    }
+
+    #showMorePartnersButton:active {
+    }
+
+.tile-slide-post {
+}
+
+.tile-slide-thumbnail {
+    width: 55px;
+    height: 55px;
+    left: 5px;
+    top: 5px;
+    border: 1px solid #aaa;
+    position: relative;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.tile-slide-title {
+    margin-left: 71px;
+    margin-top: -55px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.tile-slide-name {
+    margin-right: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+    bottom: 6px;
+    position: relative;
+    text-align: right;
+}

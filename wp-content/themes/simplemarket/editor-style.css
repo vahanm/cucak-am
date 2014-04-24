@@ -1,0 +1,304 @@
+/* Theme Name:SimpleMarket
+Description:Editor style */
+body
+{
+	font-family: 'Droid Sans' ,arial,serif;
+	font-size: 12px;
+	line-height: 22px;
+}
+h1, h2, h3, h4, h5, h6
+{
+	font: bold 1.3em/1.4 'Droid Sans' ,arial,sans-serif;
+}
+h1
+{
+	font-size: 2em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+h2
+{
+	font-size: 1.6em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+h3
+{
+	font-size: 1.5em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+h4
+{
+	font-size: 1.2em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+h5
+{
+	font-size: 1.1em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+h6
+{
+	font-size: 1em;
+	color: #888888;
+	padding-bottom: 0.5em;
+}
+p
+{
+	margin-bottom: 0.8em;
+}
+strong
+{
+	font-weight: bold;
+}
+cite, em, i
+{
+	font-style: italic;
+}
+big
+{
+	font-size: 131.25%;
+}
+blockquote, q
+{
+	font-style: italic;
+	padding: 0px 0.8em;
+	color: #777777;
+	font-size: 18px;
+	line-height: 30px;
+}
+blockquote cite, blockquote em, blockquote i q cite, q em, q i
+{
+	font-style: normal;
+}
+pre
+{
+	margin-bottom: 0.8em;
+	padding: 0.8em;
+}
+sup, sub
+{
+	height: 0;
+	line-height: 1;
+	vertical-align: baseline;
+	position: relative;
+}
+sup
+{
+	bottom: 1ex;
+}
+sub
+{
+	top: .5ex;
+}
+pre, code, kbd, samp, var
+{
+	font-family: monospace,sans-serif;
+}
+del
+{
+	text-decoration: line-through;
+}
+abbr[title], dfn[title]
+{
+	border-bottom: 1px dotted;
+	cursor: help;
+}
+tt
+{
+	color: #666666;
+	text-transform: uppercase;
+}
+hr
+{
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+a:hover, a:active
+{
+	outline: none;
+}
+ul, ol
+{
+	margin-left: 2em;
+}
+ol
+{
+	list-style-type: decimal;
+}
+nav ul, nav li
+{
+	margin: 0;
+	list-style: none;
+	list-style-image: none;
+}
+small
+{
+	font-size: 85%;
+}
+strong, th
+{
+	font-weight: bold;
+}
+td
+{
+	vertical-align: top;
+}
+sub, sup
+{
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+}
+sup
+{
+	top: -0.5em;
+}
+sub
+{
+	bottom: -0.25em;
+}
+pre
+{
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	padding: 10.5em;
+}
+a, a:link
+{
+	color: #889911;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #889911;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #556600;
+	text-decoration: underline;
+}
+ul
+{
+	list-style: square outside none;
+	margin: 0.5em 2em;
+}
+ol
+{
+	list-style: decimal;
+	margin: 0.8em;
+}
+ol ol
+{
+	list-style: upper-alpha;
+}
+ol ol ol
+{
+	list-style: lower-roman;
+}
+ol ol ol ol
+{
+	list-style: lower-alpha;
+}
+ul ul, ol ol, ul ol, ol ul
+{
+	margin-bottom: 0;
+}
+dl
+{
+	margin: 0 0 0.8em 0;
+}
+dt
+{
+	font-weight: bold;
+}
+dd
+{
+	margin-bottom: 0.8em;
+}
+.alignleft, img.alignleft
+{
+	display: inline;
+	float: left;
+	margin-right: 0.8em;
+}
+.alignright, img.alignright
+{
+	display: inline;
+	float: right;
+	margin-left: 0.8em;
+}
+.aligncenter, img.aligncenter
+{
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.alignleft, img.alignright, img.aligncenter
+{
+	margin-bottom: 0.8em;
+}
+img[class*="wp-image-"]
+{
+	height: auto;
+	max-width: 100%;
+}
+img.wp-smiley
+{
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+.wp-caption
+{
+	line-height: 18px;
+	text-align: center;
+	margin-bottom: 0.8em;
+	padding: 0.5em;
+}
+.wp-caption img
+{
+	margin: 0.5em 0.5em 0;
+}
+.wp-caption-text
+{
+	margin: 0.5em;
+	font-size: 12px;
+}
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+input[type="text"], textarea
+{
+	padding: 0.5em;
+	background: #ffffff;
+	border: 1px solid #eeeeee;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+select
+{
+	background: none repeat scroll 0 0 #ffffff;
+	border: 1px solid #eeeeee;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 0.5em;
+}

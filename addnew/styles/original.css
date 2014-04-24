@@ -1,0 +1,110 @@
+<STYLE type="text/css">
+.addpostmaindiv	{
+	float:left;
+	width:600px;
+}
+.addpostinnerdiv	{
+	float:left;
+	width:580px;
+}
+.addpostlbl	{
+	float:left;
+	width:135px;
+}
+.addpostctrl	{
+	float:left;
+	width:400px;
+}
+.upframe	{
+	float:left;
+	width:400px;
+	height: 80px;
+}
+div.addpostctrl .txtbg{
+	border:1px solid #D5D5D5;
+	margin:0px;
+	padding:0px 5px;
+	height:30px;
+	width:90%;	
+}
+div.addpostctrl .txtareabgsum{
+	border:1px solid #D5D5D5;
+	margin:0px;
+	padding:0px 5px;
+	height:30px;
+	width:45%;
+}
+div.addpostctrl .txtareabgcurrency{
+	border:1px solid #D5D5D5;
+	margin:0px;
+	padding:0px 5px;
+	height:30px;
+	width:44.5%;
+}
+div.addpostctrl .txtareabgcont{
+	border:1px solid #D5D5D5;
+	margin:0px;
+	padding:0px 5px;
+	height:400px;
+	width:90%;	
+}
+div.addpostctrl span.hint{
+	color:#3A62E9;
+	font-size:11px;
+	padding:0px 10px;
+}
+.previewtable	{
+	border:5px solid #01678F;
+	width:640px;
+}
+.smllwrdcnt	{
+	padding:0px 0px 0px 10px;
+}
+.addpostsuccess	{
+	color:#009900;
+	font-weight:bold;
+}
+	.perpage { font-size:11px; padding-top:10px;}
+	.WhiteFont{ font-size:11px;padding-left:8px;padding-right:8px;padding-top:2px;padding-bottom:2px; background:#C7C8CA;font-weight:normal; }
+	.WhiteFont-Over{ font-size:11px;padding-left:8px;padding-right:8px;padding-top:2px;padding-bottom:2px; background:#3989C0; color:#FFFFFF; cursor:pointer; }
+	.NavPageFont{font-size:11px; padding-left:8px;padding-right:8px;padding-top:2px;padding-bottom:2px; background:#4A4A4A; color:#fff; cursor:pointer;}
+
+#Preview {
+    -moz-border-radius: 3px 3px 3px 3px;
+    background: none repeat scroll 0 0 #660000;
+    border: 1px solid #660000;
+    color: #FFFFFF;
+    font-family: "American Typewriter",Georgia,serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0;
+    padding: 2px 0;
+    text-decoration: none;
+}
+#submit {
+    -moz-border-radius: 3px 3px 3px 3px;
+    background: none repeat scroll 0 0 #660000;
+    border: 1px solid #660000;
+    color: #FFFFFF;
+    font-family: "American Typewriter",Georgia,serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0;
+    padding: 2px 0;
+    text-decoration: none;
+}
+.error
+{
+	margin: 5px;
+	padding: 3px;
+	border: 1px dashed #FF5353;
+	background-color: #FFECEC;
+	width: 90%;
+	text-align: center;
+	font-size: 110%;
+	vertical-align: middle;
+	color: #CC0000;
+	font-weight: bold;
+}
+
+</STYLE>

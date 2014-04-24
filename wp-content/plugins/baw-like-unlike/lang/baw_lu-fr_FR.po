@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Like unlike\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-08 22:46+0100\n"
+"PO-Revision-Date: 2011-06-08 22:48+0100\n"
+"Last-Translator: Juliobox <juliobosk@gmail.com>\n"
+"Language-Team: Juliobox <juliobosk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\Web\\Sites\\baw\\baw_like_unlike\n"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:6
+msgid "About BoiteAWeb"
+msgstr "A propos de BoiteAWeb"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:7
+msgid "Blog"
+msgstr "Blog"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:7
+msgid "Security Expert Wordpress Blog"
+msgstr "Blog Expert en sécurité WordPress"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:8
+msgid "Site secu"
+msgstr "Site sécu"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:8
+msgid "Web Security Consultant Corporate Website"
+msgstr "Site web corpo de consultant en sécurité web"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/about.php:9
+msgid "Donate"
+msgstr "Don"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:75
+msgid "Connection"
+msgstr "Connexion"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:316
+msgid "No"
+msgstr "Non"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:316
+msgid "for now"
+msgstr "pour le moment"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:319
+msgid "You are using"
+msgstr "Vous utilisez"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:356
+msgid "General"
+msgstr "Général"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:357
+msgid "Texts"
+msgstr "Textes"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:358
+msgid "Pictures"
+msgstr "Images"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:359
+msgid "CSS"
+msgstr "CSS"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:381
+msgid "Save settings"
+msgstr "Sauver"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:410
+msgid "Reset Like/Unlike counter"
+msgstr "Reset les compteurs J'aime/Je n'aime pas"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:415
+msgid "Check this to reset Like/Unlike counter on update."
+msgstr "Cochez pour remettre à 0 les compteurs J'aime/Je n'aime pas lors de la mise à jour."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:456
+msgid "Settings"
+msgstr "Réglages"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:504
+msgid "I like"
+msgstr "J'aime"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:505
+msgid "I don't like"
+msgstr "Je n'aime pas"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:506
+msgid "Error"
+msgstr "Erreur"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:507
+msgid "Clic again to cancel vote."
+msgstr "Cliquez encore pour annuler le vote."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:508
+msgid "A connection or registration is mandatory to vote."
+msgstr "Une connexion est obligatoire pour voter."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:528
+msgid "This plugin requires PHP 5.0 or more"
+msgstr "Cette extension requiert PHP 5.0 ou plus"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/baw_like_unlike.php:532
+msgid "This plugin requires WordPress 3.1 or more. Your version : "
+msgstr "Cette extension requiert WordPress 3.1 ou plus. Votre version :"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:3
+msgid "Button background color"
+msgstr "Couleur du fond du bouton"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:9
+msgid "Button text color"
+msgstr "Couleur du texte du bouton"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:12
+msgid "If empty, color will be the one from website's CSS."
+msgstr "Si vide, la couleur sera celle du CSS du site."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:16
+msgid "Font name"
+msgstr "Nom de la police"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:19
+msgid "Can be a list, separated by commas."
+msgstr "Peut être une liste, séparées par des virgules."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:23
+msgid "Bold font"
+msgstr "Police gras"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:25
+msgid "Yes i want a <strong>bold</strong> font."
+msgstr "Oui je veux une police en <strong>gras</strong>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:29
+msgid "Italic font"
+msgstr "Police italique"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:31
+msgid "Yes i want an <em>italic</em> font."
+msgstr "Oui je veux une police en <em>italique</em>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:35
+msgid "Font size"
+msgstr "Taille de la police"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:38
+msgid "Take care, test the new size of the font in comparison to background image size."
+msgstr "Attention, testez la nouvelle taille de la police par rapport à la taille de l'image de fond."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:42
+msgid "Underline links"
+msgstr "Souligner les liens"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:44
+msgid "Yes i want to underline links."
+msgstr "Oui je veux souligner les liens"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/css.inc.php:45
+msgid "Can be usefull is there is no icon and background."
+msgstr "Peut être utile si il n'y a ni icône et fond."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:3
+msgid "Member access only"
+msgstr "Accès aux membres seulement"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:5
+msgid "Only members can vote like/unlike."
+msgstr "Seuls les membres peuvent voter J'aime/Je n'aime pas."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:9
+msgid "Always log by I.P."
+msgstr "Toujours logger par I.P"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:11
+msgid "Even if only members can vote, IP address will be used to log instead of user ID."
+msgstr "Même si seuls les membres peuvent voter, l'adresse IP sera utilisé dans les logs à la place de leur ID."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:15
+msgid "Use only one button"
+msgstr "Utiliser un seul bouton"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:17
+msgid "Yes i only want the \"Like\" button."
+msgstr "Oui je ne veux que le bouton \"J'aime\"."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:21
+msgid "Show values"
+msgstr "Voir les valeurs"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:23
+msgid "Yes i want to show how many time each button have been clicked."
+msgstr "Oui je veux voir combien de fois chaque bouton a été cliqué."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:24
+msgid "Show in the text the clics value, example : [ I like (10) ]"
+msgstr "Affiche dans le texte le nombre de clics, exemple : [ J'aime (10) ]"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:28
+msgid "Show in pages"
+msgstr "Afficher dans les pages"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:30
+msgid "Yes i want to show my buttons in <strong>pages</strong> too."
+msgstr "Oui je veux voir mes boutons dans les <strong>pages</strong> aussi."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:31
+msgid "Even if unchecked, buttons will be displayed for posts, always."
+msgstr "Même si décoché, les boutons apparaitront dans les articles, toujours."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:35
+msgid "Buttons alignement"
+msgstr "Alignement des boutons."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:37
+msgid "I want to align button on the <strong>left</strong>."
+msgstr "Je veux aligner les boutons à <strong>gauche</strong>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:38
+msgid "I want to align button on the <strong>right</strong>."
+msgstr "Je veux aligner les boutons à <strong>droite</strong>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:42
+msgid "Display buttons ?"
+msgstr "Afficher les boutons ?"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:44
+msgid "I want to show buttons <strong>above</strong> content."
+msgstr "Je veux afficher les boutons <strong>au-dessus</strong> du contenu."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:45
+msgid "I want to show buttons <strong>below</strong> content."
+msgstr "Je veux afficher les boutons <strong>au-dessous</strong> du contenu."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/general.inc.php:46
+msgid "I want to show buttons with <strong>shortcodes</strong>."
+msgstr "Je veux afficher les boutons grâce aux <strong>shortcodes</strong>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:3
+msgid "Icons"
+msgstr "Icônes"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:14
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:29
+msgid "Pictures are in"
+msgstr "Les images sont dans"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:14
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:29
+msgid "It must be <strong>*.png</strong> format."
+msgstr "Elle doivent être au format <strong>*.png</strong>."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/pics.inc.php:18
+msgid "Backgrounds"
+msgstr "Fonds"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:3
+msgid "\"I like\" text"
+msgstr "Texte \"J'aime\""
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:9
+msgid "\"I unlike\" text"
+msgstr "Texte \"Je n'aime pas\""
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:15
+msgid "Text if user is not connected"
+msgstr "Texte si l'utilisateur n'est pas connecté"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:18
+msgid "Use {connection} to add a Connection link and {registration} to add a Registration link."
+msgstr "Utilisez {connection} pour ajouter un lien de Connexion et {registration} pour ajouter un lien d'Inscription."
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:22
+msgid "Text for error cases"
+msgstr "Texte en cas d'erreur"
+
+#: c:\Web\Sites\baw\baw_like_unlike/trunk/includes/texts.inc.php:28
+msgid "Text to cancel a vote"
+msgstr "Texte pour annuler un vote"
+

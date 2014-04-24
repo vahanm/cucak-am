@@ -1,0 +1,13 @@
+body.custom-background.body-special {
+    background: none;
+    /*background: url('//cucak.am/wp-content/plugins/ba-includes/authors/150/resources/images/left-top.png') no-repeat left top fixed,
+                url('//cucak.am/wp-content/plugins/ba-includes/authors/150/resources/images/right-top.png') no-repeat right top fixed;*/
+
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/349/resources/images/background.jpg') no-repeat center bottom fixed;  
+    background-color: #B3EFFF;
+}
+
+            
+body #site-logo {
+    display: none;
+}

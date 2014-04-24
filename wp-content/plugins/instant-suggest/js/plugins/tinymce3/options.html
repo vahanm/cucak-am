@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<!--
+ * Copyright (c) 2013 by InstantSuggest.com
+ * Released under GPL2 License, see http://www.gnu.org/licenses/gpl-2.0.html
+ * For contribution, see http://www.instantsuggest.com/contribution
+ * For contacting, see http://www.instantsuggest.com/contact
+ -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>InstantSuggest Options</title>
+        <script type="text/javascript" src="loader.js?ver=2.0.1"></script>
+        <script type="text/javascript">
+            tinyMCEPopup.onInit.add(function() {
+                OptionsDialog.init();
+            });
+        </script>
+    </head>
+    <body id="InstantSuggestOptions" style="display:none;">
+        <form onsubmit="OptionsDialog.save(); return false;" action="#">
+        <div class="tabs">
+            <ul></ul>
+        </div>
+        
+        <div class="panel_wrapper"></div>
+        
+        <div class="mceActionPanel">
+            <input type="button" class="button" id="help" name="help" value="Help" onclick="window.open(global.$IS.helpLink, '_blank');" style="float:right;" tabindex="9999" />
+            <input type="button" id="cancel" name="cancel" value="Cancel" onclick="tinyMCEPopup.close();" style="float:right;" tabindex="9998" />
+            <input type="submit" id="insert" name="save" value="OK" style="float:right;" tabindex="9997" />
+        </div>
+            
+        </form>
+    </body>
+</html>

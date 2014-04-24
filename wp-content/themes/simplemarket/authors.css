@@ -1,0 +1,48 @@
+﻿body {
+}
+
+.post-header-author
+{
+	padding: 10px;
+	background-color: #FFFFDD;
+	border: 1px dashed #955900;
+	margin-bottom: 20px;
+}
+
+
+.post-title-author
+{
+	font-style: italic;
+	font-variant: normal;
+	/*text-transform: capitalize;*/
+	color: #006666;
+	font-size: x-large;
+}
+
+a.author-menu-item {
+	background-repeat: no-repeat !important;
+	background-position: 8px center !important;
+	padding-left: 40px !important;
+	-font-weight: bold;
+	
+}
+
+.author-menu-home {
+	background-image: url('/wp-includes/images/authors/icons/home.png') !important;
+}
+
+.author-menu-contacts {
+	background-image: url('/wp-includes/images/authors/icons/contacts.png') !important;
+}
+
+.author-menu-photos {
+	background-image: url('/wp-includes/images/authors/icons/photo.png') !important;
+}
+
+.author-menu-settings {
+	background-image: url('/wp-includes/images/authors/icons/settings.png') !important;
+}
+
+.author-menu-cucak {
+	background-image: url('/wp-includes/images/authors/icons/home.png') !important;
+}

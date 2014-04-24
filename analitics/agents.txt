@@ -1,0 +1,485 @@
+/home/parapam/public_html/cucak.amCGI/1.1text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8ISO-8859-1,utf-8;q=0.7,*;q=0.3gzip,deflate,sdchen-US,en;q=0.8,hy;q=0.6,ru;q=0.4max-age=259200wp-settings-1=editor%3Dhtml%26hidetb%3D0%26widgets_access%3Don%26mfold%3Do; wp-settings-time-1=1356636194; mylang=am_HY; viewmode=viewmode-tiles; PHPSESSID=3589593f0d2df9b20f4209a6590667ba; currency=currency-usd; __utma=25945519.993199035.1356544713.1361031911.1361085343.12; __utmb=25945519.14.10.1361085343; __utmc=25945519; __utmz=25945519.1361031911.11.2.utmcsr=test.cucak.am|utmccn=(referral)|utmcmd=referral|utmcct=/; CircleCookieTest=1cucak.amMozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.1782.199.212.105/bin:/usr/bin31.22.4.6920082.199.212.10538547GET/analitics/agent.php/home/parapam/public_html/cucak.am/analitics/agent.php/analitics/agent.php31.22.4.69webmaster@cucak.amcucak.am80HTTP/1.0<address>Apache Server at cucak.am Port 80</address>
+ApacheUSCPUx8WBEUADY@iExIAAAAl/analitics/agent.php1361088339Array0/home/parapam/public_html/cucak.amCGI/1.1text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8gzipmax-age=259200cucak.amMozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.074.125.17.81LP_9156699321435298269/bin:/usr/bin31.22.4.6920074.125.17.8152220GET/analitics/agent.php/home/parapam/public_html/cucak.am/analitics/agent.php/analitics/agent.php31.22.4.69webmaster@cucak.amcucak.am80HTTP/1.0<address>Apache Server at cucak.am Port 80</address>
+ApacheUSCP@R8WBEUADTT2ad8AAAAB/analitics/agent.php1361088505Array0
+
+
+
+
+
+
+/home/parapam/public_html/cucak.amCGI/1.1text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8gzipmax-age=259200cucak.amMozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.074.125.181.17LP_-5675324620579092885/bin:/usr/bin31.22.4.6920074.125.181.1740476GET/analitics/agent.php/home/parapam/public_html/cucak.am/analitics/agent.php/analitics/agent.php31.22.4.69webmaster@cucak.amcucak.am80HTTP/1.0<address>Apache Server at cucak.am Port 80</address>
+ApacheUSCQWh8WBEUADfNGwjsAAAAp/analitics/agent.php1361088602Array0
+
+
+
+
+
+
+/home/parapam/public_html/cucak.amCGI/1.1text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8ISO-8859-1,utf-8;q=0.7,*;q=0.3gzip,deflate,sdchen-US,en;q=0.8,hy;q=0.6,ru;q=0.4max-age=259200wp-settings-1=editor%3Dhtml%26hidetb%3D0%26widgets_access%3Don%26mfold%3Do; wp-settings-time-1=1356636194; mylang=am_HY; viewmode=viewmode-tiles; PHPSESSID=3589593f0d2df9b20f4209a6590667ba; currency=currency-usd; __utma=25945519.993199035.1356544713.1361031911.1361085343.12; __utmb=25945519.16.10.1361085343; __utmc=25945519; __utmz=25945519.1361031911.11.2.utmcsr=test.cucak.am|utmccn=(referral)|utmcmd=referral|utmcct=/; CircleCookieTest=1cucak.amMozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.1782.199.212.105/bin:/usr/bin31.22.4.6920082.199.212.10543205GET/analitics/agent1.php/home/parapam/public_html/cucak.am/analitics/agent1.php/analitics/agent1.php31.22.4.69webmaster@cucak.amcucak.am80HTTP/1.0<address>Apache Server at cucak.am Port 80</address>
+ApacheUSCQhR8WBEUADfNDvkEAAAAZ/analitics/agent1.php1361088645Array0
+
+
+
+
+
+
+/home/parapam/public_html/cucak.amCGI/1.1*/*deflate, gzipmax-age=259200cucak.ambytes=0-524287facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)69.171.247.112/bin:/usr/bin31.22.4.6920069.171.247.11252893GET/analitics/agent1.php/home/parapam/public_html/cucak.am/analitics/agent1.php/analitics/agent1.php31.22.4.69webmaster@cucak.amcucak.am80HTTP/1.0<address>Apache Server at cucak.am Port 80</address>
+ApacheUSCQjR8WBEUADeRxiMAAAAAg/analitics/agent1.php1361088653Array0
+
+
+
+
+
+
+array(33) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(30) "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(32) "en-US,en;q=0.8,hy;q=0.6,ru;q=0.4"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(9) "max-age=0"
+  ["HTTP_COOKIE"]=>
+  string(442) "wp-settings-1=editor%3Dhtml%26hidetb%3D0%26widgets_access%3Don%26mfold%3Do; wp-settings-time-1=1356636194; mylang=am_HY; viewmode=viewmode-tiles; PHPSESSID=3589593f0d2df9b20f4209a6590667ba; currency=currency-usd; __utma=25945519.993199035.1356544713.1361031911.1361085343.12; __utmb=25945519.16.10.1361085343; __utmc=25945519; __utmz=25945519.1361031911.11.2.utmcsr=test.cucak.am|utmccn=(referral)|utmcmd=referral|utmcct=/; CircleCookieTest=1"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_USER_AGENT"]=>
+  string(108) "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(14) "82.199.212.105"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(14) "82.199.212.105"
+  ["REMOTE_PORT"]=>
+  string(5) "41773"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(21) "/analitics/agent1.php"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent1.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent1.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USCRfx8WBEUADeqRmToAAAAS"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent1.php"
+  ["REQUEST_TIME"]=>
+  int(1361088895)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
+
+
+
+
+
+
+
+array(31) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "deflate, gzip"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(14) "max-age=259200"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_RANGE"]=>
+  string(14) "bytes=0-524287"
+  ["HTTP_USER_AGENT"]=>
+  string(73) "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(14) "69.171.247.118"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(14) "69.171.247.118"
+  ["REMOTE_PORT"]=>
+  string(5) "42396"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(21) "/analitics/agent2.php"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent2.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent2.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USCRvB8WBEUADg6cF9gAAAAU"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent2.php"
+  ["REQUEST_TIME"]=>
+  int(1361088956)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
+
+
+
+
+
+
+
+array(31) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(4) "gzip"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(14) "max-age=259200"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_USER_AGENT"]=>
+  string(63) "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "74.125.17.151"
+  ["HTTP_X_GOOG_SOURCE"]=>
+  string(22) "LP_8865146291493345699"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(13) "74.125.17.151"
+  ["REMOTE_PORT"]=>
+  string(5) "45002"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(21) "/analitics/agent2.php"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent2.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent2.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USCRzR8WBEUADWOSi6UAAAAj"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent2.php"
+  ["REQUEST_TIME"]=>
+  int(1361088973)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
+
+
+
+
+
+
+
+array(33) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(30) "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(32) "en-US,en;q=0.8,hy;q=0.6,ru;q=0.4"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(14) "max-age=259200"
+  ["HTTP_COOKIE"]=>
+  string(442) "wp-settings-1=editor%3Dhtml%26hidetb%3D0%26widgets_access%3Don%26mfold%3Do; wp-settings-time-1=1356636194; mylang=am_HY; viewmode=viewmode-tiles; PHPSESSID=3589593f0d2df9b20f4209a6590667ba; currency=currency-usd; __utma=25945519.993199035.1356544713.1361031911.1361085343.12; __utmb=25945519.16.10.1361085343; __utmc=25945519; __utmz=25945519.1361031911.11.2.utmcsr=test.cucak.am|utmccn=(referral)|utmcmd=referral|utmcct=/; CircleCookieTest=1"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_USER_AGENT"]=>
+  string(108) "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(14) "82.199.212.105"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(14) "82.199.212.105"
+  ["REMOTE_PORT"]=>
+  string(5) "46438"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(21) "/analitics/agent2.php"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent2.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent2.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USCTDx8WBEUADmHX1swAAAAh"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent2.php"
+  ["REQUEST_TIME"]=>
+  int(1361089295)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
+
+
+
+
+
+
+
+array(31) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "deflate, gzip"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(14) "max-age=259200"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_RANGE"]=>
+  string(14) "bytes=0-524287"
+  ["HTTP_USER_AGENT"]=>
+  string(73) "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(14) "69.171.247.117"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(14) "69.171.247.117"
+  ["REMOTE_PORT"]=>
+  string(5) "37998"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(21) "/analitics/agent3.php"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent3.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent3.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USCTeR8WBEUADl9gyf0AAAAb"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent3.php"
+  ["REQUEST_TIME"]=>
+  int(1361089401)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
+
+
+
+
+
+
+
+array(33) {
+  ["DOCUMENT_ROOT"]=>
+  string(34) "/home/parapam/public_html/cucak.am"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(30) "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(32) "en-US,en;q=0.8,hy;q=0.6,ru;q=0.4"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(9) "max-age=0"
+  ["HTTP_COOKIE"]=>
+  string(457) "wp-settings-1=editor%3Dhtml%26hidetb%3D0%26widgets_access%3Don%26mfold%3Do; wp-settings-time-1=1360240356; viewmode=viewmode-tiles; __utma=25945519.1819330680.1360236644.1361786488.1361790014.5; __utmz=25945519.1360236644.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); wordpress_logged_in_68879f841b8ef8d251812a3a68e5a7eb=admin%7C1363000389%7C0c883d896dc0e57bb2a8800465a406d4; PHPSESSID=421038137082a5b2c0da77b9e367872e; CircleCookieTest=1; mylang=am_HY"
+  ["HTTP_HOST"]=>
+  string(8) "cucak.am"
+  ["HTTP_USER_AGENT"]=>
+  string(108) "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "212.34.249.58"
+  ["PATH"]=>
+  string(13) "/bin:/usr/bin"
+  ["PROXY_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["QUERY_STRING"]=>
+  string(23) "asdf=dfg&dsfh=dsf&sfg=4"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["REMOTE_ADDR"]=>
+  string(13) "212.34.249.58"
+  ["REMOTE_PORT"]=>
+  string(5) "51417"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["REQUEST_URI"]=>
+  string(45) "/analitics/agent3.php?asdf=dfg&dsfh=dsf&sfg=4"
+  ["SCRIPT_FILENAME"]=>
+  string(55) "/home/parapam/public_html/cucak.am/analitics/agent3.php"
+  ["SCRIPT_NAME"]=>
+  string(21) "/analitics/agent3.php"
+  ["SERVER_ADDR"]=>
+  string(10) "31.22.4.69"
+  ["SERVER_ADMIN"]=>
+  string(18) "webmaster@cucak.am"
+  ["SERVER_NAME"]=>
+  string(8) "cucak.am"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["SERVER_SIGNATURE"]=>
+  string(53) "<address>Apache Server at cucak.am Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["UNIQUE_ID"]=>
+  string(24) "USyuHx8WBEUACTfA0WwAAAAX"
+  ["PHP_SELF"]=>
+  string(21) "/analitics/agent3.php"
+  ["REQUEST_TIME"]=>
+  int(1361882655)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(23) "asdf=dfg&dsfh=dsf&sfg=4"
+  }
+  ["argc"]=>
+  int(1)
+}
+
+
+
+
+
+
+

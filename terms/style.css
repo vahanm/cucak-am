@@ -1,0 +1,46 @@
+﻿#content h1
+{
+	font-size: 14pt;
+	color: #25323F;
+	margin-top: 30px;
+}
+
+#content h2
+{
+	font-size: 13pt;
+	color: #333333;
+	margin-top: 30px;
+}
+
+#content h3
+{
+	font-size: 11pt;
+	color: #2E334B;
+	font-style: italic;
+}
+
+#content p
+{
+	font-size: 11pt;
+	color: #000000;
+	text-align: justify;
+	text-indent: 15px;
+}
+
+#content ul { list-style-type: square; list-style-position: inside; }
+#content ul li
+{
+	font-size: 11pt;
+	color: #000000;
+	text-align: justify;
+	text-indent: 15px;
+}
+
+#content ul#terms_navigator { list-style-type: decimal; list-style-position: outside; }
+#content ul#terms_navigator ul { list-style-type: lower-latin; list-style-position: inside; }
+#content ul#terms_navigator li { font-size: 9pt; color: #000000; text-align: left; text-indent: 4px; }
+
+#content, #content *
+{
+	position: relative;
+}

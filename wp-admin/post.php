@@ -203,8 +203,10 @@ case 'trash':
 	check_admin_referer('trash-' . $post_type . '_' . $post_id);
 
 	$post = & get_post($post_id);
-
-	if ( !current_user_can($post_type_object->cap->delete_post, $post_id) )
+	$user_id = get_current_user_id();
+	
+	//if ( !current_user_can($post_type_object->cap->delete_post, $post_id) )
+	if ( ! ($post->post_author == $user_id || current_user_can($post_type_object->cap->delete_post, $post_id) ))
 		wp_die( __('You are not allowed to move this item to the Trash.') );
 
 	if ( ! wp_trash_post($post_id) )

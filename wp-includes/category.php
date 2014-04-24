@@ -52,7 +52,10 @@ function &get_categories( $args = '' ) {
 
 	foreach ( array_keys( $categories ) as $k )
 		_make_cat_compat( $categories[$k] );
-
+	
+	foreach ( $categories as $cat )
+		$cat->name = __($cat->name);
+	
 	return $categories;
 }
 
@@ -82,6 +85,8 @@ function &get_category( $category, $output = OBJECT, $filter = 'raw' ) {
 	$category = get_term( $category, 'category', $output, $filter );
 	if ( is_wp_error( $category ) )
 		return $category;
+	if ( $category )
+		$category->name = __($category->name);
 
 	_make_cat_compat( $category );
 

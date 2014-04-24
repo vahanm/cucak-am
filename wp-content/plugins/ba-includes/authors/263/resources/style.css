@@ -1,0 +1,178 @@
+﻿@import url("http://www.led.am/css/jquery-ui-1.8.11.custom.css");
+
+body {
+}
+
+    body #site-logo {
+        display: none;
+    }
+
+    body.custom-background.body-special {
+        color: #046DDB;
+        background: #fff;
+    }
+
+    body.body-special div#site-outer {
+        -webkit-box-shadow: 0px 0px 20px 9px #B8B8B8;
+        box-shadow: 0px 0px 20px 9px #B8B8B8;
+    }
+
+a, a:link {
+    color: #0E20F1;
+    text-decoration: none;
+}
+
+    a:visited {
+        color: #0114EC;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #0B28FC;
+        text-decoration: underline;
+    }
+
+h1 {
+    font-size: 1.1em;
+    color: #625DDF;
+    padding-bottom: 0.5em;
+}
+
+.menu-item-active {
+    background-color: #C9DEF8;
+}
+
+body.body-special div#site-inner {
+}
+
+body.body-special article.post {
+}
+
+body.body-special div.viewmode-button {
+}
+
+body.body-special section#sidebar {
+}
+
+body.body-special nav#top-nav {
+    color: #1D82EB;
+    font-weight: bold;
+}
+
+    body.body-special nav#top-nav .topmenu .current a, body.body-special nav#top-nav .topmenu li:hover a {
+        background-color: transparent;
+        color: #fff !important;
+        -webkit-text-shadow: inherit;
+        text-shadow: inherit;
+    }
+
+    body.body-special nav#top-nav .topmenu li {
+        border-radius: 3px;
+    }
+
+    body.body-special nav#top-nav .topmenu .current, body.body-special nav#top-nav .topmenu li:hover {
+        background: rgb(109,179,242);
+        background: -moz-linear-gradient(top, rgba(109,179,242,1) 0%, rgba(84,163,238,1) 50%, rgba(54,144,240,1) 51%, rgba(30,105,222,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(109,179,242,1)), color-stop(50%,rgba(84,163,238,1)), color-stop(51%,rgba(54,144,240,1)), color-stop(100%,rgba(30,105,222,1)));
+        background: -webkit-linear-gradient(top, rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%);
+        background: -o-linear-gradient(top, rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%);
+        background: -ms-linear-gradient(top, rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%);
+        background: linear-gradient(to bottom, rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6db3f2', endColorstr='#1e69de',GradientType=0 );
+    }
+
+    body.body-special nav#top-nav .topmenu .menu-item-active a {
+        background: #C9DEF8;
+    }
+
+    body.body-special nav#top-nav a {
+        color: #1D82EB;
+    }
+
+        body.body-special nav#top-nav a:hover {
+            color: #fff;
+        }
+
+body.body-special header#branding {
+}
+
+body.body-special footer#bottom-footer {
+}
+
+body.body-special nav.pagination {
+}
+
+body.body-special div#footer-links {
+}
+
+
+body.body-special div.filter-container-filters-main {
+    position: absolute;
+    top: 60px;
+    width: 700px;
+}
+
+body.body-special div.filter-container-filters {
+    position: absolute;
+    top: 103px;
+    width: 700px;
+}
+
+body.body-special div.view-modes {
+}
+
+    body.body-special div.view-modes > div {
+    }
+
+
+body.body-special article.view-mode-tiles {
+    position: relative;
+    border: none;
+}
+
+    body.body-special article.view-mode-tiles .thumbnail {
+        border: none;
+    }
+
+    body.body-special article.view-mode-tiles .post-titles {
+        background-color: #F2F2F2;
+        padding: 11px;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+        body.body-special article.view-mode-tiles .post-titles > * {
+            background-color: #F2F2F2;
+        }
+
+    body.body-special article.view-mode-tiles .post-price {
+        font-size: 110%;
+        text-align: center;
+        position: absolute;
+        left: 5px;
+        width: 110px;
+        top: 125px;
+        padding: 5px;
+        border-radius: 0px 10px 10px 0px;
+        -webkit-box-shadow: inset 3px 0px 5px #DADADA;
+        box-shadow: inset 3px 0px 5px #DADADA;
+    }
+
+
+    body.body-special article.view-mode-tiles .post-content-container {
+        height: 90px;
+    }
+
+    body.body-special article.view-mode-tiles .post-content {
+        width: 510px;
+    }
+
+
+    body.body-special article.view-mode-tiles .post-title-list {
+        max-width: 520px;
+    }
+
+body.body-special .filtermenu-separator {
+    display: none;
+}

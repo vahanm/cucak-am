@@ -1,0 +1,59 @@
+body.custom-background.body-special {
+    background: none;
+    /*background: url('//cucak.am/wp-content/plugins/ba-includes/authors/150/resources/images/left-top.png') no-repeat left top fixed,
+                url('//cucak.am/wp-content/plugins/ba-includes/authors/150/resources/images/right-top.png') no-repeat right top fixed;*/
+
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/343/resources/images/back3.jpg') no-repeat center bottom fixed;  
+    background-color: #B3EFFF;
+}
+
+
+
+#site-outer nav#top-nav {
+background: #f2f9fe; /* Old browsers */
+background: -moz-linear-gradient(top,  #f2f9fe 0%, #d6f0fd 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f9fe), color-stop(100%,#d6f0fd)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f2f9fe 0%,#d6f0fd 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f2f9fe 0%,#d6f0fd 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f2f9fe 0%,#d6f0fd 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f2f9fe 0%,#d6f0fd 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f9fe', endColorstr='#d6f0fd',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+
+
+
+div#site-outer {
+    -webkit-box-shadow: 0px 0px 24px rgba(255, 255, 255, 0.97);
+    -moz-box-shadow: 0px 0px 24px rgba(255, 255, 255, 0.97);
+    box-shadow: 0px 0px 24px rgba(255, 255, 255, 0.85);
+}
+
+    div#site-outer .menu-item:not(.menu-item-active) a {
+       
+    }
+
+
+    div#toTop {
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/343/resources/images/up_small.png') center no-repeat;
+    height: 75px;
+    width: 75px;
+    text-indent: -999px;
+    overflow: hidden;
+    border: none;
+}
+
+    div#toTop:hover {
+        background: url('//cucak.am/wp-content/plugins/ba-includes/authors/343/resources/images/up_hover_small.png') center no-repeat;
+       /* -webkit-box-shadow: inset 0px 0px 20px #85FF00;
+        box-shadow: inset 0px 0px 20px #85FF00;
+        border-radius: 20px;
+           */
+    }
+
+            
+body #site-logo {
+    display: none;
+}

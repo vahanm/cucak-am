@@ -1,0 +1,21 @@
+body.custom-background.body-special {
+    background: #FFFAFA;
+    background-image: none;
+}
+
+div#site-outer {
+    -webkit-box-shadow: 0px 0px 24px rgba(2, 0, 0, 0.97);
+    -moz-box-shadow: 0px 0px 24px rgba(2, 0, 0, 0.97);
+    box-shadow: 0px 0px 24px rgba(2, 0, 0, 0.97);
+}
+
+#site-outer nav#top-nav {
+    background: #ff96b0;
+    background: -moz-linear-gradient(top, #ff96b0 0%, #f2376f 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff96b0), color-stop(100%,#f2376f));
+    background: -webkit-linear-gradient(top, #ff96b0 0%,#f2376f 100%);
+    background: -o-linear-gradient(top, #ff96b0 0%,#f2376f 100%);
+    background: -ms-linear-gradient(top, #ff96b0 0%,#f2376f 100%);
+    background: linear-gradient(to bottom, #ff96b0 0%,#f2376f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff96b0', endColorstr='#f2376f',GradientType=0 );
+}

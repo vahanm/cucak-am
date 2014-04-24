@@ -1,0 +1,90 @@
+﻿
+html { margin-top: 0px !important; }
+* html body { margin-top: 0px !important; }
+
+body {
+    margin: 1px;
+    padding: 1px;
+}
+.google-images-label {
+    margin: 1px;
+    font-size: 10pt;
+    float: right;
+    color: #3f7eff;
+    text-decoration: underline;
+}
+.error {
+    padding: 5px;
+    margin: 2px;
+    border: 1px dashed #FF0000;
+    background-color: #FFFFCC;
+    color: #800000;
+    font-weight: bold;
+    font-size: 10pt;
+    text-align: center;
+}
+.info {
+    padding: 5px;
+    margin: 2px;
+    border: 1px dashed #00FF00;
+    background-color: #FFFFCC;
+    color: #008000;
+    font-weight: bold;
+    font-size: 10pt;
+    text-align: center;
+}
+.content {
+    border-style: double none none none;
+    border-width: 3px;
+    border-color: #C0C0C0;
+    overflow: scroll;
+    height: 200px;
+}
+
+.article {
+    border: 1px solid #CCCCCC;
+    padding: 5px;
+    margin: 2px;
+    cursor: pointer;
+}
+.title {
+    font-weight: normal;
+    font-size: 12pt;
+}
+.description {
+    font-weight: normal;
+    font-size: 10pt;
+    color: #666;
+}
+
+/* Tooltip */
+
+.abs {
+    position: absolute;
+    padding: 10px; 
+    border: solid 1px #bbbbbb;
+    
+    background-color: #fafafa;
+    background: -moz-linear-gradient(top,#fafafa 0%,#eaeaea 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fafafa),color-stop(100%,#eaeaea)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,#fafafa 0%,#eaeaea 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,#fafafa 0%,#eaeaea 100%); /* Opera11.10+ */
+    background: -ms-linear-gradient(top,#fafafa 0%,#eaeaea 100%); /* IE10+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa',endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+    background: linear-gradient(top,#fafafa 0%,#eaeaea 100%); /* W3C */
+
+    -moz-box-shadow: 0 0 0 4px rgba(0,0,0,0.124),0 0 3px 0 rgba(0,0,0,0.15),0 0 0 5px rgba(0,0,0,0.02);
+    -webkit-box-shadow: 0 0 0 4px rgba(0,0,0,0.124),0 0 3px 0 rgba(0,0,0,0.15),0 0 0 5px rgba(0,0,0,0.02);
+    box-shadow: 0 0 0 4px rgba(0,0,0,0.124),0 0 3px 0 rgba(0,0,0,0.15),0 0 0 5px rgba(0,0,0,0.02);
+    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    visibility: hidden; 
+    left: 0px; 
+    top: 0px; 
+    filter: alpha(opacity=109.99999999999998); 
+    opacity: 1.1;
+    z-index: 1000;
+}

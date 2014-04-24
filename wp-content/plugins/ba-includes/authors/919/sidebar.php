@@ -1,0 +1,8 @@
+﻿<?php
+
+getBaForm(0, 'sidebar', '', '<hr />', 'authors');
+
+helper_likebox(array(
+    'facebook' => 'https://www.facebook.com/computers.code',
+   // 'vkontakte' => '56028624', 
+));

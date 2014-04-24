@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<!--
+ * Copyright (c) 2013 by InstantSuggest.com
+ * Released under GPL2 License, see http://www.gnu.org/licenses/gpl-2.0.html
+ * For contribution, see http://www.instantsuggest.com/contribution
+ * For contacting, see http://www.instantsuggest.com/contact
+ -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>InstantSuggest Toolbox</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <script type="text/javascript" src="loader.js"></script>
+         <script type="text/javascript">
+            tinyMCEPopup.onInit.add(function() {
+                ContentDialog.init();
+            });
+        </script>
+        <style type="text/css">
+            .panel_wrapper {
+                overflow: auto;
+            }
+            .panel_wrapper div.current {
+                height: 460px;
+            }
+            ul {
+                list-style-type: none;
+                margin: 0px;
+                padding: 0px 0px 0px 15px;
+            }
+            ul.root {
+                padding-left: 0px;
+            }
+            div.action.top {
+                margin: 10px 0px 5px 0px;
+            }
+            div.action.bottom {
+                margin: 10px 0px 0px 0px;
+            }
+            img.loading {
+                margin-left: 10px;
+            }
+            div.article .meta {
+                font-style: italic;
+            }
+            .article .title a {
+                color: #2B6FB6;
+                text-decoration: underline;
+                cursor: hand;
+            }
+            .output {
+                width: 100%;
+            }
+            .output td {
+                vertical-align: top;
+            }
+            .output td.recommendation {
+                width: 25%;
+            }
+        </style>
+    </head>
+    <body id="InstantSuggestContentToolbox" style="display:none;">
+        <form onsubmit="return false;" action="#">
+        <div class="tabs">
+            <ul>
+                <li id="keyword_tab"><span><a href="javascript:ContentDialog.openTab('keyword');" onmousedown="return false;">Keyword Research</a></span></li>
+                <li id="article_tab"><span><a href="javascript:ContentDialog.openTab('article');" onmousedown="return false;">Search Articles</a></span></li>
+            </ul>
+        </div>
+        
+        <div class="panel_wrapper">
+            <div id="keyword_panel" class="panel">
+                <label for="keyword_query">Enter keyword</label>
+                <input type="text" id="keyword_query" size="53" onkeydown="ContentDialog.onQueryKeyDown(event);" />
+                <input type="button" value="Suggest" onclick="ContentDialog.getContent('keyword');" />
+                <input type="button" value="Options" onclick="ContentDialog.openOptionsDialog('keyword');" />
+                <div class="action top"></div>
+                <table id="keyword_output" class="output">
+                    <tr>
+                        <td id="keyword_suggestions" class="suggestions"></td>
+                        <td id="keyword_recommendation" class="recommendation" style="display:none;"></td>
+                    </tr>
+                </table>
+                <div class="action bottom"></div>
+            </div>
+            
+            <div id="article_panel" class="panel">
+                <label for="article_query">Enter keyword</label>
+                <input type="text" id="article_query" size="53" onkeydown="ContentDialog.onQueryKeyDown(event);" />
+                <input type="button" value="Search" onclick="ContentDialog.getContent('article');" />
+                <input type="button" value="Options" onclick="ContentDialog.openOptionsDialog('article');" />
+                <div class="action top"></div>
+                <table id="article_output" class="output">
+                    <tr>
+                        <td id="article_suggestions" class="suggestions"></td>
+                        <td id="article_recommendation" class="recommendation" style="display:none;"></td>
+                    </tr>
+                </table>
+                <div class="action bottom"></div>
+            </div>
+        </div>
+        
+        <div class="mceActionPanel">
+            <input type="button" class="button" id="help" name="help" value="Help" onclick="window.open(global.$IS.helpLink, '_blank');" style="float:right;" tabindex="9999" />
+            <input type="button" id="insert" name="close" value="Close" onclick="tinyMCEPopup.close();" style="float:right;" tabindex="9998" />
+        </div>
+            
+        </form>
+    </body>
+</html>

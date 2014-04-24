@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel title="GreenStyle Pro v3.5 DEMO">
+	<item type="checkBox" name="property5">
+		<title><![CDATA[AutoSlideshow]]></title>
+		<description><![CDATA[]]></description>
+		<selected>true</selected>
+	</item>
+	<item type="numericSteper" name="property2">
+		<title><![CDATA[Slideshow Delay]]></title>
+		<description><![CDATA[]]></description>
+		<maximum>30</maximum>
+		<minimum>0</minimum>
+		<stepSize>1</stepSize>
+		<value>10</value>
+	</item>
+	<item type="comboBox" name="property0">
+		<title><![CDATA[Flash Object WMode]]></title>
+		<description><![CDATA[If 'transparent' - "Background Color" option is ignored, but you can position the absolute elements over the flash.]]></description>
+		<data>
+			<label name="Window"><![CDATA[window]]></label>
+			<label name="Transparent"><![CDATA[transparent]]></label>
+			<label name="Opaque"><![CDATA[opaque]]></label>
+		</data>
+		<prompt><![CDATA[]]></prompt>
+		<rowCount>3</rowCount>
+		<value><![CDATA[opaque]]></value>
+	</item>
+	<item type="checkBox" name="swfmousewheel">
+		<title><![CDATA[SWF Mouse Wheel]]></title>
+		<description><![CDATA[Turn On/Off mouse wheel detection over Gallery.]]></description>
+		<selected>false</selected>
+	</item>
+	<item type="colorPicker" name="property1">
+		<title><![CDATA[Background Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="property6">
+		<title><![CDATA[Bars Background Color]]></title>
+		<description><![CDATA[Background color for Categories bar, Thumbnails bar and Scroll bar.]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x000000</selectedColor>
+	</item>
+	<item type="slider" name="scrollSpeed">
+		<title><![CDATA[Scrolling Speed (Thumbnails)]]></title>
+		<maximum>200</maximum>
+		<minimum>0</minimum>
+		<snapInterval>10</snapInterval>
+		<tickInterval>10</tickInterval>
+		<value>50</value>
+	</item>
+	<item type="textInput" name="thumbnailsText">
+		<title><![CDATA[THUMBNAILS]]></title>
+		<description><![CDATA[THUMBNAILS Button Name]]></description>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[]]></restrict>
+		<text><![CDATA[THUMBNAILS]]></text>
+	</item>
+	<item type="textInput" name="slideshowText">
+		<title><![CDATA[SLIDESHOW]]></title>
+		<description><![CDATA[SLIDESHOW Button Name]]></description>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[]]></restrict>
+		<text><![CDATA[SLIDESHOW]]></text>
+	</item>
+		<item type="textInput" name="fullscreenText">
+		<title><![CDATA[FULLSCREEN]]></title>
+		<description><![CDATA[FULLSCREEN Button Name]]></description>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[]]></restrict>
+		<text><![CDATA[FULLSCREEN]]></text>
+	</item>
+	<item type="colorPicker" name="imageBorderColor">
+		<title><![CDATA[Image Border Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x565f68</selectedColor>
+	</item>
+<item type="numericSteper" name="borderSize">
+		<title><![CDATA[Image Border Size]]></title>
+		<description><![CDATA[]]></description>
+		<maximum>30</maximum>
+		<minimum>0</minimum>
+		<stepSize>1</stepSize>
+		<value>4</value>
+	</item>
+	<item type="colorPicker" name="infoButtonBgColor">
+		<title><![CDATA[Info Button Bg Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x292e32</selectedColor>
+	</item>
+	<item type="colorPicker" name="infoButtonTxtColor">
+		<title><![CDATA[Info Button Text Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="property7">
+		<title><![CDATA[Category Buttons Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x75c30f</selectedColor>
+	</item>
+	<item type="colorPicker" name="property8">
+		<title><![CDATA[Category Buttons Color on Mouseover]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="thumbColor">
+		<title><![CDATA[Thumbnails Border Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="thumbColorOver">
+		<title><![CDATA[Selected Thumbnail - Border Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x565f68</selectedColor>
+	</item>
+	<item type="colorPicker" name="property15">
+		<title><![CDATA[Image Title Color]]></title>
+		<description><![CDATA[Color of text for image title in the description.]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x75c30f</selectedColor>
+	</item>
+	<item type="colorPicker" name="property16">
+		<title><![CDATA[Image Description Text Color]]></title>
+		<description><![CDATA[Color of text for image description.]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="backButtonColorText">
+		<title><![CDATA[Back Button Text Color]]></title>
+		<description><![CDATA[Full Window Gallery Template.]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="backButtonColorBg">
+		<title><![CDATA[Back Button BG Color]]></title>
+		<description><![CDATA[Full Window Gallery Template.]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x000000</selectedColor>
+	</item>
+<properties>
+  <property0><![CDATA[opaque]]></property0>
+  <swfmousewheel>false</swfmousewheel>
+  <property1>0xffffff</property1>
+  <property2>10</property2>
+  <property5>true</property5>
+  <property6>0x000000</property6>
+  <property7>0x75c30f</property7>
+  <property8>0xffffff</property8>
+  <property15>0x75c30f</property15>
+  <property16>0xffffff</property16>
+  <imageBorderColor>0x565f68</imageBorderColor>
+  <infoButtonBgColor>0x292e32</infoButtonBgColor>
+  <infoButtonTxtColor>0xffffff</infoButtonTxtColor>
+  <backButtonColorText>0xffffff</backButtonColorText>
+  <thumbColor>0xffffff</thumbColor>
+  <thumbColorOver>0x565f68</thumbColorOver>
+  <thumbnailsText><![CDATA[THUMBNAILS]]></thumbnailsText>
+  <slideshowText><![CDATA[SLIDESHOW]]></slideshowText>
+  <fullscreenText><![CDATA[FULLSCREEN]]></fullscreenText>
+  <scrollSpeed>50</scrollSpeed>
+  <borderSize>4</borderSize>
+</properties>
+</panel>

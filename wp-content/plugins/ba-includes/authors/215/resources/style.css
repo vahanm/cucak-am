@@ -1,0 +1,47 @@
+body.custom-background.body-special {
+    background: none;
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/215/resources/images/226959-1920x1200.jpg') center top fixed no-repeat;
+    background-color: #fff;
+}
+
+#site-wrapper {
+    opacity: 0.9;
+}
+
+#site-outer nav#top-nav {
+    background: rgba(195, 66, 255, 0.35);
+    background: -moz-linear-gradient(top, rgba(195, 66, 255, 0.28) 0%, rgba(151, 86, 183, 0.5) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(195, 66, 255, 0.28)), color-stop(100%,rgba(151, 86, 183, 0.5)));
+    background: -webkit-linear-gradient(top, rgba(195, 66, 255, 0.28) 0%,rgba(151, 86, 183, 0.5) 100%);
+    background: -o-linear-gradient(top, rgba(195, 66, 255, 0.28) 0%,rgba(151, 86, 183, 0.5) 100%);
+    background: -ms-linear-gradient(top, rgba(195, 66, 255, 0.28) 0%,rgba(151, 86, 183, 0.5) 100%);
+    background: linear-gradient(to bottom, rgba(195, 66, 255, 0.28) 0%,rgba(151, 86, 183, 0.5) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(195, 66, 255, 0.28)', endColorstr='rgba(151, 86, 183, 0.5)',GradientType=0 );
+}
+
+div#site-outer {
+    -webkit-box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+    -moz-box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+    box-shadow: 0px 0px 24px rgba(17, 124, 223, 0.97);
+}
+
+    div#site-outer .menu-item:not(.menu-item-active) a {
+        
+    }
+
+div#toTop {
+    background: url('//cucak.am/wp-content/plugins/ba-includes/authors/215/resources/images/1373636985_Flower.png') center no-repeat;
+    height: 70px;
+    width: 40px;
+    text-indent: -999px;
+    overflow: hidden;
+}
+
+    div#toTop:hover {
+        background: url('//cucak.am/wp-content/plugins/ba-includes/authors/215/resources/images/1373636985_Flower.png') center no-repeat;
+        background-color: #FAEBC4;
+    }
+
+body #site-logo {
+    display: none;
+}

@@ -1,0 +1,1143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Flag 2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-12 13:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag\n"
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:14
+msgid "Afghanistan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:21
+msgid "Åland Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:28
+msgid "Albania"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:35
+msgid "Algeria"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:42
+msgid "American Samoa"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:49
+msgid "Andorra"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:56
+msgid "Angola"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:63
+msgid "Anguilla"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:70
+msgid "Antarctica"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:77
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:84
+msgid "Argentina"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:91
+msgid "Armenia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:98
+msgid "Aruba"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:105
+msgid "Australia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:112
+msgid "Austria"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:119
+msgid "Azerbaijan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:126
+msgid "Bahamas"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:133
+msgid "Bahrain"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:140
+msgid "Bangladesh"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:147
+msgid "Barbados"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:154
+msgid "Belarus"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:161
+msgid "Belgium"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:168
+msgid "Belize"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:175
+msgid "Benin"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:182
+msgid "Bermuda"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:189
+msgid "Bhutan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:196
+msgid "Bolivia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:203
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:210
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:217
+msgid "Botswana"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:224
+msgid "Bouvet Island"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:231
+msgid "Brazil"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:238
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:245
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:252
+msgid "Bulgaria"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:259
+msgid "Burkina Faso"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:266
+msgid "Burundi"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:273
+msgid "Cambodia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:280
+msgid "Cameroon"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:287
+msgid "Canada"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:294
+msgid "Cape Verde"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:301
+msgid "Cayman Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:308
+msgid "Central African Republic"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:315
+msgid "Chad"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:322
+msgid "Chile"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:329
+msgid "China"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:336
+msgid "Christmas Island"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:343
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:350
+msgid "Colombia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:357
+msgid "Comoros"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:364
+msgid "The Democratic Republic of the Congo"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:371
+msgid "Congo"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:378
+msgid "Cook Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:385
+msgid "Costa Rica"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:392
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:399
+msgid "Croatia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:406
+msgid "Cuba"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:413
+msgid "Curaçao"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:420
+msgid "Cyprus"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:427
+msgid "Czech Republic"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:434
+msgid "Denmark"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:441
+msgid "Djibouti"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:448
+msgid "Dominica"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:455
+msgid "Dominican Republic"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:462
+msgid "Ecuador"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:469
+msgid "Egypt"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:476
+msgid "El Salvador"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:483
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:490
+msgid "Eritrea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:497
+msgid "Estonia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:504
+msgid "Ethiopia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:511
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:518
+msgid "Faroe Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:525
+msgid "Fiji"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:532
+msgid "Finland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:539
+msgid "France"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:546
+msgid "French Guiana"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:553
+msgid "French Polynesia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:560
+msgid "French Southern Territories"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:567
+msgid "Gabon"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:574
+msgid "Gambia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:581
+msgid "Georgia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:588
+msgid "Germany"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:595
+msgid "Ghana"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:602
+msgid "Gibraltar"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:609
+msgid "Greece"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:616
+msgid "Greenland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:623
+msgid "Grenada"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:630
+msgid "Guadeloupe"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:637
+msgid "Guam"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:644
+msgid "Guatemala"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:651
+msgid "Guernsey"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:658
+msgid "Guinea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:665
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:672
+msgid "Guyana"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:679
+msgid "Haiti"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:686
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:693
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:700
+msgid "Honduras"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:707
+msgid "Hong Kong"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:714
+msgid "Hungary"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:721
+msgid "Iceland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:728
+msgid "India"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:735
+msgid "Indonesia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:742
+msgid "Iran"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:749
+msgid "Iraq"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:756
+msgid "Ireland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:763
+msgid "Isle of Man"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:770
+msgid "Israel"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:777
+msgid "Italy"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:784
+msgid "Jamaica"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:791
+msgid "Japan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:798
+msgid "Jersey"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:805
+msgid "Jordan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:812
+msgid "Kazakhstan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:819
+msgid "Kenya"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:826
+msgid "Kiribati"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:833
+msgid "North Korea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:840
+msgid "South Korea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:847
+msgid "Kuwait"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:854
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:861
+msgid "Lao"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:868
+msgid "Latvia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:875
+msgid "Lebanon"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:882
+msgid "Lesotho"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:889
+msgid "Liberia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:896
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:903
+msgid "Liechtenstein"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:910
+msgid "Lithuania"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:917
+msgid "Luxembourg"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:924
+msgid "Macao"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:931
+msgid "Macedonia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:938
+msgid "Madagascar"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:945
+msgid "Malawi"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:952
+msgid "Malaysia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:959
+msgid "Maldives"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:966
+msgid "Mali"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:973
+msgid "Malta"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:980
+msgid "Marshall Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:987
+msgid "Martinique"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:994
+msgid "Mauritania"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1001
+msgid "Mauritius"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1008
+msgid "Mayotte"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1015
+msgid "Mexico"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1022
+msgid "Micronesia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1029
+msgid "Moldova"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1036
+msgid "Monaco"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1043
+msgid "Mongolia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1050
+msgid "Montenegro"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1057
+msgid "Montserrat"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1064
+msgid "Morocco"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1071
+msgid "Mozambique"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1078
+msgid "Myanmar"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1085
+msgid "Namibia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1092
+msgid "Nauru"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1099
+msgid "Nepal"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1106
+msgid "Netherlands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1113
+msgid "New Caledonia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1120
+msgid "New Zealand"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1127
+msgid "Nicaragua"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1134
+msgid "Niger"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1141
+msgid "Nigeria"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1148
+msgid "Niue"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1155
+msgid "Norfolk Island"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1162
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1169
+msgid "Norway"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1176
+msgid "Oman"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1183
+msgid "Pakistan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1190
+msgid "Palau"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1197
+msgid "Palestinian Territory"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1204
+msgid "Panama"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1211
+msgid "Papua New Guinea"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1218
+msgid "Paraguay"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1225
+msgid "Peru"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1232
+msgid "Philippines"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1239
+msgid "Pitcairn Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1246
+msgid "Poland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1253
+msgid "Portugal"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1260
+msgid "Puerto Rico"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1267
+msgid "Qatar"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1274
+msgid "Reunion"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1281
+msgid "Romania"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1288
+msgid "Russian Federation"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1295
+msgid "Rwanda"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1302
+msgid "Saint Barthelemy"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1309
+msgid "Saint Helena"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1316
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1323
+msgid "Saint Lucia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1330
+msgid "Saint Martin"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1337
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1344
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1351
+msgid "Samoa"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1358
+msgid "San Marino"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1365
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1372
+msgid "Saudi Arabia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1379
+msgid "Senegal"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1386
+msgid "Serbia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1393
+msgid "Seychelles"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1400
+msgid "Sierra Leone"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1407
+msgid "Singapore"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1414
+msgid "Sint Maarten"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1421
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1428
+msgid "Slovenia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1435
+msgid "Solomon Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1442
+msgid "Somalia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1449
+msgid "South Africa"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1456
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1463
+msgid "South Sudan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1470
+msgid "Spain"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1477
+msgid "Sri Lanka"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1484
+msgid "Sudan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1491
+msgid "Suriname"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1498
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1505
+msgid "Swaziland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1512
+msgid "Sweden"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1519
+msgid "Switzerland"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1526
+msgid "Syria"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1533
+msgid "Taiwan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1540
+msgid "Tajikistan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1547
+msgid "Tanzania"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1554
+msgid "Thailand"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1561
+msgid "Timor-Leste"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1568
+msgid "Togo"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1575
+msgid "Tokelau"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1582
+msgid "Tonga"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1589
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1596
+msgid "Tunisia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1603
+msgid "Turkey"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1610
+msgid "Turkmenistan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1617
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1624
+msgid "Tuvalu"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1631
+msgid "Uganda"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1638
+msgid "Ukraine"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1645
+msgid "United Arab Emirates"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1652
+msgid "United Kingdom"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1659
+msgid "United States of America"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1666
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1673
+msgid "Uruguay"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1680
+msgid "Uzbekistan"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1687
+msgid "Vanuatu"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1694
+msgid "Venezuela"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1701
+msgid "Vietnam"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1708
+msgid "British Virgin Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1715
+msgid "United States Virgin Islands"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1722
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1729
+msgid "Western Sahara"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1736
+msgid "Yemen"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1743
+msgid "Zambia"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/iso-3166-2.php:1750
+msgid "Zimbabwe"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:116
+msgid "every week"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:169
+msgid "IP address not found inside database."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:193
+msgid "Quick Flag database updated."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:254
+msgid "Donate"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:267
+msgid "Settings"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:293
+msgid "Donating or getting help"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:294
+msgid "General options"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:295
+msgid "Quick Flag database options"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:297
+msgid "Debug mode (enable only when debugging):"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:298
+msgid "Enable automatic weekly database update check:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:300
+msgid "Current database status:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:303
+msgid "Donate using PayPal (sincere thank you for your help):"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:304
+#, php-format
+msgid "%s version:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:305
+#, php-format
+msgid "%s FAQ:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:306
+#, php-format
+msgid "%s changelog:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:307
+#, php-format
+msgid "%s support page:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:312
+#, php-format
+msgid "If you find %s useful you can donate to help it's development. Also you can get help with %s:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:318
+msgid "Here you can control all general options:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:324
+msgid "Here you can control all Quick Flag database options:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:329
+msgid "FAQ"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:337
+msgid "Changelog"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:341
+#, php-format
+msgid "%s at TechyTalk.info"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:371
+msgid "Database missing or corrupted, please update"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:376
+msgid "Update"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:384
+msgid "Quick Flag database already up to date."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:388
+msgid "Couldn't fetch Quick Flag database zip file. Fetching remote content not supported or remote server is down."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:397
+msgid "Couldn't write Quick Flag database zip file to local file system. Please check permissions."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:401
+msgid "Couldn't unzip Quick Flag database zip file to local file system. Please check permissions and your server unzip capabilities."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:407
+msgid "Couldn't write Quick Flag database version file to local file system. Please check permissions."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:473
+msgid "Couldn't read Quick Flag database file from local file system. Please check permissions."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-flag/quick-flag.php:485
+msgid "Remote Quick Flag database version not readable."
+msgstr ""
+

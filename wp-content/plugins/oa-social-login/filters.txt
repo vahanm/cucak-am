@@ -1,0 +1,38 @@
+********************************************************************************
+* Example for using your own CSS
+********************************************************************************
+
+Add this code to the end of the functions.php file of your WordPress theme.
+By doing so your changes will not be overwritten when you install a new version of Social Login.
+Replace the URL in the example by an URL to your own CSS Stylesheet
+ 
+
+ function oa_social_login_set_custom_css($css_theme_uri)
+ {
+ 	//Added to use custom CSS
+	$css_theme_uri = 'http://public.oneallcdn.com/css/api/socialize/themes/buildin/connect/large-v1.css';
+	
+	//Done
+	return $css_theme_uri;
+ }
+ add_filter('oa_social_login_default_css', 'oa_social_login_set_custom_css');
+ add_filter('oa_social_login_widget_css', 'oa_social_login_set_custom_css');
+
+
+********************************************************************************
+* Example for restricting access for email addresses of a specific domain
+********************************************************************************
+
+Add this code to the end of the functions.php file of your WordPress theme.
+By doing so your changes will not be overwritten when you install a new version of Social Login.
+
+function oa_social_login_filter_new_user_email ($user_email)
+{
+	//Only users with social network accounts having an email address ending in @gmail.com my register
+	if ( ! preg_match ('/@gmail\.com$/i', trim ($user_email)))
+	{
+		return 'disallowed';
+	}
+	return $user_email;
+}
+add_filter('oa_social_login_filter_new_user_email', 'oa_social_login_filter_new_user_email');

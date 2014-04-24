@@ -1,0 +1,133 @@
+/* Loading indicator */
+div.quick-count-loading{}
+
+/* Hide containers by default */
+div.quick-count-online-count,
+div.quick-count-online-count-each,
+div.quick-count-most-online,
+div.quick-count-visitors-map,
+div.quick-count-by-country,
+div.quick-count-list{
+    display: none;
+}
+
+/** Shortcode and dashboard subpage **/
+.quick-count-shortcode div{margin: 5px 0;}
+.quick-count-shortcode div.quick-count-list{margin-top: 20px;}
+.quick-count-shortcode div.quick-count-list-group{margin: 15px 0;}
+.quick-count-shortcode div.quick-count-list-group-title{font-size: 120%;}
+.quick-count-shortcode div.quick-count-list-single-data{margin: 10px 0;}
+.quick-count-shortcode div.quick-count-visitors-map{margin: 20px auto;}
+
+/** Sidebar and dashboard widget **/
+.quick-count-widget div{margin: 5px 0;}
+.quick-count-widget div.quick-count-list{margin-top: 5px;}
+.quick-count-widget div.quick-count-list-group{margin: 3px 0;}
+.quick-count-widget div.quick-count-list-group-title{font-size: 120%;}
+.quick-count-widget div.quick-count-list-single-data{margin: 2px 0;}
+
+/** Other global rules **/
+.quick-count-widget div.quick-count-visitors-map{margin: 5px auto;}
+
+div.quick-count-by-country
+div.quick-count-by-country-element-container{
+    margin: 0 0 4px 0;
+    float: left;
+    width: 26px;
+    cursor: default;
+}
+
+div.quick-count-by-country-element-container
+div.quick-count-by-country-element-upper,
+div.quick-count-by-country-element-container
+div.quick-count-by-country-element-lower{
+    margin: 0;
+    text-align: center;
+}
+
+div.quick-count-by-country-element-container
+div.quick-count-by-country-element-upper{
+    color: #777777;
+    font-size: 90%;
+}
+
+/** Visitors map tooltip and zoom in/out buttons **/
+/* Visitors map global rules */
+#quick-count-tooltip,
+div.quick-count-visitors-map .jqvmap-zoomin,
+div.quick-count-visitors-map .jqvmap-zoomout{
+    position: absolute;
+    display: none;
+    background: #292929;
+    color: white;
+    padding: 4px;
+
+    font-family: Ubuntu, Verdana, sans-serif;
+    text-align: center;
+    font-size: 12px;
+    line-height: 12px;
+
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/* Zoom in/out buttons */
+div.quick-count-visitors-map .jqvmap-zoomin,
+div.quick-count-visitors-map .jqvmap-zoomout{
+    display: block;
+    left: 10px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+/* Zoom in button */
+div.quick-count-visitors-map .jqvmap-zoomin{
+    top: 10px;
+}
+
+/* Zoom out button */
+div.quick-count-visitors-map .jqvmap-zoomout{
+    top: 30px;
+}
+
+/* Region */
+div.quick-count-visitors-map .jqvmap-region{
+  cursor: pointer;
+}
+
+/** Link home **/
+a.quick-count-linkhome{font-style: italic; font-size: 90%;}
+
+/* Countries user count */
+div.quick-count-visitors-country{
+    font-size: 110%;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* History time filter */
+table#quick-count-filter{
+    width: 100%;
+    margin-bottom: 10px;
+    table-layout: fixed;
+}
+
+table#quick-count-filter td.quick-count-filter-label{
+    text-align: right;
+    font-weight: bold;
+}
+
+table#quick-count-filter td.quick-count-filter-input{
+    text-align: center;
+}
+
+table#quick-count-filter td.quick-count-filter-input input[readonly]{
+    background-color: #FFF;
+}
+
+/* Floats clearing code */
+div.quick-count-by-country:not(:empty):after { content: ".";  display: block; height: 0; clear: both; visibility: hidden; }
+div.quick-count-by-country:not(:empty) {display: inline-block;}
+* html div.quick-count-by-country:not(:empty) {height: 1%;}
+div.quick-count-by-country:not(:empty) {display: block;}

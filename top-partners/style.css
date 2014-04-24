@@ -1,0 +1,114 @@
+﻿#content h1
+{
+	font-size: 12pt;
+	color: #345;
+	text-decoration: underline;
+	margin-top: 30px;
+}
+
+#content h2
+{
+	font-size: 13pt;
+	color: #385C48;
+	text-decoration: underline;
+}
+
+#content h3
+{
+	font-size: 11pt;
+	color: #2E334B;
+	font-style: italic;
+}
+
+#content p
+{
+	font-size: 11pt;
+	color: #333333;
+	text-align: justify;
+	text-indent: 15px;
+}
+
+.sendMailForm
+{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+
+.sendMailForm div
+{
+	margin: 5px;
+	vertical-align: top;
+}
+
+.sendMailForm .label
+{
+	display: inline-block;
+	width: 20%;
+}
+
+.sendMailForm .input
+{
+	display: inline-block;
+	width: 75%;
+}
+
+.sendMailForm .controls
+{
+	text-align: right;
+}
+
+div.errorHint
+{
+	color: #900;
+	text-align: right;
+	font-size: 90%;
+	margin-top: 0px;
+	display: none;
+}
+
+#errorSent
+{
+	color: #040;
+	text-align: center;
+	border: 1px solid #4a4;
+	background-color: #fcfffc;
+	display: none;
+}
+
+
+#contactAddress
+{
+	width: 35%;
+}
+
+#address-part
+{
+	margin: 3px 0px 0px 5px !Important;
+	font-family: 'Times New Roman' , Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+#address-available
+{
+	margin: 3px 0px 0px 15px !Important;
+	border: 1px solid #999999;
+	background-color: #F3F3F3;
+	display: inline-block;
+	width: 25%;
+	text-align: center;
+}
+
+#address-available.available
+{
+	border: 1px solid #006600;
+	background-color: #E6FFE1;
+}
+
+#address-available.unavailable
+{
+	border: 1px solid #CC0000;
+	background-color: #FFE6E1;
+}

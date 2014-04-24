@@ -1,0 +1,10 @@
+﻿.addmenu { }
+
+.addmenu li { width: 100%; }
+
+.addmenu li a { width: 100%; display: block; }
+
+/*
+.addmenu li a { background-color: #f8f8f8; background-color: #F3F4F8; }
+.addmenu li:nth-child(2n) a { background-color: #ddd; background-color: #F2F3F7; }
+*/

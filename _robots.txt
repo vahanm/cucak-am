@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /addnew/
+Disallow: /wp-admin/
+Disallow: /yog/
+Disallow: setlng.php

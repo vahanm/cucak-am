@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Browscap 1.03\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-18 22:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marko Martinović\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap\n"
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:123
+msgid "every week"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:212
+msgid "Browser capabilities database updated."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:260
+msgid "Donate"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:273
+msgid "Settings"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:299
+msgid "Donating or getting help"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:300
+msgid "General options"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:301
+msgid "Browser capabilities database options"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:303
+msgid "Debug mode (enable only when debugging):"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:304
+msgid "Enable automatic weekly database update check:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:306
+msgid "Current database status:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:309
+msgid "Donate using PayPal (sincere thank you for your help):"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:310
+#, php-format
+msgid "%s version:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:311
+#, php-format
+msgid "%s FAQ:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:312
+#, php-format
+msgid "%s changelog:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:313
+#, php-format
+msgid "%s support page:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:318
+#, php-format
+msgid "If you find %s useful you can donate to help it's development. Also you can get help with %s:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:324
+msgid "Here you can control all general options:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:330
+msgid "Here you can control all browser capabilities database options:"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:335
+msgid "FAQ"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:343
+msgid "Changelog"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:347
+#, php-format
+msgid "%s at TechyTalk.info"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:377
+#, php-format
+msgid "Version %s (%s)"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:379
+msgid "Database missing, please update"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:384
+msgid "Update"
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:392
+msgid "Browser capabilities database already up to date."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:396
+msgid "Couldn't fetch browser capabilities database. Fetching remote content not supported or remote server is down."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:405
+msgid "Couldn't update local browser capabilities database. Please check permissions."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:474
+msgid "Couldn't update local browser capabilities database cache file. Please check permissions."
+msgstr ""
+
+#: /home/marko/public_html/wordpress/wp-content/plugins/quick-browscap/quick-browscap.php:482
+msgid "Remote browser capabilities database version not readable."
+msgstr ""

@@ -1,0 +1,57 @@
+a.bawlu_btn {
+    display: block;
+    margin-right: 20px;
+    cursor: pointer;
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+a.bawlu_btn.bawlu_underline {
+    text-decoration: underline !important;
+}
+
+a.bawlu_btn span {
+    background-position: top left;
+    display: block;
+    padding: 0px 0px 0px 5px;
+}
+
+a.bawlu_btn span.bawlu img{
+    position: relative;
+    top: 3px;
+    padding-right: 3px;
+}
+
+a.bawlu_btn:hover {
+    background-position: right bottom !important;
+    opacity: 1 !important;
+    text-decoration: none !important;
+}
+
+a.bawlu_btn:hover span.bawlu {
+    background-position: left bottom !important;
+}
+
+a.bawlu_btn.bawlu_fade {
+    opacity: 0.6;
+}
+
+a.bawlu_focus span.bawlu_right {
+    background-position: right center !important;
+}
+
+a.bawlu_focus span.bawlu_left {
+    background-position: left center !important;
+}
+
+a.bawlu_btn:hover span.bawlu_left {
+    background-position: left bottom !important;
+}
+
+a.bawlu_btn:hover span.bawlu_right {
+    background-position: right bottom !important;
+}
+
+p.bawlu_pics{
+    border: 1px dashed #dddddd;
+}

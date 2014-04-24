@@ -1,0 +1,529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Email Template LITE v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-01 13:37+0700\n"
+"PO-Revision-Date: 2013-04-01 13:58+0700\n"
+"Last-Translator: Nguyen Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: it_IT\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:105
+msgid "Email Template Settings Successfully saved."
+msgstr "Impostazioni Email Template salvate con successo."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:108
+msgid "Email Template Settings Successfully reseted."
+msgstr "Impostazioni Email Template resettate con successo."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:139
+msgid "Email Template Settings"
+msgstr "Impostazioni Email Template"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:142
+msgid "Live Preview"
+msgstr "Anteprima messaggio"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:143
+msgid "For a live preview of changes save them and then"
+msgstr "Per vedere una anteprima delle modifiche salvare e poi"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:143
+msgid "Click here to preview your email template."
+msgstr "Fai clic qui per vedere in anteprima il tuo modello."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:144
+msgid "Template Header"
+msgstr "Testata del modello"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:148
+msgid "Header image"
+msgstr "Immagine Testata"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:150
+#, fuzzy
+msgid "Header Image"
+msgstr "Immagine Testata"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:150
+#, fuzzy
+msgid "The image you want to show in the email's header"
+msgstr "immetti l'URL dell'immagine che vuoi inserire nella testata delle email. carica l'immagina utilizzando il "
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:155
+msgid "Template Background"
+msgstr "Sfondo del modello"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:159
+msgid "Background colour"
+msgstr "Colore di sfondo"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:161
+#, fuzzy
+msgid "Email template background colour. Default"
+msgstr "Colore del pattern dello sfondo del modello. Default"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:171
+#, fuzzy
+msgid "Deactivate background Pattern"
+msgstr "Colore del pattern dello sfondo del modello. Default"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:174
+#, fuzzy
+msgid "Check to deactivate template background pattern"
+msgstr "Colore del pattern dello sfondo del modello. Default"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:179
+msgid "Email Header"
+msgstr "Testata Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:183
+msgid "Header background colour"
+msgstr "Colore di sfondo della testata"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:185
+#: admin/classes/class-email-settings.php:202
+#: admin/classes/class-email-settings.php:220
+#: admin/classes/class-email-settings.php:231
+#: admin/classes/class-email-settings.php:237
+#: admin/classes/class-email-settings.php:266
+#: admin/classes/class-email-settings.php:284
+#: admin/classes/class-email-settings.php:295
+#: admin/classes/class-email-settings.php:301
+#: admin/classes/class-email-settings.php:308
+msgid "Default"
+msgstr "Default"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:190
+msgid "Header title font"
+msgstr "Font del titolo nella testata"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:206
+#: admin/classes/class-email-settings.php:270
+msgid "Font size"
+msgstr "Dimensioni del font"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:224
+#: admin/classes/class-email-settings.php:288
+msgid "Font style"
+msgstr "Stile del font"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:227
+#: admin/classes/class-email-settings.php:291
+msgid "Normal"
+msgstr "Normale"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:228
+#: admin/classes/class-email-settings.php:231
+#: admin/classes/class-email-settings.php:292
+#: admin/classes/class-email-settings.php:295
+msgid "Italic"
+msgstr "Corsivo"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:229
+#: admin/classes/class-email-settings.php:293
+msgid "Bold"
+msgstr "Grassetto"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:230
+#: admin/classes/class-email-settings.php:294
+msgid "Bold/Italic"
+msgstr "Grassetto/Corsivo"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:235
+msgid "Colour"
+msgstr "Colore"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:243
+msgid "Email Body"
+msgstr "Corpo dell'Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:247
+msgid "Email body background colour"
+msgstr "Colore di sfondo del corpo Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:249
+msgid "The main body background colour. Default"
+msgstr "Il colore di sfondo del copro principale dell'Email. Default"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:254
+msgid "Font"
+msgstr "Font"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:299
+msgid "Email body text colour"
+msgstr "Colore del testo del copro Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:306
+#, fuzzy
+msgid "Email body link text colour"
+msgstr "Colore del testo del copro Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:316
+msgid "Follow Us On"
+msgstr "Seguici su"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:320
+msgid "Facebook URI"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:321
+msgid "Enter your facebook URL to show that linked icon in footer."
+msgstr "Inserisci il tuo URL per mostrare l'icona di collegamento nel footer."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:325
+msgid "Twitter URI"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:326
+msgid "Enter your Twitter URL to show that linked icon in footer."
+msgstr "Inserisci il tuo URL per mostrare l'icona di collegamento nel footer."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:330
+msgid "LinkedIn URI"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:331
+msgid "Enter your Linkedin URL to show that linked icon in footer."
+msgstr "Inserisci il tuo URL per mostrare l'icona di collegamento nel footer."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:335
+msgid "Pinterest URI"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:336
+msgid "Enter your Pinterest URL to show that linked icon in footer."
+msgstr "Inserisci il tuo URL per mostrare l'icona di collegamento nel footer."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:340
+msgid "Google+1 URI"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:341
+msgid "Enter your Google+1 URL to show that linked icon in footer."
+msgstr "Inserisci il tuo URL Google+1 per mostrare l'icona di collegamento nel footer."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:346
+msgid "Email Footer Content"
+msgstr "Contenuto del Footer dell'Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:350
+msgid "Email footer text"
+msgstr "Testo del footer dell'Email"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:353
+#, fuzzy
+msgid "The text to appear in the footer of the email template. Allowed HTML tags <p> <strong> <i> <u>"
+msgstr "Il testo che appare nel fotter del modello. Accetta i tag HTML  <p> <strong> <i> <u>"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:358
+msgid "WooCommerce Configuration"
+msgstr "Configurazione WooCommerce"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:362
+msgid "Apply to WooCommerce emails"
+msgstr "Applica alle email WooCommerce"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:364
+msgid "Yes"
+msgstr "Si"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:365
+msgid "No"
+msgstr "No"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:366
+msgid "If WooCommerce is installed, select YES to apply this template to all WooCommerce emails."
+msgstr "Se &egrave; installato WooCommerce, seleziona SI per applicare questo modello a tutte le email di WooCommerce."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:371
+msgid "Help Promote This Plugin"
+msgstr "Aiuta a Promuovere Questo Plugin"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:375
+#: classes/class-email-functions.php:110
+msgid "WP Email Template"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:378
+msgid "Help spread the word by showing this at the bottom of your emails. The text is linked to the plugins WordPress.org page."
+msgstr "Aiuta a spargere la notizia mostrando questo link in fondo alle tue email. Il testo &egrave; connesso con la pagina dei plugin di WordPress.org."
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:384
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:385
+msgid "Reset Settings"
+msgstr "Reimposta"
+
+#: admin/classes/class-email-settings.php:396
+msgid "Upgrade to WP Email Template Pro"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:397
+msgid "Visit the"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:397
+msgid "a3rev website"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:397
+msgid "to see all the extra features the Pro version of this plugin offers inside this yellow box."
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:398
+#, fuzzy
+msgid "Plugin Documentation"
+msgstr "Documentazione"
+
+#: admin/classes/class-email-settings.php:399
+msgid "All of our plugins have comprehensive online documentation. Please refer to the plugins docs before raising a support request"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:399
+msgid "Visit the a3rev wiki."
+msgstr ""
+
+#: admin/classes/class-email-settings.php:400
+msgid "More a3rev Quality Plugins"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:401
+msgid "Below is a list of the a3rev plugins that are available for free download from wordpress.org"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:402
+msgid "WordPress Plugins"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:405
+msgid "Page View Count"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:409
+#, fuzzy
+msgid "WooCommerce Plugins"
+msgstr "Configurazione WooCommerce"
+
+#: admin/classes/class-email-settings.php:412
+msgid "WooCommerce Dynamic Products Gallery"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:413
+msgid "WooCommerce Predictive Search"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:414
+#, fuzzy
+msgid "WooCommerce Compare Products"
+msgstr "Configurazione WooCommerce"
+
+#: admin/classes/class-email-settings.php:415
+msgid "WooCommerce Widget Product Slideshow"
+msgstr ""
+
+# @ wp_email_template
+#: admin/classes/class-email-settings.php:416
+#, fuzzy
+msgid "WooCommerce Email Inquiry & Cart Options"
+msgstr "Configurazione WooCommerce"
+
+#: admin/classes/class-email-settings.php:420
+msgid "WP e-Commerce Plugins"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:423
+msgid "WP e-Commerce Dynamic Gallery"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:424
+msgid "WP e-Commerce Predictive Search"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:425
+msgid "WP e-Commerce Compare Products"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:426
+msgid "WP e-Commerce Catalog Visibility & Email Inquiry"
+msgstr ""
+
+#: admin/classes/class-email-settings.php:427
+msgid "WP e-Commerce Grid View"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:88
+msgid "Facebook"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:92
+msgid "Twitter"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:96
+msgid "LinkedIn"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:100
+msgid "Pinterest"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:104
+msgid "Google+"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-functions.php:108
+msgid "Follow us on"
+msgstr "Seguici su"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:23
+msgid "Email Template"
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-hook.php:50
+msgid "Attention! You have selected to apply your WP Email Template to all WooCommerce Emails. Go to Settings in your WordPress admin sidebar > Email Template to customize this template or to reactivate the WooCommerce Email Template."
+msgstr "Attenzione! Hai scelto di applicare il modello a tutti le email di WooCommerece. Vai alle impostazioni di amministrazione di WordPress >Email Template per personalizzare questo modello o per riattivare il modello di WooCommerce"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:88
+msgid "Email preview"
+msgstr "Anteprima Email"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:90
+msgid "WordPress Email sit amet"
+msgstr "Email WordPress sit amet"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:92
+msgid ""
+"Ut ut est qui euismod parum. Dolor veniam tation nihil assum mazim. Possim fiant habent decima et claritatem. Erat me usus gothica laoreet consequat. Clari facer litterarum aliquam insitam dolor. \n"
+"\n"
+"Gothica minim lectores demonstraverunt ut soluta. Sequitur quam exerci veniam aliquip litterarum. Lius videntur nisl facilisis claritatem nunc. Praesent in iusto me tincidunt iusto. Dolore lectores sed putamus exerci est. "
+msgstr ""
+
+# @ wp_email_template
+#: classes/class-email-hook.php:166
+msgid "Documentation"
+msgstr "Documentazione"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:167
+msgid "Support"
+msgstr "Supporto"
+
+# @ wp_email_template
+#: classes/class-email-hook.php:172
+#, fuzzy
+msgid "Settings"
+msgstr "Reimposta"
+
+# @ wp_email_template
+#: uploader/class-uploader.php:18
+#, fuzzy
+msgid "WP Email Template Internal Container"
+msgstr "Impostazioni Email Template"
+
+#: uploader/class-uploader.php:73
+msgid "Upload"
+msgstr ""
+
+#: uploader/class-uploader.php:78
+msgid "Remove"
+msgstr ""
+
+#: uploader/class-uploader.php:93
+msgid "View File"
+msgstr ""
+
+#: uploader/class-uploader.php:109
+msgid "Use this Image"
+msgstr ""
+
+#: uploader/class-uploader.php:110
+msgid "Use as"
+msgstr ""
+
+#: uploader/class-uploader.php:117
+msgid "Previously Uploaded"
+msgstr ""
+

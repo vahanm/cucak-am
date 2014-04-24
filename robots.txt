@@ -1,0 +1,26 @@
+Sitemap: http://cucak.am/sitemap/
+Sitemap: http://cucak.am/sitemap/txt.php
+Sitemap: http://cucak.am/sitemap/txt.authors.php
+
+User-agent: *
+Disallow: /addnew/
+Disallow: /sitemap/
+Disallow: /wp-admin/
+Disallow: /yog/
+Disallow: /cron/
+Disallow: /ajax/
+Disallow: /analitics/
+Disallow: *setlng.php$
+Disallow: *send_email.php$
+
+Disallow: /1
+Disallow: /2
+Disallow: /?author=1
+Disallow: /?author=2
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: sogou web spider
+Disallow: /
+

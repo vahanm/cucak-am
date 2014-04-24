@@ -1,0 +1,117 @@
+﻿body {
+    margin: 1px;
+    padding: 1px;
+    font-family: Tahoma;
+}
+
+.bing-search-label {
+    float: right;
+    margin: 1px;
+    color: #3f7eff;
+    text-decoration: underline;
+    font-size: 10pt;
+}
+
+.error {
+    margin: 2px;
+    padding: 5px;
+    border: 1px dashed #FF0000;
+    background-color: #FFFFCC;
+    color: #800000;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+.info {
+    margin: 2px;
+    padding: 5px;
+    border: 1px dashed #00FF00;
+    background-color: #FFFFCC;
+    color: #008000;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+.content {
+    overflow: scroll;
+    height: 200px;
+    border-width: 3px;
+    border-style: double none none none;
+    border-color: #C0C0C0;
+}
+
+.article {
+    margin: 2px;
+    padding: 5px;
+    border: 1px solid #CCCCCC;
+    cursor: pointer;
+}
+
+.title {
+    font-weight: normal;
+    font-size: 12pt;
+}
+
+.description {
+    color: #666;
+    font-weight: normal;
+    font-size: 10pt;
+}
+
+.result-image {
+    height: 100px;
+    border: 1px solid #ccc;
+}
+
+.result-link {
+    position: relative;
+    display: inline-block;
+    margin: 2px;
+    padding: 1px;
+    border: 1px solid #aaa;
+}
+
+.result-title {
+    font-size: 10pt;
+}
+
+.result-size {
+    background-color: #FFFFFF;
+    color: #000;
+    text-align: center;
+    text-decoration: blink;
+    font-size: 7pt;
+}
+
+.result-add {
+    margin: 2px;
+    padding: 1px;
+    border: 1px solid #2C752C;
+    background-color: #6EC75D;
+    color: #000;
+    text-align: center;
+    font-size: 10pt;
+    cursor: pointer;
+}
+
+.result-add:hover {
+    background-color: #92d185;
+}
+
+.result-add:active {
+    background-color: #55a047;
+}
+
+.lb-outerContainer {
+    max-width: 400px;
+    max-height: 240px;
+}
+
+#lightbox img {
+    max-width: 379px;
+    max-height: 220px;
+    width: auto;
+    height: auto;
+}

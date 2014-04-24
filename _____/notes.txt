@@ -1,0 +1,48 @@
+http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE71E8/9200.16384.WIN8_RTM.120725-1247_X64FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X64FREE_EN-US_DV5.ISO?cid=1033
+
+
+
+http://www.degraeve.com/reference/specialcharacters.php
+
+---------------------------------------------------------
+
+apply_filters('get_search_form', $form);
+
+
+query.php Line=1366
+
+http://codex.wordpress.org/Custom_Queries
+
+
+
+---------
+Translate menus
+
+nav-menu-template.php
+Line: 199
+
+Translate categories
+
+category-template.php
+Line: 76
+
+category.php
+Line: 81
+
+category.php
+Line: 57
+
+
+--------
+
+/wp-includes/template-loader.php
+
+ejeri tesaknery voroshox php-n
+
+
+------------------------
+
+
+voronman algoritmery
+
+wp-include/query.php:2190

@@ -1,0 +1,41 @@
+#php_value display_errors "On"
+#php_value date.timezone "Asia/Yerevan"
+
+RewriteEngine on 
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?pagecode=$1 [L,QSA]
+
+<Limit GET POST>
+#The next line modified by DenyIP
+order allow,deny
+#The next line modified by DenyIP
+#deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+
+# BEGIN WordPress
+
+# END WordPress
+AuthName cucak.am
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 85.132.0.0/17
+deny from 188.143.232.31
+deny from 5.135.180.216
+deny from 188.143.234.127
+deny from 91.200.13.40
+deny from 111.73.45.54
+deny from 159.224.

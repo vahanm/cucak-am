@@ -1,0 +1,248 @@
+/*
+Theme Name: FirmaSite
+Theme URI: http://theme.firmasite.com/
+Description: Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 different layout: content-sidebar,sidebar-content, full content (long), full content(short). 13 different theme styles, Google Fonts, logo upload abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options are using WordPress Theme Customizer feature so you can watch changes live! Designers: This theme built on Twitter Bootstrap, have 0 custom css code and using template_part system so you can easily use it as parent theme! You can find detailed information, showcase, live demo, tips and tricks about theme in: http://theme.firmasite.com/
+Text Domain: firmasite
+Version: 1.1.10
+Author: FirmaSite
+Author URI: http://firmasite.com/
+Tags: buddypress, post-formats, custom-background, custom-colors, custom-menu, editor-style, featured-images, front-page-post-form, full-width-template, translation-ready, theme-options, threaded-comments, fixed-width, flexible-width, one-column, two-columns, left-sidebar, right-sidebar, black, blue, gray, green, orange, purple, red, silver ,white, yellow, dark, light
+
+
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl.txt
+
+You can find detailed information, showcase, live demo, 
+tips and tricks about theme in:
+http://theme.firmasite.com/
+
+This theme is licensed under the GPL.
+I would be so happy if you dont remove designer link :)
+
+WARNING for editing this theme:
+We dont recommend edit files of this theme. 
+You can add custom css from Theme Customizer panel. 
+For adding custom bootstrap styles or changing theme display system,
+We recommend you to use Child Theme:
+	http://theme.firmasite.com/child-theme/
+	http://codex.wordpress.org/Child_Themes  
+*/
+
+
+/* top navigation running but hide by default */
+.nav-top.nav-previous, .nav-top.nav-next { display:none; }
+
+/* Removed home-page breadcrumb */
+.home-page #breadcrumbs {display:none;}
+
+
+/* Fixed Topbar Navigation */
+body.admin-bar #masthead { padding-top: 10px; }
+body.admin-bar .navbar-fixed-top { top: 28px; }
+
+
+/* Logo */
+.logo-text {
+	font-size: 200% !important;
+	line-height:100% !important;
+	display:inline-block !important;	
+}
+
+/* Tinymce Bootstrap Fixes for wp-admin */
+body.mceContentBody { margin: 30px !important; padding:10px; }
+
+
+/* wp-styles */
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+.wp-caption { max-width:100% !important; }
+.wp-caption-text {}
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
+
+iframe, object, embed { max-width:100%;}
+.page-links { clear: both; }
+
+/* Assistive text */
+.assistive-text,
+.site .screen-reader-text {
+	position: absolute !important;
+	clip: rect(1px, 1px, 1px, 1px);
+}
+
+/* input form fix */
+input[type="text"] { height:auto; }
+
+/* gallery fixes */
+.thumbnail.item img { margin: 0 auto; }
+
+/* Fixed thumbnail margin-right */
+.thumbnail.pull-left { margin-right: 5px; }
+
+/* only-content layout 
+only-content = .row .span8
+*/
+.site-only-content .container { max-width: 620px; }
+@media (min-width: 1200px) { .site-only-content .container { max-width: 770px; } }
+@media (min-width: 768px) and (max-width: 979px) { .site-only-content .container { max-width: 476px; } }
+
+/* only-content-long layout 
+only-content-long = .row .span12
+*/
+.site-only-content-long .container { max-width: 940px; }
+@media (min-width: 1200px) { .site-only-content-long .container { max-width: 1170px; } }
+@media (min-width: 768px) and (max-width: 979px) { .site-only-content-long .container { max-width: 724px; } }
+
+
+
+/* Footer dropup menu fix */
+.dropup .nav > li > .dropdown-menu:before {
+  top: auto;
+  bottom: -7px;
+  border-top: 7px solid;
+  border-bottom: 0;
+}
+
+.dropup .nav > li > .dropdown-menu:after {
+  top: auto;
+  bottom: -6px;
+  border-top: 6px solid;
+  border-bottom: 0;
+}
+
+
+/**
+* Theme fixes
+**/
+#page * { font-family:inherit; }
+.cosmo-theme .label { min-width:inherit; min-height:inherit; }
+.superhero-theme .pager a {	color:#e36b23; }
+.journal-theme .dropdown-submenu>.dropdown-menu { top: 0; }
+.journal-theme .dropup.navbar .dropdown-menu { top: auto; bottom: 85%; }
+.journal-theme .dropup .dropdown-submenu>.dropdown-menu { bottom: 0; }
+.amelia-theme .muted {color: #aaa;}
+.amelia-theme .muted.well, .amelia-theme .well .muted {color: #fff;}
+.amelia-theme {color: #444;}
+.amelia-theme legend, label,.amelia-theme .help-block,.amelia-theme .input-file { color: inherit; }
+.spruce-theme .muted {color: #555;}
+.spruce-theme .modal, .spruce-theme .modal h1, .spruce-theme .modal h2, .spruce-theme .modal h3, .spruce-theme .modal h4, .spruce-theme .modal h5, .spruce-theme .modal h6{ color: #C4C4C4; }
+
+
+/* Responsive video */
+.flex-video {
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+ 
+.flex-video iframe,
+.flex-video object,
+.flex-video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+  .flex-video { padding-top: 0; }
+}
+
+
+#wplogo {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: bottom;
+	background-repeat: no-repeat;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2BJREFUeNpcU11MU2cYfs5PhRXoD1iko5QWKj+6tjJ/ICqaOOdwms3oxTYniZnLsmQXSyR6tSxm2YUxmTdLlgzmLuayzSyZPxNdNMQwSAe6AaUxUCn9NdaD0Ha0pVDac/Z+Ry7MTvKcnO/9nuc57/t978vZz/Thf08z4SPCXsKWtdgEYZDQS/C/SBbZq8PpVhcjPu9pgec/O7C5fvKd9ma+vlRJs3hkmeOvjPq33nkY+asoy18S/+IaH9xaBusI182GsobvP+jivcG4wzMdRUhKYKVQRGNNJfa7HXDba2a6+24p8VQ2SPy3CXnBuOstZvCVo9rwypWPD1vPXx02Dz4MYyGTg6wAHMcjlV3BWDCO1aJc1XeqS9vvDa4kssuNpLvDMnBS2oPj57qlS/e8LYWiDI8/hh0bayHyvFpagswmwhJ+6zmKEo2IXL4Qc33+QzmVs5sxTr3pso+LAtfy6cFt2NVcC17UQAGP04e2o+fwDsiUBS+K8D9Nqobp3Eod0zAtM+jq3tmq/2bAp25qS0uwSuKRoITRWUmNGcpegkCmv96fVdfj0XkwDdMyA7u7rto+EppHdCGDFrMRujItOEEDz0wciqJg3yYLHQaPWCqrGgwH5tC0obKBPmvVIqkmTtSsw8D0E2gEHnuazIAiw1alVQVt9SaUCwrWV2gRmU8jNJeEwHNsS2AG0UdSImg16eGJJOnkFXSSQXE1j1pdCW78eZ9YPNosBnSYS9E/NoOy4hKm4gvsKqPM4I/Lnql/OxurkckrGH+covT0eNVmwkQggt+H/gH71xtbHHDaLBgYm8KeViuYhsJ3mUHvbV/I3V5f+chaVQ5POKGm/cnrbfg7NIdgYgnJbA6brRvwLJuHUa/Dga2tfqYh2iVm4KO7//n93puZM/uaMvHFZeRWi+qhxXOARleFoakYNRQwm1zCF++9ljnR158lzY9My6/NRM+MlJo79vXV2MltlkBBBqalReiN61FjqYOUk1lLosNuChz/9maEcUlzlgnVWWDD9FP3djSc/U4dpoNOm/fd9hbdTsfLNkbyBJ6EfxmdXrztC7vZMAUvfHjx+OUHz4eJ9Q6hnPULwVjh3O2qcHUeEQ0mVyGdsKgjW1H5uJB6NpmeHLqW9g1PUoi1ZIqQ+U+AAQBxOVz5xw02pQAAAABJRU5ErkJggg==);
+}
+
+/* promotionbar */
+.carousel-mini {
+  min-height: 100px;
+  margin-bottom: 0;
+  margin-top: 15px;
+  _height: 100px;
+}
+
+.carousel-mini .thumbnail {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+
+.carousel-mini .carousel-title {
+  margin-top: 0;
+  padding-bottom: 10px;
+}
+.carousel-mini .carousel-inner > .item > .thumbnail {
+  text-align: center;
+}
+.carousel-mini .carousel-control {
+  position: absolute;
+  left: auto;
+  top: -5px;
+  right: 20px;
+  width: 15px;
+  height: 20px;
+  margin-top: 0;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 16px;
+  text-align: center;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=60);
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+.carousel-mini .carousel-control.right {
+  right: 0;
+}
+.carousel-mini .carousel-control:hover {
+  text-decoration: none;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=90);
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+
+
+/* make modals usable */
+.firmasite-modal-static {
+	position: inherit !important; 
+	top: inherit !important; 
+	left: inherit !important; 
+	right: inherit !important; 
+	margin: 0 auto 20px !important; 
+	z-index: inherit !important; 
+	max-width: 100% !important;
+	word-wrap: break-word;
+	width:100% !important; 
+	display: inline-block;
+}
+
+.firmasite-modal-static .modal-footer {
+	border-radius: 6px;
+	text-align: inherit;
+}
+.firmasite-modal-static .bbp-reply-author {
+	text-align:center;
+} 
+.firmasite-modal-static .modal-body {
+	overflow-y: inherit !important; 
+	max-height: inherit;
+}
+.firmasite-modal-static .modal-body.alert {
+	margin-bottom: 0; 
+}
+
+/* ie fixes */
+.browser_ie #firmasite-promotionbar img.wp-post-image { width: 100%; height:auto; max-width:none; }
+.browser_ie .bbp-replies .bbp-author-avatar img { width: 80px; height:auto; max-width:none; }
+.browser_ie .bbp-topics .bbp-author-avatar img { width: 14px; height:auto; max-width:none; }
+.browser_ie .bbp-forums .bbp-author-avatar img { width: 14px; height:auto; max-width:none; }
+.browser_ie .firmasite-modal-static .modal-footer { text-align: left; }

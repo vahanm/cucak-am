@@ -1,0 +1,47 @@
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu div.wp-menu-arrow,
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu a.wp-menu-open {
+background-color: #d90062;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#d90062), to(#ff0072)); /* Saf4+, Chrome */
+background-image: -webkit-linear-gradient(top, #d90062, #ff0072); /* Chrome 10+, Saf5.1+ */
+background-image:    -moz-linear-gradient(top, #d90062, #ff0072); /* FF3.6 */
+background-image:     -ms-linear-gradient(top, #d90062, #ff0072); /* IE10 */
+background-image:      -o-linear-gradient(top, #d90062, #ff0072); /* Opera 11.10+ */
+background-image:         linear-gradient(top, #d90062, #ff0072);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d90062', EndColorStr='#ff0072'); /* IE6–IE9 */
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu .wp-menu-arrow div{
+background-color: #d90062;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#d90062), to(#ff0072)); /* Saf4+, Chrome */
+background-image: -webkit-linear-gradient(top, #d90062, #ff0072); /* Chrome 10+, Saf5.1+ */
+background-image:    -moz-linear-gradient(top, #d90062, #ff0072); /* FF3.6 */
+background-image:     -ms-linear-gradient(top, #d90062, #ff0072); /* IE10 */
+background-image:      -o-linear-gradient(top, #d90062, #ff0072); /* Opera 11.10+ */
+background-image:         linear-gradient(top, #d90062, #ff0072);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d90062', EndColorStr='#ff0072'); /* IE6–IE9 */
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu a.wp-menu-open {
+border-top-color: #ff0072;
+border-bottom-color: #d90062;
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu .wp-menu-toggle {
+background-image: url(images/arrows-light.png);
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu div.wp-menu-image a {
+background: url(images/bw-menu-icon.png) no-repeat 7px 7px;
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu div.wp-menu-image a {
+background-position: 7px -19px;
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu div.wp-menu-image a img {
+display: none;
+}
+
+#adminmenu #toplevel_page_bw_plugin_menu.wp-has-current-submenu a.menu-top {
+text-shadow: 0 -1px 0 #b30050;
+}

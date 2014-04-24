@@ -499,8 +499,14 @@ class wpdb {
 		$this->dbpassword = $dbpassword;
 		$this->dbname = $dbname;
 		$this->dbhost = $dbhost;
-
+		
+		
+		analitics_begin('SQL Connect');
+		
 		$this->db_connect();
+				
+		analitics_end('SQL Connect');
+		
 	}
 
 	/**
@@ -1075,7 +1081,10 @@ class wpdb {
 		// some queries are made before the plugins have been loaded, and thus cannot be filtered with this method
 		if ( function_exists( 'apply_filters' ) )
 			$query = apply_filters( 'query', $query );
-
+		
+		analitics_begin('SQL Query');
+		analitics_begin($query);
+		
 		$return_val = 0;
 		$this->flush();
 
@@ -1130,6 +1139,9 @@ class wpdb {
 			$return_val     = $num_rows;
 		}
 
+		analitics_end('SQL Query');
+		analitics_end($query);
+		
 		return $return_val;
 	}
 

@@ -1,0 +1,40 @@
+=== FirmaSite WordPress Theme License Information === 
+
+FirmaSite WordPress Theme, Copyright (C) 2013 FirmaSite (http:// firmasite.com)
+License: GNU General Public License, v3 (or newer)
+License URI: http://www.gnu.org/licenses/gpl.txt
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+
+=== Bundled Scripts ===
+
+== /assets/bootstrap/ ==
+Bootstrap, Copyright 2012 Twitter, Inc.
+
+Source: http://getbootstrap.com
+License: Apache License, Version 2.0 (the "License")
+License URI: http://www.apache.org/licenses/LICENSE-2.0
+
+== /assets/bootstrapformhelpers/ ==
+BootstrapFormHelpers, Copyright 2012 Vincent Lamanna, Inc.
+
+Source: http://vincentlamanna.com/BootstrapFormHelpers/
+License: Apache License, Version 2.0 (the "License")
+License URI: http://www.apache.org/licenses/LICENSE-2.0
+
+== /assets/mediaelement/ ==
+MediaElement, Copyright 2010-2012, John Dyer (http://j.hn)
+
+Source: http://mediaelementjs.com/
+License: MIT
+License URI: didnt given. example MIT license: http://opensource.org/licenses/MIT
+
+== /assets/themes/ == 
+(except /assets/themes/default/, its Bootstrap, see: == /assets/bootstrap/ ==)
+Bootswatch, Copyright 2012 Thomas Park
+
+Source: http://bootswatch.com/
+License: Apache License, Version 2.0 (the "License")
+License URI: http://www.apache.org/licenses/LICENSE-2.0

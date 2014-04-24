@@ -1,0 +1,11 @@
+﻿.cucak-banner-mini
+{
+	padding: 2px 4px 4px 4px;
+	border: 1px solid #999999;
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+	border-radius: 4px 0px 4px 0px;
+	background-color: #D9FFCE;
+	display: block;
+}

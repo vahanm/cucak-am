@@ -73,8 +73,12 @@ function get_category_parents( $id, $link = false, $separator = '/', $nicename =
  */
 function get_the_category( $id = false ) {
 	$categories = get_the_terms( $id, 'category' );
+	
 	if ( ! $categories )
 		$categories = array();
+	
+	foreach($categories as $c)
+		$c->name = __($c->name);
 
 	$categories = array_values( $categories );
 
